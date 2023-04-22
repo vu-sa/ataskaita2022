@@ -16,7 +16,7 @@ export default {
 
         sidebar: [
             {
-                text: 'VU SR',
+                text: 'VU SR ⭐️',
                 items: [
                     { text: 'About VU SR', link: '/en/vu-sa/vu-sa' },
                     { text: 'Parliament', link: '/en/vu-sa/parlamentas' },
@@ -25,14 +25,14 @@ export default {
                 ]
             },
             {
-                text: 'Year plan',
+                text: 'Year plan 📝',
                 items: [
                     { text: 'VU SR goals', link: '/en/mvp/mvp' },
                     { text: 'Goals in VU SR units', link: '/en/mvp/tikslai-padaliniuose' },
                 ]
             },
             {
-                text: 'Implementation of strategic directions',
+                text: 'Implementation of strategic directions 🎯',
                 items: [
                     {
                         text: 'High quality studies and their environment',

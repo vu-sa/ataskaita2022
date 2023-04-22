@@ -10,7 +10,7 @@ const ltConfig: LocaleSpecificConfig<DefaultTheme.Config> = {
             { text: 'Strateginės kryptys', items: [
                 { text: 'Kokybiškos studijos ir joms pritaikyta aplinka', link: '/kokybiskos-studijos/nacionalinis' },
                 { text: 'Stipri organizacija', link: '/stipri-organizacija/vu-sa-projektai' },
-                { text: 'Darni universitetinė bendruomenė', link: '/darni-universitetine-bendruomene' },
+                { text: 'Darni universitetinė bendruomenė', link: '/darni-bendruomene/darni-bendruomene' },
             ] },
             { text: 'Bendruomenė', link: '/bendruomene' },
             { text: 'Padėka', link: '/padeka' },
