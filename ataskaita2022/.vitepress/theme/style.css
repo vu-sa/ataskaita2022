@@ -8,13 +8,13 @@
  * -------------------------------------------------------------------------- */
 
  :root {
-  --vp-c-brand: #646cff;
-  --vp-c-brand-light: #747bff;
-  --vp-c-brand-lighter: #9499ff;
-  --vp-c-brand-lightest: #bcc0ff;
-  --vp-c-brand-dark: #535bf2;
-  --vp-c-brand-darker: #454ce1;
-  --vp-c-brand-dimm: rgba(100, 108, 255, 0.08);
+  --vp-c-brand: #bd2835;
+  --vp-c-brand-light: #cd3945;
+  --vp-c-brand-lighter: #c77b81;
+  --vp-c-brand-lightest: #ffadb3;
+  --vp-c-brand-dark: #9e0f1b;
+  --vp-c-brand-darker: #75050e;
+  --vp-c-brand-dimm: rgba(245, 255, 100, 0.08);
 }
 
 /**
@@ -88,4 +88,3 @@
 .DocSearch {
   --docsearch-primary-color: var(--vp-c-brand) !important;
 }
-
