@@ -1,10 +1,11 @@
 {
   "devDependencies": {
     "autoprefixer": "^10.4.14",
+    "eslint-plugin-markdownlint": "^0.4.1",
     "naive-ui": "^2.34.3",
+    "postcss": "^8.4.23",
     "postcss-flexbugs-fixes": "^5.0.2",
     "postcss-preset-env": "^7.7.2",
-    "postcss": "^8.4.23",
     "tailwindcss": "^3.3.1",
     "vitepress": "^1.0.0-alpha.73",
     "vue": "^3.2.47"
@@ -13,5 +14,8 @@
     "docs:dev": "vitepress dev ataskaita2022",
     "docs:build": "vitepress build ataskaita2022",
     "docs:preview": "vitepress preview ataskaita2022"
+  },
+  "dependencies": {
+    "@vueuse/core": "^10.1.0"
   }
 }
