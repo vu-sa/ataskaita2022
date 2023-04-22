@@ -7,6 +7,7 @@ export const sharedConfig = {
       search: {
         provider: 'local',
         options: {
+          disableDetailedView: true,
           locales: {
             root: {
               translations: {

@@ -16,6 +16,7 @@ export default defineConfig({
       label: 'Lietuvių',
       lang: 'lt',
       ...ltConfig
+
     },
     en: {
       label: 'English',

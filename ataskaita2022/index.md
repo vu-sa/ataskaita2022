@@ -3,9 +3,12 @@
 layout: home
 
 hero:
-  name: "VU SA ataskaita 2022"
-  text: "VU SA ataskaita 2022"
+  name: "VU SA 2022-2023"
+  text: "Ataskaita už 2022-2023 metus"
   tagline: My great project tagline
+  image:
+    src: /img/kitos-nuotraukos/KNYGUTES VIRSELIS-01.jpg
+    alt: VU SA ataskaita 2022
   actions:
     - theme: brand
       text: Markdown Examples
@@ -22,4 +25,3 @@ features:
   - title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
-

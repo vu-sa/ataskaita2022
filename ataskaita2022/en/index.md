@@ -6,6 +6,9 @@ hero:
   name: "VU SA ataskaita 2022"
   text: "VU SA ataskaita 2022"
   tagline: My great project tagline
+  image:
+    src: /img/kitos-nuotraukos/KNYGUTES VIRSELIS-01.jpg
+    alt: VU SA ataskaita 2022
   actions:
     - theme: brand
       text: Markdown Examples
