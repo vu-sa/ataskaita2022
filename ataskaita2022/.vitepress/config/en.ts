@@ -6,8 +6,8 @@ export default {
             { text: 'Year plan', link: '/en/mvp/mvp' },
             { text: 'Strategic directions', items: [
                 { text: 'High quality studies and its environment', link: '/en/kokybiskos-studijos/nacionalinis' },
-                { text: 'Strong organization', link: '/en/stipri-organizacija' },
-                { text: 'Sustainable University community', link: '/en/darni-universitetine-bendruomene' },
+                { text: 'Strong organization', link: '/en/vu-sa-projektai' },
+                { text: 'Sustainable University community', link: '/en/darni-bendruomene/darni-bendruomene' },
             ] },
             { text: 'Community', link: '/en/bendruomene' },
             { text: 'Acknowledgments', link: '/en/padeka' },
@@ -36,6 +36,7 @@ export default {
                 items: [
                     {
                         text: 'High quality studies and their environment',
+                        collapsed: false,
                         items: [
                             { text: 'Representation in the national space and city government', link: '/en/kokybiskos-studijos/nacionalinis' },
                             { text: 'Representation at VU', link: '/en/kokybiskos-studijos/vu' },
@@ -46,12 +47,23 @@ export default {
                     },
                     {
                         text: 'Strong organization',
+                        collapsed: false,
                         items: [
                             { text: 'VU SR projects', link: '/en/stipri-organizacija/vu-sa-projektai' },
                             { text: 'Representation at VU', link: '/en/stipri-organizacija/projektu-atnaujinimas' },
                             { text: 'Cooperation', link: '/en/kokybiskos-studijos/bendradarbiavimas' },
                             { text: 'Papers', link: '/en/kokybiskos-studijos/rastai' },
                             { text: 'Research', link: '/en/kokybiskos-studijos/tyrimai' },
+                        ]
+                    },
+                    {
+                        text: 'Sustainable university community',
+                        link: '/en/darni-bendruomene/darni-bendruomene',
+                        collapsed: true,
+                        items: [
+                            { text: 'Community events', link: '/en/darni-bendruomene/renginiai' },
+                            { text: 'Integration of students', link: '/en/darni-bendruomene/integracija' },
+                            { text: 'Programs, Clubs and Projects', link: '/en/darni-bendruomene/pkp' },
                         ]
                     },
                 ]

@@ -58,6 +58,16 @@ const ltConfig: LocaleSpecificConfig<DefaultTheme.Config> = {
                             { text: 'Mokymų lentelė', link: '/stipri-organizacija/mokymu-lentele' }
                         ]
                     },
+                    {
+                        text: 'Darni universitetinė bendruomenė',
+                        link: '/darni-bendruomene/darni-bendruomene',
+                        collapsed: true,
+                        items: [
+                            { text: 'Bendruomenę buriantys renginiai', link: '/darni-bendruomene/renginiai' },
+                            { text: 'Studentų (-čių) integracija', link: '/darni-bendruomene/integracija' },
+                            { text: 'Programos, klubai ir projektai', link: '/darni-bendruomene/pkp' },
+                        ]
+                    },
                 ]
             }
         ],
