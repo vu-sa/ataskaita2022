@@ -21,7 +21,7 @@ export default defineConfig({
     en: {
       label: 'English',
       lang: 'en',
-      link: '/en',
+      link: '/en/',
       ...enConfig
     }
   }

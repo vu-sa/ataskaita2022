@@ -19,7 +19,7 @@ hero:
 
 features:
   - title: Sveikinimai
-    details: Perskaityk sveikinimus iš VU SA narių
+    details: Perskaityk sveikinimus iš VU SA partnerių
     icon: 🎉
     link: /sveikinimai
   - title: VU SA
