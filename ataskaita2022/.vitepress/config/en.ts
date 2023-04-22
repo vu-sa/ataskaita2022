@@ -36,7 +36,7 @@ export default {
                 items: [
                     {
                         text: 'High quality studies and their environment',
-                        collapsed: false,
+                        collapsed: true,
                         items: [
                             { text: 'Representation in the national space and city government', link: '/en/kokybiskos-studijos/nacionalinis' },
                             { text: 'Representation at VU', link: '/en/kokybiskos-studijos/vu' },
@@ -47,13 +47,11 @@ export default {
                     },
                     {
                         text: 'Strong organization',
-                        collapsed: false,
+                        collapsed: true,
                         items: [
                             { text: 'VU SR projects', link: '/en/stipri-organizacija/vu-sa-projektai' },
                             { text: 'Representation at VU', link: '/en/stipri-organizacija/projektu-atnaujinimas' },
-                            { text: 'Cooperation', link: '/en/kokybiskos-studijos/bendradarbiavimas' },
-                            { text: 'Papers', link: '/en/kokybiskos-studijos/rastai' },
-                            { text: 'Research', link: '/en/kokybiskos-studijos/tyrimai' },
+                            { text: 'Cooperation', link: '/en/stipri-organizacija/isf' },
                         ]
                     },
                     {
@@ -66,6 +64,13 @@ export default {
                             { text: 'Programs, Clubs and Projects', link: '/en/darni-bendruomene/pkp' },
                         ]
                     },
+                ]
+            },
+            {
+                text: 'We give our thanks 💪',
+                items: [
+                    { text: 'VU SR community', link: '/en/bendruomene' },
+                    { text: 'Friends and the report project team', link: '/en/padeka' },
                 ]
             }
         ],

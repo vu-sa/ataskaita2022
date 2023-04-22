@@ -69,6 +69,13 @@ const ltConfig: LocaleSpecificConfig<DefaultTheme.Config> = {
                         ]
                     },
                 ]
+            },
+            {
+                text: 'Dėkojame 💪',
+                items: [
+                    { text: 'VU SA bendruomenė', link: '/bendruomene' },
+                    { text: 'Draugai ir ataskaitos projekto rengėjai', link: '/padeka' },
+                ]
             }
         ],
         darkModeSwitchLabel: 'Tamsus režimas',
