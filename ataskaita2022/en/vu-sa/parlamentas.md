@@ -1,298 +1,325 @@
-# VU SA Parlamentas
+---
+outline: deep
+---
 
-![VU SA Parlamentas](/img/kitos-nuotraukos/Parlamentas.jpg)
+# VU SR Parliament
 
-::: tip Kas yra VU SA Parlamentas?
-**VU SA Parlamentas** – VU SA valdymo organas, svarstantis svarbiausius
-socialinius ir akademinius, su studentais susijusius ar kitus VU SA
-strateginius klausimus.
+![VU SR Parliament](/img/kitos-nuotraukos/Parlamentas.jpg)
 
-Parlamentą sudaro organizacijos prezidentas,
-viceprezidentas, atstovavimo funkciją vykdančių VU SA padalinių
-pirmininkai ir po du atstovus iš kiekvieno padalinio. Parlamento darbą
-organizuoja pirmininkas.
+::: tip What is the VU SA Parliament?
+VU SR Parliament is the governing body of VU SR, which discusses the
+most important social and academic issues related to students or other
+strategic issues of VU SR.
+
+The Parliament shall consist of the president
+of the organization, the vice-president, the chairmen of the VU SR U
+(unit) performing the function of representation and two representatives
+from each unit. The work of Parliament shall be organized by the
+President.
 
 :::
 
-VU SA Parlamentui pirmininkavo **Aistė Rinkevičiūtė** (iki 2022 m. vasario
-mėn.) ir **Ugnius Sejonas** (nuo 2022 m. vasario mėn.).
+VU SA Parlamentui pirmininkavo **Aistė Rinkevičiūtė** (until 2022 m. vasario
+mėn.) ir **Ugnius Sejonas** (from 2022 February).
 
-## VU SA parlamento nariai
+## Members of the VU SA Parliament
 
-2021--2022 m. VU SA Parlamentą sudarė VU SA prezidentė **Neda Žutautaitė**, VU SA viceprezidentas **Arnoldas Solovjovas** ir atstovai (-ės) iš VU SA padalinių:
+The Parliament of VU SR (lt. VU SA) was chaired by **Aistė Rinkevičiūtė**
+(until February 2022) and **Ugnius Sejonas** (since February 2022).
 
 ### VU SA CHGF
 
--   Ignas Mugenis
--   Gabija Navašinskaitė
--   Viktorija Vrubliauskaitė
+- Ignas Mugenis
+- Gabija Navašinskaitė
+- Viktorija Vrubliauskaitė
 
 ### VU SA EVAF
 
--   Justinas Sacevičius
--   Vanesa Ražinskytė
--   Nadia Ronlev
+- Justinas Sacevičius
+- Vanesa Ražinskytė
+- Nadia Ronlev
 
 ### VU SA FilF
 
--   Elena Pranevičiūtė
--   Anastasija Liubinskytė
--   Lauryna Martin Marin
+- Elena Pranevičiūtė
+- Anastasija Liubinskytė
+- Lauryna Martin Marin
 
 ### VU SA FsF
 
--   Martyna Vilutytė
--   Vakarė Punelytė (iki 2022 m. vasario mėn.)
--   Aistė Rinkevičiūtė (iki 2022 m. vasario mėn.)
--   Vismantas Daujotas (nuo 2022 m. vasario mėn.)
--   Andrė Treinytė (nuo 2022 m. vasario mėn.)
+- Martyna Vilutytė
+- Vakarė Punelytė (until 2022 February)
+- Aistė Rinkevičiūtė (until 2022 February)
+- Vismantas Daujotas (from 2022 February)
+- Andrė Treinytė (from 2022 February)
 
 ### VU SA FF
 
--   Raimondas Šiškevičius
--   Kasparas Daranda
--   Kornelija Kairytė
+- Raimondas Šiškevičius
+- Kasparas Daranda
+- Kornelija Kairytė
 
 ### VU SA GMC
 
--   Kornelija Buivydaitė
--   Evelina Prosevičiūtė (iki 2022 m. vasario mėn.)
--   Lukas Šarauskas (iki 2022 m. vasario mėn.)
--   Eglė Jašinskaitė (nuo 2022 m. vasario mėn.)
--   Daniel Šematovič (nuo 2022 m. vasario mėn.)
+- Kornelija Buivydaitė
+- Evelina Prosevičiūtė (until 2022 February)
+- Lukas Šarauskas (until 2022 February)
+- Eglė Jašinskaitė (from 2022 February)
+- Daniel Šematovič (from 2022 February)
 
 ### VU SA IF
 
--   Ieva Šiaudvytytė
--   Aušrinė Dichavičiūtė
--   Tomas Mikalauskas
+- Ieva Šiaudvytytė
+- Aušrinė Dichavičiūtė
+- Tomas Mikalauskas
 
 ### VU SA KnF
 
--   Lijana Savickienė
--   Indrė Bagdžiūtė
--   Ieva Šilingaitė
+- Lijana Savickienė
+- Indrė Bagdžiūtė
+- Ieva Šilingaitė
 
 ### VU SA KF
 
--   Dominyka Goldbergaitė
--   Gabija Laibakojytė
--   Kristijonas Ražickas
+- Dominyka Goldbergaitė
+- Gabija Laibakojytė
+- Kristijonas Ražickas
 
 ### VU SA MIF
 
--   Paulina Bilinskaitė
--   Nikita Gladčenko
--   Rita Žilinskaitė
+- Paulina Bilinskaitė
+- Nuntilta Gladčenko
+- Rita Žilinskaitė
 
 ### VU SA MF
 
--   Emilija Narušytė
--   Julija Elena Koehnke
--   Gabija Venclovaitė
+- Emilija Narušytė
+- Julija Elena Koehnke
+- Gabija Venclovaitė
 
 ### VU SA ŠA
 
--   Paulius Ladukas
--   Akvilė Bušininkaitė
--   Ieva Šukytė
+- Paulius Ladukas
+- Akvilė Bušininkaitė
+- Ieva Šukytė
 
 ### VU SA TSPMI
 
--   Ugnė Bičkauskaitė
--   Ilijas Kulinič
--   Ugnius Sejonas
+- Ugnė Bičkauskaitė
+- Ilijas Kulinič
+- Ugnius Sejonas
 
 ### VU SA TF
 
--   Airina Mikulėnaitė
--   Klaudija Maliauskaitė
--   Dominykas Mečanec
+- Airina Mikulėnaitė
+- Klaudija Maliauskaitė
+- Dominykas Mečanec
 
 ### VU SA VM
 
--   Justinas Brazaitis (iki 2021 m. gruodžio mėn.)
--   Edgaras Kodis (nuo 2021 m. gruodžio mėn.)
--   Matas Krikščiūnas
--   Ričardas Ratkevičius
+- Justinas Brazaitis (until 2021 m. December)
+- Edgaras Kodis (from 2021 m. December)
+- Matas Krikščiūnas
+- Ričardas Ratkevičius
 
-Ataskaitiniu laikotarpiu įvyko 14 VU SA Parlamento posėdžių (iš jų -- 5
-elektroniniai, 8 nuotoliniai ir 1 kontaktinis).
+During the reference period, 14 meetings of the VU SR Parliament took
+place (of which 5 electronic, 8 remote and 1 face-to-face).
 
-## Parlamento teiktos pozicijos ir rezoliucijos
-
----
-
-### Rezoliucija dėl užsienio studentų integracijos Vilniaus universitete
-
-:::tip 🔗 Nuoroda
-[Rezoliuciją dėl užsienio integracijos](https://vusa.lt/uploads/files/Raštai,%20pozicijos,%20dokumentai/REZOLIUCIJA%20DĖL%20UŽSIENIO%20STUDENTŲ%20INTEGRACIJOS%20VILNIAUS%20UNIVERSITETE.pdf) skaitykite čia.
-:::
-
-VU SA Parlamentas, tvirtindamas pagrindines integracijos proceso
-prielaidas ir teikdamas šio proceso tobulinimo pasiūlymus, priėmė
-rezoliuciją dėl užsienio studentų integracijos Universitete.
-
-Suvokdamas
-integracijos svarbą, išryškėjančią užsienio studentams bandant įsilieti
-į socialinį ir akademinį Universiteto gyvenimą, VU SA Parlamentas šiuo
-raštu stengiasi atkreipti dėmesį į informacijos sklaidą Universiteto
-komunikacijos kanaluose ir fizinėse erdvėse -- skatina skleisti žinią ne
-tik lietuvių, bet ir anglų kalbomis, bei taip suteikti visą reikalingą
-informaciją užsienio studentams (-ėms).
-
-Taip pat rašte akcentuojama
-Universiteto personalo užsienio kalbų kompetencijų tematika,
-Universiteto darinių atskaitingumas ir įtraukumas, papildomų veiklų
-užsienio kalba kūrimas visiems bendruomenės nariams (pateikti ir
-pasiūlymai, kaip visa tai įgyvendinti).
+## Documents
 
 ---
 
-### Pozicija dėl akademinės etikos pažeidimų prevencijos
+### Resolution on the integration of foreign students at Vilnius University
 
-:::tip 🔗 Nuoroda
-[Pozicija dėl akademinės etikos pažeidimų prevencijos](https://vusa.lt/uploads/files/Raštai,%20pozicijos,%20dokumentai/Pozicija%20dėl%20akademinės%20etikos.pdf) skaitykite čia.
+:::tip 🔗 Link
+[Resolution on the integration of foreign students at Vilnius University](https://vusa.lt/uploads/files/Raštai,%20pozicijos,%20dokumentai/REZOLIUCIJA%20DĖL%20UŽSIENIO%20STUDENTŲ%20INTEGRACIJOS%20VILNIAUS%20UNIVERSITETE.pdf) read here (in Lithuanian).
 :::
 
-Remdamasis pozicija dėl akademinės etikos pažeidimų prevencijos, VU SA
-Parlamentas deklaravo siekį prisidėti prie akademinės etikos kodekso
-principinių nuostatų pažeidimų likvidavimo.
+The Parliament of VU SR, confirming the main preconditions for the
+integration process and submitting proposals for the improvement of this
+process, adopted a resolution on the integration of foreign students at
+the University.
 
-Pagrindinės iškeltos problemos: apsunkintas informacijos prieinamumas ir
-akademinės etikos konsultanto (-ės) studentams (-ėms) pareigybės
-trūkumas -- rašte pateikiami pasiūlymai, kaip šias problemas spręsti,
-įtraukiant siūlymus atlikti tyrimus akademinės etikos srityje ar
-įsteigti studentus (-es) konsultuojančio asmens pareigybę.
+Realizing the importance of integration, which is
+evident when foreign students try to integrate into the social and
+academic life of the University, the Parliament of VU SR tries in this
+letter to draw attention to the dissemination of information in the
+University\'s communication channels and physical spaces -- it
+encourages to spread the message not only in Lithuanian, but also in
+English, and thus to provide all the necessary information to foreign
+students(s).
+
+The letter also emphasizes the topic of foreign language
+competences of the University\'s staff, accountability and inclusiveness
+of university formations, creation of additional activities in a foreign
+language for all members of the community (proposals on how to implement
+all this were also submitted).
 
 ---
 
-### Pozicija dėl užsienio studentų (-čių) teisinės padėties
+### Position on the prevention of violations of academic ethics
 
-:::tip 🔗 Nuoroda
-[Poziciją](https://vusa.lt/uploads/files/Raštai,%20pozicijos,%20dokumentai/Dėl%20užsienio%20studentų%20(-čių)%20teisinės%20padėties.pdf) skaitykite čia.
+:::tip 🔗 Link
+[Position on the prevention of violations of academic ethics](https://vusa.lt/uploads/files/Raštai,%20pozicijos,%20dokumentai/Pozicija%20dėl%20akademinės%20etikos.pdf) read here (in Lithuanian).
 :::
 
-VU SA Parlamentas, siekdamas atkreipti Lietuvos valstybės dėmesį į
-užsienio studentų (-čių) teisinę padėtį Lietuvoje ir augantį jų skaičių,
-akcentuoja, jog užsienio ir Lietuvos studentų (-čių) teisinis statusas
-turi būti lygiavertis, taip sudarant tinkamas sąlygas užsienio
-studentams (-ėms) tapti visaverčiais Lietuvos Respublikos gyventojais.
+Based on the position on the prevention of violations of academic
+ethics, the VU SR Parliament declared its intention to contribute to the
+elimination of violations of the principal provisions of the Code of
+Academic Ethics.
 
-Pagrindiniai siūlymai sprendžiant šią problemą yra orientuoti į vienodai
-prieinamas socialines paslaugas, vienodas akademinio tobulėjimo
-galimybes bei finansinės naštos palengvinimą.
+The main problems raised are: the difficulty of access
+to information and the lack of a position as an academic ethics
+consultant(s) for students -- the letter contains proposals on how to
+solve these problems, including proposals to conduct research in the
+field of academic ethics or to establish a post of a person consulting
+students.
 
 ---
 
-### Rezoliucija dėl studentų (-čių) mokslinės veiklos Lietuvos universitetuose
+### Position on the legal situation of foreign students
 
 :::tip 🔗 Nuoroda
-[Rezoliuciją](https://vusa.lt/uploads/files/Raštai,%20pozicijos,%20dokumentai/REZOLIUCIJA%20DĖL%20STUDENTŲ(-ČIŲ)%20MOKSLINĖS%20VEIKLOS%20LIETUVOS%20UNIVERSITETUOSE.pdf) skaitykite čia.
+Read the position [here](<https://vusa.lt/uploads/files/Raštai,%20pozicijos,%20dokumentai/Dėl%20užsienio%20studentų%20(-čių)%20teisinės%20padėties.pdf>) (in Lithuanian).
 :::
 
-VU SA Parlamentas, siekdamas atkreipti dėmesį į studentų (-čių)
-mokslinės veiklos svarbą ir suvokdamas jų poreikius bei neišnaudotas
-galimybes vykdant mokslinę veiklą, rašte įtraukė siūlymus, skirtus
-studentų (-čių) mokslinės veiklos galimybių ir kokybės gerinimui.
+In order to draw the attention of the State of Lithuania to the legal
+situation of foreign students in Lithuania and their growing number, the
+Parliament of VU SR emphasizes that the legal status of foreign and
+Lithuanian students must be equivalent, thus creating suitable
+conditions for foreign students(s) to become full residents of the
+Republic of Lithuania.
 
-Pagrindiniai rezoliucijoje minimi siūlymai yra orientuoti į „studentų
-(-čių) mokslinės veiklos" sąvokos apibrėžimą, studentų (-čių) mokslinės
-veiklos finansavimo didinimą, tinkamų sąlygų sudarymą mokslinės veiklos
-vykdymui bei universitetų atskaitomybės didinimą sudarant tinkamas
-sąlygas studentams (-ėms) vykdyti mokslinę veiklą.
+The main proposals to solve this problem are
+focused on equally accessible social services, equal opportunities for
+academic development and relief of financial burdens.
 
 ---
 
-### Pozicija dėl studentų (-čių) praktikų organizavimo gerinimo
+### Resolution on the scientific activities of students(s) in Lithuanian universities
 
 :::tip 🔗 Nuoroda
-[Poziciją](https://vusa.lt/uploads/files/Protokolai/Parlamentas/2022-03-04/POZICIJA%20DĖL%20STUDENTŲ%20PRAKTIKOS.pdf) skaitykite čia.
+[The resolution can be found here](<https://vusa.lt/uploads/files/Raštai,%20pozicijos,%20dokumentai/REZOLIUCIJA%20DĖL%20STUDENTŲ(-ČIŲ)%20MOKSLINĖS%20VEIKLOS%20LIETUVOS%20UNIVERSITETUOSE.pdf>) (in Lithuanian).
 :::
 
-Siekdamas atkreipti dėmesį į praktikų organizavimo procese kylančias
-problemas, šiuo raštu VU SA Parlamentas atkreipia dėmesį ir į Vilniaus
-universiteto, ir į nacionaliniu lygmeniu praktikos kokybę
-reglamentuojančių bei reguliuojančių mechanizmų trūkumus.
+In order to draw attention to the importance of students\' scientific
+activities and understanding their needs and untapped opportunities in
+the course of scientific activities, the Parliament of VU SR included
+proposals in the letter aimed at improving the possibilities and quality
+of scientific activities of students(s).
 
-Pagrindiniai siūlymai yra orientuoti į patiriamų išlaidų kompensavimą neapmokamos
-praktikos metu arba kuriant apmokamos praktikos vietas, taip pat kuriant
-grįžtamojo ryšio kultūrą ir sistemą praktikų metu. Be to, orientuojamasi
-į lygių Lietuvos ir užsienio studentų (-čių) praktikos galimybių
-užtikrinimą praktikos atlikimo vietoje.
-
-### Pozicija dėl Vilniaus Universiteto studentų (-čių) žemo finansinio raštingumo lygio
-
-:::tip 🔗 Nuoroda
-[Poziciją](https://vusa.lt/uploads/files/Raštai,%20pozicijos,%20dokumentai/Pozicija-del-finansinio-rastingumo.pdf) skaitykite čia.
-:::
-
-Siekdamas atkreipti dėmesį į žemą studentų finansinio raštingumo lygį
-Vilniaus universitete, šiuo raštu VU SA Parlamentas teikia siūlymus
-problemos sprendimo būdams, akcentuodamas finansinio raštingumo svarbą
-per studijų prienamumo ir studento (-ės) finansinės gerovės prizmę.
-
-Pagrindiniai siūlymai yra orientuoti į mokymų rengimą, visuomenės
-švietimą bei visai Vilniaus universiteto studentų (-čių) bendruomenei
-prieinamus bendrųjų universitetinių studijų dalykus, kurie plėstų
-studentų (-čių) finansinio raštingumo žinias.
+The main proposals mentioned in
+the resolution are focused on the definition of the concept of
+\"student(s) scientific activity\", increasing the funding of scientific
+activities of students(s), creating appropriate conditions for the
+conduct of scientific activities and increasing the accountability of
+universities by creating suitable conditions for students(s) to carry
+out scientific activities.
 
 ---
 
-### Nutarimas dėl organizacijos pozicijos atsižvelgiant į Ukrainoje vykstančius procesus
+### Position on improving the organization of student(s) practices
 
-Šiuo nutarimu VU SA Parlamentas, išreikšdamas organizacijos palaikymą
-Ukrainos Respublikai karo akivaizdoje bei smerkdamas Rusijos Federacijos
-karinius veiksmus ir smurto protrūkį Ukrainos Respublikos teritorijoje,
-suformavo organizacijos poziciją karo Ukrainoje atžvilgiu.
+:::tip 🔗 Nuoroda
+[Read the position here](https://vusa.lt/uploads/files/Protokolai/Parlamentas/2022-03-04/POZICIJA%20DĖL%20STUDENTŲ%20PRAKTIKOS.pdf) (in Lithuanian).
+:::
 
-## Kita veikla
+In order to draw attention to the problems arising in the process of
+organizing practices, by this letter the Parliament of VU SR draws
+attention to the shortcomings of both Vilnius University and the
+mechanisms regulating and regulating the quality of practice at the
+national level.
 
--   Išrinkti studentų atstovai VU Senate (Ugnė Bičkauskaitė, Kornelija
-    Buivydaitė, Julija Jarutytė, Andželika Jankauskytė, Justas
-    Kvedaravičius, Vanesa Ražinskytė, Arnoldas Solovjovas, Daniel
-    Šematovič) ir VU Tarybos išorinis studentų atstovas Justinas
-    Kondratas;
--   Patvirtinti VU SA MF nuostatai, įsteigiant Vilniaus universiteto
-    Studentų atstovybės Medicinos fakultete Tarptautinių studentų tarybą
-    ir patvirtinant pastarosios darbo reglamentą;
--   Patvirtintos VU SA strateginės metų veiklos gairės (rugsėjo mėn.) ir
-    po perplanavimų atnaujintas metų veiklos planas (vasario mėn.);
--   Patvirtinta tvarka dėl išorinio studentų atstovo (-ės) Vilniaus
-    universiteto Taryboje rinkimų;
--   Inicijuotas darbo reglamento atnaujinimo procesas;
--   Inicijuotas VU SA Parlamento nuolatinių darbo grupių (komitetų)
-    steigimo procesas ir pradėtas darbas su teisiniu reglamentavimu;
--   Kovo mėn. posėdžio metu pristatytas 2021 m. pirmakursių integracijos
-    proceso Universitete tyrimas;
--   Kiekvieno posėdžio metu taikyta VU SA Parlamentui aktualios
-    informacijos, kurią pristatydavo VU SA Prezidentė, praktika;
--   Sudaryta VU SA Parlamento komunikacijos darbo grupė, kuri
-    susirinkimų metu diskutavo bei generavo pasiūlymus, skirtus
-    Parlamento komunikacijos soc. tinkluose atnaujinimui;
--   Sudarytas VU SA parlamentaro gidas, kuriame pateikta visa
-    svarbiausia informacija apie Parlamentą ir jo veikimą, skirta
-    naujiems ir į Parlamentą besiruošiantiems keltis asmenims;
--   Visi nuotoliniai posėdžiai buvo transliuojami VU SA „Facebook"
-    paskyroje;
--   Po kiekvieno nuotolinio ir kontaktinio VU SA Parlamento posėdžio VU
-    SA puslapyje publikuoti straipsniai, informuojantys apie tai, kas
-    buvo aptarta ir patvirtinta posėdžių metu;
--   Vasarą organizuoti VU SA Parlamento mokymai, skirti stiprinti
-    parlamentarų įgūdžius advokacijos, raštų rengimo, Parlamento ir
-    organizacijos suvokimo srityse bei bendrųjų kompetencijų kėlimui;
--   Du kartus vykdyti individualūs pokalbiai tarp VU SA Parlamento
-    pirmininkų ir VU SA padalinių parlamentarų, skirti padalinių
-    problemų ir nuomonės rinkimui;
--   Patvirtinta 2022 m. finansinių išlaidų ir pajamų sąmata;
--   Posėdžių metu buvo pristatyti tyrimai apie:
-    -   studentų (-čių) integraciją;
-    -   studentų (-čių) mokslinę veiklą;
-    -   užsienio studentų (-čių) integraciją;
-    -   studentų (-čių) praktikų vykdymą ir vykdymo kokybės užtikrinimą
-        Universitete bei už jo ribų.
+The main proposals are focused on compensating for the
+costs incurred during unpaid internships or in the creation of paid
+placements, as well as the creation of a culture of feedback and a
+system during practice. In addition, the focus is on ensuring equal
+practice opportunities for Lithuanian and foreign students at the place
+of practice.
 
-VU SA Parlamento posėdžiuose dalyvavo ir įvairias temas pristatė
-kviestiniai svečiai -- Vilniaus universiteto Studijų kokybės ir plėtros
-skyriaus vadovas Andrius Uždanavičius ir Vilniaus universiteto Centrinės
-akademinės etikos komisijos pirmininkė Vigita Vėbraitė.
+### Position on the low level of financial literacy of Vilnius University students
+
+:::tip 🔗 Nuoroda
+[The position can be found here](https://vusa.lt/uploads/files/Raštai,%20pozicijos,%20dokumentai/Pozicija-del-finansinio-rastingumo.pdf) (in Lithuanian).
+:::
+
+In order to draw attention to the low level of financial literacy of
+students at Vilnius University, in this letter the VU SR Parliament
+submits proposals for solutions to the problem, emphasizing the
+importance of financial literacy through the prism of study
+accommodation and the financial well-being of the student(s).
+
+The main proposals are focused on the preparation of training, public education
+and general university studies subjects available to the entire Vilnius
+University student(s) community, which would expand the knowledge of
+financial literacy of students(s).
+
+---
+
+### Resolution on the position of the organization was approved in the light of the processes taking place in Ukraine
+
+By this resolution, the Parliament of VU SR, expressing the
+organization\'s support for the Republic of Ukraine in the face of the
+war and condemning the military actions of the Russian Federation and
+the outbreak of violence on the territory of the Republic of Ukraine,
+formed the position of the organization in relation to the war in
+Ukraine.
+
+## Other works done
+
+- Elected representatives of students in the VU Senate (Ugnė
+  Bičkauskaitė, Kornelija Buivydaitė, Julija Jarutytė, Andželika
+  Jankauskytė, Justas Kvedaravičius, Vanesa Ražinskytė, Arnoldas
+  Solovjovas, Daniel Šematovič) and VU Council external student
+  representative Justinas Kandrotas;
+- The regulations of VU SR MF have been approved by establishing the
+  Council of International Students of the Vilnius University
+  Students' Representation at the Faculty of Medicine and approving
+  the rules of procedure of the latter;
+- VU SR Strategic Year\'s Operational Guidelines (September 2021) have
+  been approved and the annual activity plan has been updated after
+  the restructurings (February 2022);
+- The approved procedure regarding the election of an external
+  representative of students in the Council of Vilnius University (VU
+  SR did not have such a representative(s) before);
+- The process of updating the Rules of Procedure has been initiated;
+- The process of establishing permanent working groups (committees) of
+  the VU SA Parliament was initiated and work on legal regulation was
+  started;
+- In March, during the meeting, the study of the 2021 process of
+  integration of freshmen at the University was presented;
+- During each meeting, the practice of information relevant to the
+  Parliament of VU SR, which was presented by the President of VU SR,
+  was applied;
+- A working group on communication of the Parliament of VU SR was set
+  up, which during the meetings discussed and generated proposals for
+  the resumption of Parliament\'s communication on social networks;
+- A guide for the MP of VU SR has been compiled, which contains all
+  the most important information about the Parliament and its
+  functioning, for new people who are preparing to participate in the
+  Parliament;
+- All remote meetings were broadcasted on VU SR\'s Facebook page;
+- After each remote and contact session of the VU SR Parliament,
+  articles were published on the VU SR page informing about what was
+  discussed and approved during the meetings;
+- In the summer, training of VU SR Parliament was organized to
+  strengthen the skills of parliamentarians in the fields of advocacy,
+  writing, perception of Parliament and the organization, as well as
+  the development of general competences;
+- Individual interviews were conducted twice between the chairperson
+  of the Parliament of VU SR and the parliamentarians of VU SR units,
+  aimed at collecting problems and opinions of the academic core
+  units;
+- The estimate of financial expenditure and revenue for 2022 has been
+  approved;
+- During the meetings, studies took place on:
+  - integration of students;
+  - scientific activities of students(s);
+  - integration of foreign students;
+  - execution and quality assurance of student(s) practices at the
+    University and beyond.
+- The sittings of the VU SR Parliament were attended and talked about
+  by invited guests -- Andrius Uždanavičius, head of the Department of
+  Quality and Development of Studies at Vilnius University, and Vigita
+  Vėbraitė, Chairwoman of the Central Commission for Academic Ethics
+  at Vilnius University.

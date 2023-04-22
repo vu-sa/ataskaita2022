@@ -2,66 +2,73 @@
 outline: deep
 ---
 
-# VU SA
+# VU SR
 
-**Vilniaus universiteto Studentų atstovybė (VU SA)** – seniausia ir
-didžiausia Lietuvoje ekspertinė švietimo organizacija, atstovaujanti
-studentams Universitete ir už jo ribų, puoselėjanti universitetinę
-kultūrą ir kurianti palankiausias sąlygas studento saviraiškai.
+Vilnius University Students' Representation (VU SR) is the oldest and
+the biggest expert education organization in Lithuania. It represents
+the interests of students at Vilnius University and beyond, fostering
+university culture and creating the most favorable conditions for
+students' self-expression.
 
-## Apie VU SA
+## About SR
 
-**VU SA** – tai 15 atstovavimo funkciją atliekančių padalinių
-kiekviename VU kamieniniame akademiniame padalinyje, 19 programų, klubų,
-projektų ir viešųjų įstaigų (PKP), Centrinis biuras, koordinuojantis
-padalinius ir PKP, bei VU Studentų savivaldos Alumni draugija. Šiuo metu
-VU SA vienija apie 1 000 narių.
+In total, VU SR has 15 units in each core academic unit (faculty,
+institute, or center) that represent students locally. VU SR also has 15
+programs, clubs, projects and public bodies (hereinafter - PCP) as well
+as one Central Office, which coordinates all the units, PCP and Vilnius
+University Alumni Society. For this day VU SR unites around 1 000
+members.
 
-**VU SA:**
+VU SR:
 
--   atstovauja studentams – gina studentų teises Universiteto valdymo
-    organuose ir nacionaliniu lygmeniu;
--   prisideda prie studijų proceso tobulinimo Universitete, yra visų
-    svarbiausių VU valdymo institucijų dalis;
--   rūpinasi socialine gerove – užtikrina patogią ir studentams
-    pritaikytą aplinką, rūpinasi studentų integracija, dalyvauja
-    stipendijų skirstymo procese;
--   organizuoja turiningą laisvalaikį;
--   skleidžia informaciją – rūpinasi, kad visos svarbiausios naujienos
-    pasiektų studentus.
+- represents students -- defends students' rights in University's
+  governing bodies and on the national level;
+- contributes to the improvement of the study process in the
+  University, is a part of all the most important governing bodies of
+  Vilnius University;
+- takes care of social welfare -- provides a comfortable and
+  student--friendly environment, takes care of student integration,
+  participates in the distribution of scholarships; organizes
+  meaningful leisure time;
+- spreads the information so that all relevant news reaches the
+  students.
 
-## Strategija
+## Strategy
 
-**Vizija** -- atvira aplinka savarankiškam studento tobulėjimui
-vieningoje Vilniaus universiteto bendruomenėje.
+**VU SR Vision** -- an open environment for independent student
+development in the unified community of Vilnius University.
 
-**Misija** -- efektyviai atstovaujant Vilniaus universiteto studentams
-bei puoselėjant universitetinę kultūrą, kurti palankiausias sąlygas
-studento saviraiškai.
+**VU SR Mission** -- to create the most favourable conditions for
+student self-expression by effectively representing the students of
+Vilnius University and fostering the university culture.
 
-### Vertybės
+### Core values
 
--   atvirumas
--   atsakomybė
--   veiklos kokybė
--   vieningumas
--   tobulėjimas
+- Openness;
+- Responsibility;
+- Quality of work;
+- Unity;
+- Development.
 
-### Strateginės kryptys
+### Strategic directions
 
--   kokybiškos studijos ir joms pritaikyta aplinka
--   stipri organizacija
--   darni universitetinė bendruomenė
+- High quality studies and their environment;
+- Strong organization;
+- Sustainable University community.
 
-## VU SA valdymo schema
+## VU SR governance structure
 
-Vilniaus universiteto Studentų atstovybės valdymo struktūrą sudaro:
-Konferencija (aukščiausia VU SA savivaldos institucija), Prezidentas,
-Parlamentas, Taryba bei Revizijos komisija. Šie valdymo organai pagal
-savo kompetenciją priima sprendimus jiems paskirtose srityse arba
-užtikrina kituose VU SA valdymo organuose priimtų nutarimų vykdymą.
+The governance structure of the Vilnius University Students\'
+Representation consists of: Conference (the highest self-government
+institution of VU SR), the President, parliament, the Board and the
+Revision Commission.
 
-::: tip Sužinokite daugiau..?
-Plačiau su VU SA struktūra galite susipažinti čia:
+These management bodies, within their remit, shall
+take decisions in the areas assigned to them or ensure the
+implementation of the resolutions adopted in other management bodies of
+VU SR.
+
+::: tip Learn more
+You can get acquainted with the structure of VU SR here:
 https://vusa.lt/lt/vu-sa-struktura
 :::

@@ -6,7 +6,7 @@ const ltConfig: LocaleSpecificConfig<DefaultTheme.Config> = {
         nav: [
             { text: 'Sveikinimai', link: '/sveikinimai' },
             { text: 'VU SA', link: '/vu-sa/vu-sa' },
-            { text: 'Metų veiklos planas', link: '/mvp' },
+            { text: 'Metų veiklos planas', link: '/mvp/mvp' },
             { text: 'Strateginės kryptys', items: [
                 { text: 'Kokybiškos studijos ir joms pritaikyta aplinka', link: '/kokybiskos-studijos' },
                 { text: 'Stipri organizacija', link: '/stipri-organizacija' },
@@ -30,8 +30,8 @@ const ltConfig: LocaleSpecificConfig<DefaultTheme.Config> = {
             {
                 text: 'Metų veiklos planas',
                 items: [
-                    { text: 'VU SA tikslai', link: '/mvp' },
-                    { text: 'Tikslai padaliniuose', link: '/mvp/veiklos-sritis' },
+                    { text: 'VU SA tikslai', link: '/mvp/mvp' },
+                    { text: 'Tikslai padaliniuose', link: '/mvp/tikslai-padaliniuose' },
                 ]
             }
         ],
