@@ -18,7 +18,7 @@ export default
             content: 'SPK pirmininkai palaiko 60 kreditų atlaisvinimo (vidinio mobilumo) idėją.'
         }
     ],
-    2: [
+    "2": [
         {
             type: 'warning',
             content: 'VU studentai yra supažindinti su individualių poreikių grupėmis ir VU teikiama pagalba.',
@@ -39,8 +39,5 @@ export default
             type: 'warning',
             content: 'VU asistuojančių studentų savanorių tinklas yra padidėjęs ir užtikrinama jo veiklos kokybė.'
         }
-    ],
-    3: [],
-    4: [],
-    5: []
+    ]
 }

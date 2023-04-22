@@ -28,7 +28,7 @@ export default {
                 text: 'Year plan',
                 items: [
                     { text: 'VU SR goals', link: '/en/mvp/mvp' },
-                    { text: 'Goals in VU SR units', link: '/en/mvp/veiklos-sritis' },
+                    { text: 'Goals in VU SR units', link: '/en/mvp/tikslai-padaliniuose' },
                 ]
             }
         ],
