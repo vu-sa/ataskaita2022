@@ -128,25 +128,25 @@ procesą.
 
 **VU SA Taryba priėmė sprendimus:**
 
--   Patvirtinti atnaujintą VU SA mokymų organizavimo paraiškos šabloną.
--   Kiekviename VU SA P turėti už egzaminų stebėjimą atsakingą asmenį
-    taip užtikrinant kokybišką VU SA programos „Sąžiningai" veiklą.
--   Sukurti darbo grupę „Pirmininko vadovo" atnaujinimui siekiant
-    palengvinti patirties perdavimo procesą naujiems padalinių vadovams.
--   Įgyvendinti VU SA Duomenų apsaugos grupės proceso atnaujinimą.
--   2022 m. ataskaitines-rinkimines konferencijas organizuoti
-    kontaktiniu būdu.
--   Nuo 2022 m. liepos 1 d. vykdyti centralizuotą VU SA marketingo
-    procesą, kuriame veikia VU SA P marketingo srities koordinatoriai
-    (jei tokie padaliniuose yra) bei VU SA marketingo koordinatoriaus
-    surinkti savanoriai.
--   Patvirtinti narystės kelio organizacijoje koncepciją, paremtą
-    efektyvesniu narių įveiklinimu, kuratorių, studentų atstovų,
-    programų, klubų, projektų ir ilgamečių narių lygiaverčiu įtraukimu į
-    vykstančius procesus, savirefleksijų kultūra.
--   Narystės užfiksavimo sistemos atnaujinimui nario testą praplėsti
-    žiniomis apie VU (KAP (kamieninių akademinių padalinių))
-    strukūrinius darinius, universiteto suteikiamas paslaugas, VU SA
-    strategiją, organizacijos struktūrą bei įvaizdį. Buvo nutarta šalia
-    testo kurti emokymų kursą, kuris padės užtikrinti gilesnį
-    kompetencijų kėlimą kiekvienoje temoje.
+- Patvirtinti atnaujintą VU SA mokymų organizavimo paraiškos šabloną.
+- Kiekviename VU SA P turėti už egzaminų stebėjimą atsakingą asmenį
+  taip užtikrinant kokybišką VU SA programos „Sąžiningai" veiklą.
+- Sukurti darbo grupę „Pirmininko vadovo" atnaujinimui siekiant
+  palengvinti patirties perdavimo procesą naujiems padalinių vadovams.
+- Įgyvendinti VU SA Duomenų apsaugos grupės proceso atnaujinimą.
+- 2022 m. ataskaitines-rinkimines konferencijas organizuoti
+  kontaktiniu būdu.
+- Nuo 2022 m. liepos 1 d. vykdyti centralizuotą VU SA marketingo
+  procesą, kuriame veikia VU SA P marketingo srities koordinatoriai
+  (jei tokie padaliniuose yra) bei VU SA marketingo koordinatoriaus
+  surinkti savanoriai.
+- Patvirtinti narystės kelio organizacijoje koncepciją, paremtą
+  efektyvesniu narių įveiklinimu, kuratorių, studentų atstovų,
+  programų, klubų, projektų ir ilgamečių narių lygiaverčiu įtraukimu į
+  vykstančius procesus, savirefleksijų kultūra.
+- Narystės užfiksavimo sistemos atnaujinimui nario testą praplėsti
+  žiniomis apie VU (KAP (kamieninių akademinių padalinių))
+  strukūrinius darinius, universiteto suteikiamas paslaugas, VU SA
+  strategiją, organizacijos struktūrą bei įvaizdį. Buvo nutarta šalia
+  testo kurti emokymų kursą, kuris padės užtikrinti gilesnį
+  kompetencijų kėlimą kiekvienoje temoje.

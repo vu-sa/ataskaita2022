@@ -46,7 +46,7 @@ const members = [
     {
         name: 'Dominyka Goldbergaitė',
         title: 'VU SA KF chairwoman',
-        avatar: '/img/koordinatoriu-nuotraukos/taryba/Dominyka Goldbergaitė_chairwoman_KF-2.jpg',
+        avatar: '/img/koordinatoriu-nuotraukos/taryba/Dominyka Goldbergaitė_pirmininkė_KF-2.jpg',
     },
     {
         name: 'Lijana Savickienė',
@@ -104,7 +104,7 @@ cooperation and internal issues of the organization.
 ::: details In 2021-2022, the VU SR Board consisted of...
 
 <section class="grid grid-cols-2 gap-6 p-4" >
-    <PersonAvatar :size="56" :src="member.avatar" v-for="member in members" >
+    <PersonAvatar :size="56" :src="member.avatar" v-for="member in members">
     <div class="flex flex-col leading-5">
         <strong class="text-md/4">{{member.name}}</strong>
         <span class="text-xs">{{ member.title}}</span></div>
