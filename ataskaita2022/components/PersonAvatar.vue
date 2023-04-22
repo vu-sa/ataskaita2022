@@ -1,7 +1,7 @@
 <template>
-    <div>
-        <NAvatar></NAvatar>
-        <span>{{ name }}</span>
+    <div class="flex items-center gap-4">
+        <NAvatar object-fit="cover" :size="size" circle :src="src" />
+        <div><slot /></div>
     </div>
 </template>
 
@@ -9,7 +9,7 @@
 import { NAvatar } from "naive-ui";
 
 defineProps<{
-    img: string;
-    name: string;
+    src: string;
+    size?: number;
 }>();
 </script>
