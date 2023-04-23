@@ -162,13 +162,13 @@ On 18th of June 2021 VU SR President Neda Žutautaitė participated in the
 conference, which discussed who should take responsibility for the
 psychological state of young people. In her report, N. Žutautaitė
 emphasized that the mental health of students in higher education is not
-only their personal concern -- we must understand that this is a
+only their personal concern – we must understand that this is a
 question of relations between the academic community, studies and the
 environment related to them. The practices applied by foreign
 universities aimed at improving the psychological environment and
 supporting the creation of a community were also presented.
 
-### Discussion of the Committee on Education and Science of the Seimas \"Social dimension -- for the quality of studies\"
+### Discussion of the Committee on Education and Science of the Seimas \"Social dimension – for the quality of studies\"
 
 On 8th of October, during a discussion organized by the Committee on
 Education and Science of the Republic of Lithuania, Neda Žutautaitė had
@@ -189,8 +189,8 @@ invited students to the forum to discuss the quality of studies and the
 involvement of students in order to ensure it.
 
 During the forum, the quality of studies was discussed from the
-perspective of the participants -- first of all, the students(s) who are
-the main axis in the study process -- the sooner the higher education
+perspective of the participants – first of all, the students(s) who are
+the main axis in the study process – the sooner the higher education
 institution accepts this, the easier it is to strive together for the
 quality of studies. There was also a discussion about the development of
 the career path of the sitter(s) and the assurance of didactic
@@ -212,7 +212,7 @@ universities, and what challenges still exist.
 
 Neda Žutautaitė presented to the participants of the meeting the
 problems that most often arise for students(s) and the ways in which the
-University community tries to respond to them. Situation is not ideal --
+University community tries to respond to them. Situation is not ideal –
 the number of consultations that can be provided is not enough to
 respond to the need of students(s), in remote academic departments there
 is a lack of live consultations, psychological measures for foreign

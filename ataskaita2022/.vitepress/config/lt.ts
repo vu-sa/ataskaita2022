@@ -1,6 +1,8 @@
 import type { DefaultTheme, LocaleSpecificConfig } from 'vitepress'
 
 const ltConfig: LocaleSpecificConfig<DefaultTheme.Config> = {
+    title: "2021-2022 ataskaita",
+    description: "VU Studentų atstovybės metų veiklos ataskaita už 2021-2022 m. kadenciją.",
     themeConfig: {
         logo: '/img/logos/vusa.lin.hor.svg',
         nav: [

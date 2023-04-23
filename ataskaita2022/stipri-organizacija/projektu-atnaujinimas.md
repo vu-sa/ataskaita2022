@@ -2,7 +2,7 @@
 
 ## Konsultavimo procesas
 
-VU SA konsultavimas -- centralizuota VU SA konsultavimo sistema, skirta
+VU SA konsultavimas – centralizuota VU SA konsultavimo sistema, skirta
 Vilniaus universiteto studentų konsultacijoms akademiniais,
 socialiniais, saviraiškos galimybių Universitete, LSP ir kitais
 klausimais. Programa veikia vedina VU SA konsultavimo vadovo (-ės) ir
@@ -45,7 +45,7 @@ pažvelgti, ar išsikelti tikslai jau pasiekti (o galbūt jų vis dar
 siekiama), būtina reflektuoti. Būtent savirefleksijų metu suteikiama
 galimybė ne tik įsivertinti save bei savo tobulėjimo procesą, tačiau ir
 padėti sau judėti tolyn. Šiais metais organizacijoje buvo sukurtas
-savirefleksijos įrankis -- gairinis klausimynas, šalia kurio pateiktas
+savirefleksijos įrankis – gairinis klausimynas, šalia kurio pateiktas
 maketas, kuriame būtų galima užsirašyti atsakymus. Minėtas įrankis
 išskirtas į dvi dalis: klausimai skirti kas kelis mėnesius įsivertinti
 save organizacijoje ir kasdieniai klausimai leidžiantys savireflektuoti
@@ -57,7 +57,7 @@ Pastaraisiais metais buvo peržiūrimas narystės kelias organizacijoje, o
 šiemet priimta koncepcija, paremta efektyvesniu narių iveiklinimu,
 kuratorių, studentų atstovų, programų, klubų, projektų ir ilgamečių
 narių lygiaverčiu įtraukimu į vykstančius procesus narystės kelią
-grindžiant savirefleksijų kultūra. Šios koncepcijos tikslas -- daugiau
+grindžiant savirefleksijų kultūra. Šios koncepcijos tikslas – daugiau
 dėmesio skirti kiekvieno nario individualiam įgalinimui ir įtraukimui į
 organizuojamas veiklas. Kiekvienai narių grupei (pirmamečiai nariai,
 kuratoriai, atstovai SPK, ilgamečiai nariai) sukurta konkreti narystės

@@ -5,8 +5,6 @@ import enConfig from './config/en'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "2021-2022 ataskaita",
-  description: "VU Studentų atstovybės metų veiklos ataskaita už 2022-2023 m. kadenciją.",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     ...sharedConfig

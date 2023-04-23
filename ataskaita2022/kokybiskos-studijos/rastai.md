@@ -120,7 +120,7 @@ prieštaraujančiu laisvam asmens pasirinkimui ir potencialiai žalingam
 visai sveikatos sistemai siūlymu.
 
 Primygtinai raginome projekto rengėjus atsisakyti teikiamų siūlymų,
-parlamentarus -- juos atmesti ir specialistų trūkumo regionuose problemą
+parlamentarus – juos atmesti ir specialistų trūkumo regionuose problemą
 spręsti pradedant nuo atviro dialogo su jaunuosius gydytojus rezidentus
 atstovaujančiomis organizacijomis ir kartu ieškoti sisteminių jos
 sprendimo būdų. Po kreipimosi keletas įstatymo projektą pasirašiusių
@@ -139,7 +139,7 @@ eksperimentinės plėtros (MTEP) veiklų finansavimo dalį bei politinių
 partijų Susitarime dėl Lietuvos švietimo politikos keliamus tikslus ir
 įsipareigojimus. MTEP veikloms siūlėme biudžete numatyti 67,7 mln. eur.,
 kai pirminiame projekte buvo numatoma 26,3 mln. eur. studijoms ir
-mokslui, iš kurių -- 13 mln. eur. mokslinio potencialo stiprinimui,
+mokslui, iš kurių – 13 mln. eur. mokslinio potencialo stiprinimui,
 mokslo duomenų bazių prenumeratai, dalyvavimui mokslinių tyrimų
 infrastruktūrose ir konkursiniam MTEP finansavimui per LMT.
 
@@ -198,7 +198,7 @@ veiklas, rinkti visų pakopų studentų dalyvavimo duomenis bei kurti
 prielaidas studentų mokslinių veiklų skatinimui per finansinių priemonių
 didinimą, aukštųjų mokyklų vertinimą ir akreditavimą.
 
-Pateikta svarstymui formuluotė: „Studentų mokslinė veikla -- asmens,
+Pateikta svarstymui formuluotė: „Studentų mokslinė veikla – asmens,
 studijuojančio aukštojoje mokykloje pagal studijų programą arba
 doktorantūroje, veikla, apimanti mokslinių žinių kūrimą ir/arba
 akademinį tobulėjimą, kūrybinę veiklą, kuri gali vykti tiek studijų,

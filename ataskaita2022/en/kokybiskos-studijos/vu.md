@@ -8,7 +8,7 @@ outline: deep
 
 _Student representatives - Neda Žutautaitė, Justinas Kondratas_
 
-VU Board -- the governing body of the University, which supervises
+VU Board – the governing body of the University, which supervises
 whether the activities and management of the University are in line with
 the mission, vision, values and principles of the University, general
 academic interests, requirements for publicity and accountability to the
@@ -32,12 +32,12 @@ implementation report were approved.
 
 _VU Senate Student representatives:_
 
-- Senate Board -- Arnoldas Solovjovas
-- Committee on Studies -- Kornelija Buivydaitė, Julija Jarutytė,
+- Senate Board – Arnoldas Solovjovas
+- Committee on Studies – Kornelija Buivydaitė, Julija Jarutytė,
   Justas Kvederavičius
-- In the Committee on Quality and Development -- Ugnė Bičkauskaitė,
+- In the Committee on Quality and Development – Ugnė Bičkauskaitė,
   Andželika Jankauskytė, Vanesa Ražinskytė
-- In the Scientific Committee -- Arnoldas Solovjovas, Daniel Šematovič
+- In the Scientific Committee – Arnoldas Solovjovas, Daniel Šematovič
 
 The VU Senate is the governing body of the University consisting of
 members of the academic community of VU. The Senate is responsible for
@@ -58,7 +58,7 @@ For students, the most important issues discussed in the Senate are:
 
 **What was decided:** the composition of the new Senate changes up to 46
 persons, including one representative from the divisions of VU sui
-generis -- Šiauliai Academy and Business School. With the increase in
+generis – Šiauliai Academy and Business School. With the increase in
 the number of students in the Senate, the number of student
 representatives increases to 9.
 
@@ -132,7 +132,7 @@ during which 2 statements were considered.
 
 ### VU Central Commission for Academic Ethics
 
-_Student representatives -- Jorigis Jonas Marčėnas, Ilijas Kulinič (until March 2022), Aistė Rinkevičiūtė (until March 2022), Dominyka Goldbergaitė (from March 2022), Laura Mackevič (from March 2022)._
+_Student representatives – Jorigis Jonas Marčėnas, Ilijas Kulinič (until March 2022), Aistė Rinkevičiūtė (until March 2022), Dominyka Goldbergaitė (from March 2022), Laura Mackevič (from March 2022)._
 
 The Commission investigates complaints from members of the academic
 community about breaches of academic ethics. During the reference
@@ -188,7 +188,7 @@ and updated GUSs:
 
 _Student representative - Dominyka Goldbergaitė_
 
-The Central Electoral Commission -- responsible for the proper
+The Central Electoral Commission – responsible for the proper
 organization of elections to the governing bodies of the University,
 registration of elected members of the Senate and the Board, and
 determination of the results of the rector\'s elections.
@@ -304,9 +304,9 @@ of pedagogical education at Vilnius University. To achieve this goal,
 organized in the University community, which were also attended by
 student representatives.
 
-## Working groups and commissions set up for the implementation of the Strategic Plan of Vilnius University for 2021--2025
+## Working groups and commissions set up for the implementation of the Strategic Plan of Vilnius University for 2021–2025
 
-### Working Group on the Implementation of the Activities of the Strategic Plan of VU 2021--2025 \"Increasing student choice and multidirectional opportunities\"
+### Working Group on the Implementation of the Activities of the Strategic Plan of VU 2021–2025 \"Increasing student choice and multidirectional opportunities\"
 
 _Student representative - Neda Žutautaitė_
 
@@ -398,16 +398,16 @@ competition for a nominal scholarship for the best final thesis prepared
 during studies. A grant of EUR 300 was awarded to the authors of the
 final thesis in the following categories:
 
-- \"Technological development of society\" -- for the best work
+- \"Technological development of society\" – for the best work
   exploring and presenting technological solutions that determine the
   development of society;
-- \"Societal challenges in the age of new technologies\" -- for the
+- \"Societal challenges in the age of new technologies\" – for the
   best work exploring the impact of robotics, digitalization and
   artificial intelligence on the development of society and its
   institutes;
-- \"Innovation for life\" -- for the best work that offers a
+- \"Innovation for life\" – for the best work that offers a
   technological solution to meet the needs of society;
-- \"Best interdisciplinary work\" -- for the best work, which deals
+- \"Best interdisciplinary work\" – for the best work, which deals
   with topical complex problems and combines research methods in
   different fields of science.
 

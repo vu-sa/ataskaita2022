@@ -20,8 +20,6 @@ useMutationObserver(document.documentElement, () => {
 
 # Goals set in VU SR divisions
 
-...
-
 ## Faculty of Chemistry and Geosciences
 
 ### 3. On 1st of April 2022, an analysis of the compulsory subjects of two (geography and chemistry) study programs of the first cycle of studies were carried out.
@@ -190,7 +188,7 @@ useMutationObserver(document.documentElement, () => {
   growing groups of students, the stated goal was primarily pursued in
   the discussion at the Board of Studies. In cooperation with the
   Deputy Director of the GMC for Studies and the representative of
-  doctoral students, a solution was found -- to increase the number of
+  doctoral students, a solution was found – to increase the number of
   OCs for doctoral students by creating new OCs. Those who wanted to
   start teaching their subject appeared immediately, however, faced
   with technical obstacles, the solution would require the approval of
@@ -274,13 +272,13 @@ useMutationObserver(document.documentElement, () => {
 ::: tip What was done?
 
 - The Virtual learning environment (VLE) course review and SP
-  improvement plans have been implemented -- the relevant SP includes
+  improvement plans have been implemented – the relevant SP includes
   specializations, new GUS subjects, strange study grids and OC. The
   foundations for the establishment of the Debate Club have been
   created, the initiative of first-year students interested in
   entrepreneurship and investment has been prepared and presented to
   the administration. The basics for the integration of foreign
-  students into the activities of VU SA KnF were created -- BA and MA
+  students into the activities of VU SA KnF were created – BA and MA
   foreign students were introduced to the activities of VU SA KnF, VU
   SA KnF social media posts were translated into English, general
   meetings were started to be conducted in English, foreign students
@@ -351,9 +349,9 @@ useMutationObserver(document.documentElement, () => {
   training, community evenings, etc. In VU MIF spaces, vitality is
   observed; the impact of COVID-19 on social inclusion is weakened.
   The continuity of the activities promoting assistance to \"Student
-  -- For a student\" was ensured: a manager and a team were found,
+  – For a student\" was ensured: a manager and a team were found,
   modules of subjects unclear to students were clarified, for which
-  the \"Student -- For a student\" team could give lectures. Selected
+  the \"Student – For a student\" team could give lectures. Selected
   indicators for assessing the effectiveness of these initiatives:
   change in the number of participants at events, results of autumn
   and spring semester surveys on well-being in the community.

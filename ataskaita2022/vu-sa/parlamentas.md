@@ -23,100 +23,100 @@ mėn.) ir **Ugnius Sejonas** (nuo 2022 m. vasario mėn.).
 
 ### VU SA CHGF
 
--   Ignas Mugenis
--   Gabija Navašinskaitė
--   Viktorija Vrubliauskaitė
+- Ignas Mugenis
+- Gabija Navašinskaitė
+- Viktorija Vrubliauskaitė
 
 ### VU SA EVAF
 
--   Justinas Sacevičius
--   Vanesa Ražinskytė
--   Nadia Ronlev
+- Justinas Sacevičius
+- Vanesa Ražinskytė
+- Nadia Ronlev
 
 ### VU SA FilF
 
--   Elena Pranevičiūtė
--   Anastasija Liubinskytė
--   Lauryna Martin Marin
+- Elena Pranevičiūtė
+- Anastasija Liubinskytė
+- Lauryna Martin Marin
 
 ### VU SA FsF
 
--   Martyna Vilutytė
--   Vakarė Punelytė (iki 2022 m. vasario mėn.)
--   Aistė Rinkevičiūtė (iki 2022 m. vasario mėn.)
--   Vismantas Daujotas (nuo 2022 m. vasario mėn.)
--   Andrė Treinytė (nuo 2022 m. vasario mėn.)
+- Martyna Vilutytė
+- Vakarė Punelytė (iki 2022 m. vasario mėn.)
+- Aistė Rinkevičiūtė (iki 2022 m. vasario mėn.)
+- Vismantas Daujotas (nuo 2022 m. vasario mėn.)
+- Andrė Treinytė (nuo 2022 m. vasario mėn.)
 
 ### VU SA FF
 
--   Raimondas Šiškevičius
--   Kasparas Daranda
--   Kornelija Kairytė
+- Raimondas Šiškevičius
+- Kasparas Daranda
+- Kornelija Kairytė
 
 ### VU SA GMC
 
--   Kornelija Buivydaitė
--   Evelina Prosevičiūtė (iki 2022 m. vasario mėn.)
--   Lukas Šarauskas (iki 2022 m. vasario mėn.)
--   Eglė Jašinskaitė (nuo 2022 m. vasario mėn.)
--   Daniel Šematovič (nuo 2022 m. vasario mėn.)
+- Kornelija Buivydaitė
+- Evelina Prosevičiūtė (iki 2022 m. vasario mėn.)
+- Lukas Šarauskas (iki 2022 m. vasario mėn.)
+- Eglė Jašinskaitė (nuo 2022 m. vasario mėn.)
+- Daniel Šematovič (nuo 2022 m. vasario mėn.)
 
 ### VU SA IF
 
--   Ieva Šiaudvytytė
--   Aušrinė Dichavičiūtė
--   Tomas Mikalauskas
+- Ieva Šiaudvytytė
+- Aušrinė Dichavičiūtė
+- Tomas Mikalauskas
 
 ### VU SA KnF
 
--   Lijana Savickienė
--   Indrė Bagdžiūtė
--   Ieva Šilingaitė
+- Lijana Savickienė
+- Indrė Bagdžiūtė
+- Ieva Šilingaitė
 
 ### VU SA KF
 
--   Dominyka Goldbergaitė
--   Gabija Laibakojytė
--   Kristijonas Ražickas
+- Dominyka Goldbergaitė
+- Gabija Laibakojytė
+- Kristijonas Ražickas
 
 ### VU SA MIF
 
--   Paulina Bilinskaitė
--   Nikita Gladčenko
--   Rita Žilinskaitė
+- Paulina Bilinskaitė
+- Nikita Gladčenko
+- Rita Žilinskaitė
 
 ### VU SA MF
 
--   Emilija Narušytė
--   Julija Elena Koehnke
--   Gabija Venclovaitė
+- Emilija Narušytė
+- Julija Elena Koehnke
+- Gabija Venclovaitė
 
 ### VU SA ŠA
 
--   Paulius Ladukas
--   Akvilė Bušininkaitė
--   Ieva Šukytė
+- Paulius Ladukas
+- Akvilė Bušininkaitė
+- Ieva Šukytė
 
 ### VU SA TSPMI
 
--   Ugnė Bičkauskaitė
--   Ilijas Kulinič
--   Ugnius Sejonas
+- Ugnė Bičkauskaitė
+- Ilijas Kulinič
+- Ugnius Sejonas
 
 ### VU SA TF
 
--   Airina Mikulėnaitė
--   Klaudija Maliauskaitė
--   Dominykas Mečanec
+- Airina Mikulėnaitė
+- Klaudija Maliauskaitė
+- Dominykas Mečanec
 
 ### VU SA VM
 
--   Justinas Brazaitis (iki 2021 m. gruodžio mėn.)
--   Edgaras Kodis (nuo 2021 m. gruodžio mėn.)
--   Matas Krikščiūnas
--   Ričardas Ratkevičius
+- Justinas Brazaitis (iki 2021 m. gruodžio mėn.)
+- Edgaras Kodis (nuo 2021 m. gruodžio mėn.)
+- Matas Krikščiūnas
+- Ričardas Ratkevičius
 
-Ataskaitiniu laikotarpiu įvyko 14 VU SA Parlamento posėdžių (iš jų -- 5
+Ataskaitiniu laikotarpiu įvyko 14 VU SA Parlamento posėdžių (iš jų – 5
 elektroniniai, 8 nuotoliniai ir 1 kontaktinis).
 
 ## Parlamento teiktos pozicijos ir rezoliucijos
@@ -137,7 +137,7 @@ Suvokdamas
 integracijos svarbą, išryškėjančią užsienio studentams bandant įsilieti
 į socialinį ir akademinį Universiteto gyvenimą, VU SA Parlamentas šiuo
 raštu stengiasi atkreipti dėmesį į informacijos sklaidą Universiteto
-komunikacijos kanaluose ir fizinėse erdvėse -- skatina skleisti žinią ne
+komunikacijos kanaluose ir fizinėse erdvėse – skatina skleisti žinią ne
 tik lietuvių, bet ir anglų kalbomis, bei taip suteikti visą reikalingą
 informaciją užsienio studentams (-ėms).
 
@@ -161,7 +161,7 @@ principinių nuostatų pažeidimų likvidavimo.
 
 Pagrindinės iškeltos problemos: apsunkintas informacijos prieinamumas ir
 akademinės etikos konsultanto (-ės) studentams (-ėms) pareigybės
-trūkumas -- rašte pateikiami pasiūlymai, kaip šias problemas spręsti,
+trūkumas – rašte pateikiami pasiūlymai, kaip šias problemas spręsti,
 įtraukiant siūlymus atlikti tyrimus akademinės etikos srityje ar
 įsteigti studentus (-es) konsultuojančio asmens pareigybę.
 
@@ -170,7 +170,7 @@ trūkumas -- rašte pateikiami pasiūlymai, kaip šias problemas spręsti,
 ### Pozicija dėl užsienio studentų (-čių) teisinės padėties
 
 :::tip 🔗 Nuoroda
-[Poziciją](https://vusa.lt/uploads/files/Raštai,%20pozicijos,%20dokumentai/Dėl%20užsienio%20studentų%20(-čių)%20teisinės%20padėties.pdf) skaitykite čia.
+[Poziciją](<https://vusa.lt/uploads/files/Raštai,%20pozicijos,%20dokumentai/Dėl%20užsienio%20studentų%20(-čių)%20teisinės%20padėties.pdf>) skaitykite čia.
 :::
 
 VU SA Parlamentas, siekdamas atkreipti Lietuvos valstybės dėmesį į
@@ -188,7 +188,7 @@ galimybes bei finansinės naštos palengvinimą.
 ### Rezoliucija dėl studentų (-čių) mokslinės veiklos Lietuvos universitetuose
 
 :::tip 🔗 Nuoroda
-[Rezoliuciją](https://vusa.lt/uploads/files/Raštai,%20pozicijos,%20dokumentai/REZOLIUCIJA%20DĖL%20STUDENTŲ(-ČIŲ)%20MOKSLINĖS%20VEIKLOS%20LIETUVOS%20UNIVERSITETUOSE.pdf) skaitykite čia.
+[Rezoliuciją](<https://vusa.lt/uploads/files/Raštai,%20pozicijos,%20dokumentai/REZOLIUCIJA%20DĖL%20STUDENTŲ(-ČIŲ)%20MOKSLINĖS%20VEIKLOS%20LIETUVOS%20UNIVERSITETUOSE.pdf>) skaitykite čia.
 :::
 
 VU SA Parlamentas, siekdamas atkreipti dėmesį į studentų (-čių)
@@ -248,51 +248,51 @@ suformavo organizacijos poziciją karo Ukrainoje atžvilgiu.
 
 ## Kita veikla
 
--   Išrinkti studentų atstovai VU Senate (Ugnė Bičkauskaitė, Kornelija
-    Buivydaitė, Julija Jarutytė, Andželika Jankauskytė, Justas
-    Kvedaravičius, Vanesa Ražinskytė, Arnoldas Solovjovas, Daniel
-    Šematovič) ir VU Tarybos išorinis studentų atstovas Justinas
-    Kondratas;
--   Patvirtinti VU SA MF nuostatai, įsteigiant Vilniaus universiteto
-    Studentų atstovybės Medicinos fakultete Tarptautinių studentų tarybą
-    ir patvirtinant pastarosios darbo reglamentą;
--   Patvirtintos VU SA strateginės metų veiklos gairės (rugsėjo mėn.) ir
-    po perplanavimų atnaujintas metų veiklos planas (vasario mėn.);
--   Patvirtinta tvarka dėl išorinio studentų atstovo (-ės) Vilniaus
-    universiteto Taryboje rinkimų;
--   Inicijuotas darbo reglamento atnaujinimo procesas;
--   Inicijuotas VU SA Parlamento nuolatinių darbo grupių (komitetų)
-    steigimo procesas ir pradėtas darbas su teisiniu reglamentavimu;
--   Kovo mėn. posėdžio metu pristatytas 2021 m. pirmakursių integracijos
-    proceso Universitete tyrimas;
--   Kiekvieno posėdžio metu taikyta VU SA Parlamentui aktualios
-    informacijos, kurią pristatydavo VU SA Prezidentė, praktika;
--   Sudaryta VU SA Parlamento komunikacijos darbo grupė, kuri
-    susirinkimų metu diskutavo bei generavo pasiūlymus, skirtus
-    Parlamento komunikacijos soc. tinkluose atnaujinimui;
--   Sudarytas VU SA parlamentaro gidas, kuriame pateikta visa
-    svarbiausia informacija apie Parlamentą ir jo veikimą, skirta
-    naujiems ir į Parlamentą besiruošiantiems keltis asmenims;
--   Visi nuotoliniai posėdžiai buvo transliuojami VU SA „Facebook"
-    paskyroje;
--   Po kiekvieno nuotolinio ir kontaktinio VU SA Parlamento posėdžio VU
-    SA puslapyje publikuoti straipsniai, informuojantys apie tai, kas
-    buvo aptarta ir patvirtinta posėdžių metu;
--   Vasarą organizuoti VU SA Parlamento mokymai, skirti stiprinti
-    parlamentarų įgūdžius advokacijos, raštų rengimo, Parlamento ir
-    organizacijos suvokimo srityse bei bendrųjų kompetencijų kėlimui;
--   Du kartus vykdyti individualūs pokalbiai tarp VU SA Parlamento
-    pirmininkų ir VU SA padalinių parlamentarų, skirti padalinių
-    problemų ir nuomonės rinkimui;
--   Patvirtinta 2022 m. finansinių išlaidų ir pajamų sąmata;
--   Posėdžių metu buvo pristatyti tyrimai apie:
-    -   studentų (-čių) integraciją;
-    -   studentų (-čių) mokslinę veiklą;
-    -   užsienio studentų (-čių) integraciją;
-    -   studentų (-čių) praktikų vykdymą ir vykdymo kokybės užtikrinimą
-        Universitete bei už jo ribų.
+- Išrinkti studentų atstovai VU Senate (Ugnė Bičkauskaitė, Kornelija
+  Buivydaitė, Julija Jarutytė, Andželika Jankauskytė, Justas
+  Kvedaravičius, Vanesa Ražinskytė, Arnoldas Solovjovas, Daniel
+  Šematovič) ir VU Tarybos išorinis studentų atstovas Justinas
+  Kondratas;
+- Patvirtinti VU SA MF nuostatai, įsteigiant Vilniaus universiteto
+  Studentų atstovybės Medicinos fakultete Tarptautinių studentų tarybą
+  ir patvirtinant pastarosios darbo reglamentą;
+- Patvirtintos VU SA strateginės metų veiklos gairės (rugsėjo mėn.) ir
+  po perplanavimų atnaujintas metų veiklos planas (vasario mėn.);
+- Patvirtinta tvarka dėl išorinio studentų atstovo (-ės) Vilniaus
+  universiteto Taryboje rinkimų;
+- Inicijuotas darbo reglamento atnaujinimo procesas;
+- Inicijuotas VU SA Parlamento nuolatinių darbo grupių (komitetų)
+  steigimo procesas ir pradėtas darbas su teisiniu reglamentavimu;
+- Kovo mėn. posėdžio metu pristatytas 2021 m. pirmakursių integracijos
+  proceso Universitete tyrimas;
+- Kiekvieno posėdžio metu taikyta VU SA Parlamentui aktualios
+  informacijos, kurią pristatydavo VU SA Prezidentė, praktika;
+- Sudaryta VU SA Parlamento komunikacijos darbo grupė, kuri
+  susirinkimų metu diskutavo bei generavo pasiūlymus, skirtus
+  Parlamento komunikacijos soc. tinkluose atnaujinimui;
+- Sudarytas VU SA parlamentaro gidas, kuriame pateikta visa
+  svarbiausia informacija apie Parlamentą ir jo veikimą, skirta
+  naujiems ir į Parlamentą besiruošiantiems keltis asmenims;
+- Visi nuotoliniai posėdžiai buvo transliuojami VU SA „Facebook"
+  paskyroje;
+- Po kiekvieno nuotolinio ir kontaktinio VU SA Parlamento posėdžio VU
+  SA puslapyje publikuoti straipsniai, informuojantys apie tai, kas
+  buvo aptarta ir patvirtinta posėdžių metu;
+- Vasarą organizuoti VU SA Parlamento mokymai, skirti stiprinti
+  parlamentarų įgūdžius advokacijos, raštų rengimo, Parlamento ir
+  organizacijos suvokimo srityse bei bendrųjų kompetencijų kėlimui;
+- Du kartus vykdyti individualūs pokalbiai tarp VU SA Parlamento
+  pirmininkų ir VU SA padalinių parlamentarų, skirti padalinių
+  problemų ir nuomonės rinkimui;
+- Patvirtinta 2022 m. finansinių išlaidų ir pajamų sąmata;
+- Posėdžių metu buvo pristatyti tyrimai apie:
+  - studentų (-čių) integraciją;
+  - studentų (-čių) mokslinę veiklą;
+  - užsienio studentų (-čių) integraciją;
+  - studentų (-čių) praktikų vykdymą ir vykdymo kokybės užtikrinimą
+    Universitete bei už jo ribų.
 
 VU SA Parlamento posėdžiuose dalyvavo ir įvairias temas pristatė
-kviestiniai svečiai -- Vilniaus universiteto Studijų kokybės ir plėtros
+kviestiniai svečiai – Vilniaus universiteto Studijų kokybės ir plėtros
 skyriaus vadovas Andrius Uždanavičius ir Vilniaus universiteto Centrinės
 akademinės etikos komisijos pirmininkė Vigita Vėbraitė.

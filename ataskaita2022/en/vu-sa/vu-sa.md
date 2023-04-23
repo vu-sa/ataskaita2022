@@ -21,13 +21,13 @@ members.
 
 VU SR:
 
-- represents students -- defends students' rights in University's
+- represents students – defends students' rights in University's
   governing bodies and on the national level;
 - contributes to the improvement of the study process in the
   University, is a part of all the most important governing bodies of
   Vilnius University;
-- takes care of social welfare -- provides a comfortable and
-  student--friendly environment, takes care of student integration,
+- takes care of social welfare – provides a comfortable and
+  student–friendly environment, takes care of student integration,
   participates in the distribution of scholarships; organizes
   meaningful leisure time;
 - spreads the information so that all relevant news reaches the
@@ -35,10 +35,10 @@ VU SR:
 
 ## Strategy
 
-**VU SR Vision** -- an open environment for independent student
+**VU SR Vision** – an open environment for independent student
 development in the unified community of Vilnius University.
 
-**VU SR Mission** -- to create the most favourable conditions for
+**VU SR Mission** – to create the most favourable conditions for
 student self-expression by effectively representing the students of
 Vilnius University and fostering the university culture.
 

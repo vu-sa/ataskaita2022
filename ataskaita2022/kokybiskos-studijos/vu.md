@@ -6,9 +6,9 @@ outline: deep
 
 ## VU Taryba
 
-_Studentų atstovai -- Neda Žutautaitė, Justinas Kondratas_
+_Studentų atstovai – Neda Žutautaitė, Justinas Kondratas_
 
-VU Taryba -- Universiteto valdymo organas, kuris prižiūri, ar
+VU Taryba – Universiteto valdymo organas, kuris prižiūri, ar
 Universiteto veikla ir valdymas atitinka Universiteto misiją, veiklos
 tikslus, uždavinius ir principus, bendruosius akademinius interesus,
 Statute nustatytus viešumo ir atskaitomybės visuomenei reikalavimus.
@@ -31,14 +31,14 @@ ataskaita.
 
 _Studentų atstovai:_
 
-- Senato kolegijoje -- Arnoldas Solovjovas
-- Studijų komitete -- Kornelija Buivydaitė, Julija Jarutytė, Justas
+- Senato kolegijoje – Arnoldas Solovjovas
+- Studijų komitete – Kornelija Buivydaitė, Julija Jarutytė, Justas
   Kvederavičius
-- Kokybės ir plėtros komitete -- Ugnė Bičkauskaitė, Andželika
+- Kokybės ir plėtros komitete – Ugnė Bičkauskaitė, Andželika
   Jankauskytė, Vanesa Ražinskytė
-- Mokslo komitete -- Arnoldas Solovjovas, Daniel Šematovič
+- Mokslo komitete – Arnoldas Solovjovas, Daniel Šematovič
 
-VU Senatas -- Universiteto valdymo organas, sudarytas iš VU akademinės
+VU Senatas – Universiteto valdymo organas, sudarytas iš VU akademinės
 bendruomenės narių. Senatas yra atsakingas už studijų kokybės priežiūrą
 ir gerinimą, kultūros, mokslo, tyrimų ir dėstymo laisvės puoselėjimą
 Universitete. VU Senato darbą organizuoja Senato kolegija, kuri svarsto
@@ -54,7 +54,7 @@ Studentams aktualiausi Senate svarstyti klausimai:
 **Svarstyta:** Naujo Senato rinkimai.
 
 **Nutarta:** Naujo Senato sudėtis keičiasi iki 46 asmenų, įtraukiant po
-vieną atstovą iš VU _sui generis_ padalinių -- Šiaulių akademijos ir
+vieną atstovą iš VU _sui generis_ padalinių – Šiaulių akademijos ir
 Verslo mokyklos. Padidėjus Senato narių skaičiui studentų atstovų
 skaičius padidėja iki 9.
 
@@ -69,7 +69,7 @@ fakultete.
 **Svarstyta:** Lyčiai jautrios kalbos gairės ir lyčių lygybės planas.
 
 **Nutarta:** Gairės parengtos kaip priemonė, numatyta Vilniaus
-universiteto įvairovės ir lygių galimybių strategijoje 2020--2025
+universiteto įvairovės ir lygių galimybių strategijoje 2020–2025
 metams, kuri buvo tvirtinama ankstesniais metais Senato posėdžio metu.
 Gairės buvos aptariamos Senate. Susipažinti galima
 [čia](https://vusa.lt/uploads/files/VU_lyciai_jautrios_kalbos_gaires-2.pdf){target="\_blank"}.
@@ -91,7 +91,7 @@ susitinkama su ekspertais tolimesnei diskusijai.
 
 ## VU Rektoratas
 
-_Studentų atstovė -- Neda Žutautaitė_
+_Studentų atstovė – Neda Žutautaitė_
 
 Rektoratas svarsto visus svarbiausius VU klausimus, prieš priimdamas
 sprendimus teikia pastabas ir komentarus iš padalinių bei teikia išvadas
@@ -116,7 +116,7 @@ akademinis padalinys gali prisidėti prie dar didesnio studentų
 
 ### VU Centrinė ginčų nagrinėjimo komisija
 
-_Studentų atstovai -- Ugnė Bičkauskaitė, Augustė Grakavinaitė, Simonas Granskas_
+_Studentų atstovai – Ugnė Bičkauskaitė, Augustė Grakavinaitė, Simonas Granskas_
 
 Komisija nagrinėja skundus dėl padalinių ginčų nagrinėjimo komisijų
 sprendimų bei ginčus tarp studentų ir centrinės administracijos
@@ -125,7 +125,7 @@ nagrinėti 2 pareiškimai.
 
 ### VU Centrinė akademinės etikos komisija
 
-_Studentų atstovai -- Jorigis Jonas Marčėnas, Ilijas Kulinič (iki 2022 m. kovo mėn.), Aistė Rinkevičiūtė (iki 2022 m. kovo mėn.), Dominyka Goldbergaitė (nuo 2022 m. kovo mėn.), Laura Mackevič (nuo 2022 m. kovo mėn.)._
+_Studentų atstovai – Jorigis Jonas Marčėnas, Ilijas Kulinič (iki 2022 m. kovo mėn.), Aistė Rinkevičiūtė (iki 2022 m. kovo mėn.), Dominyka Goldbergaitė (nuo 2022 m. kovo mėn.), Laura Mackevič (nuo 2022 m. kovo mėn.)._
 
 Komisija nagrinėja akademinės bendruomenės narių skundus dėl akademinės
 etikos pažeidimų. Ataskaitiniu laikotarpiu vyko 9 komisijos posėdžiai
@@ -133,7 +133,7 @@ etikos pažeidimų. Ataskaitiniu laikotarpiu vyko 9 komisijos posėdžiai
 
 ### VU Bendrųjų universitetinių studijų komisija
 
-_Studentų atstovės -- Augustė Grakavinaitė, Andželika Jankauskytė_
+_Studentų atstovės – Augustė Grakavinaitė, Andželika Jankauskytė_
 
 BUS (bendrųjų universitetinių studijų) komisija yra atsakinga už BUS
 koncepcijos įgyvendinimą Universitete, vykdo BUS dalykų įgyvendinimo
@@ -144,7 +144,7 @@ ir tvirtinti nauji bei atnaujinti BUS dalykai, vykdomi lietuvių ir anglų
 kalbomis. Šiuo laikotarpiu taip pat vyko BUS dalykų peržiūra: peržiūrėti
 seniausiai vykdomi BUS dalykai, išanalizuoti studentų atsiliepimai,
 pateiktos pastabos dalyko aprašų atnaujinimui. Posėdžių metu buvo
-nagrinėti 2020--2021 m. m. pavasario semestro studentų atsiliepimai apie
+nagrinėti 2020–2021 m. m. pavasario semestro studentų atsiliepimai apie
 atrinktus seniausius BUS dalykus, jų statistika bei analizė.
 
 Ataskaitiniu laikotarpiu patvirtinti ir Senatui svarstyti teikti nauji
@@ -179,20 +179,20 @@ bei atnaujinimui BUS:
 
 ### VU Centrinė rinkimų komisija
 
-_Studentų atstovė -- Dominyka Goldbergaitė_
+_Studentų atstovė – Dominyka Goldbergaitė_
 
 VU Centrinė rinkimų komisija yra atsakinga už tinkamą Universiteto
 valdymo organų rinkimų organizavimą, išrinktų Senato ir Tarybos narių
 registravimą, Rektoriaus rinkimų rezultatų nustatymą.
 
-Ataskaitiniu laikotarpiu vyko 9 posėdžiai, iš kurių 4 -- nuotoliniai. Jų
+Ataskaitiniu laikotarpiu vyko 9 posėdžiai, iš kurių 4 – nuotoliniai. Jų
 metu patvirtintos visų Vilniaus Universiteto kamieninių akademinių
 padalinių rinkimų komisijų sudėtys bei Senato rinkimų preliminaraus
 grafikas.
 
 ### VU Emeritūros, afiliacijos ir garbės vardų komisija
 
-_Studentų atstovė -- Julija Jarutytė_
+_Studentų atstovė – Julija Jarutytė_
 
 Komisija svarsto ir VU Senatui teikia tvirtinti kandidatūras gauti VU
 profesoriaus emerito, afilijuotojo profesoriaus, docento, mokslo
@@ -210,7 +210,7 @@ Chung-Kuang Yang.
 
 ### VU Priėmimo komisija
 
-_Studentų atstovė -- Neda Žutautaitė_
+_Studentų atstovė – Neda Žutautaitė_
 
 Komisija svarsto ir teikia Universiteto rektoriui tvirtinti dėstytojų ir
 mokslo darbuotojų kandidatūras akademinėms pareigoms užimti.
@@ -220,7 +220,7 @@ duomenimis, siūlė tvirtinti ne visas kandidatūras.
 
 ### VU Vienkartinių socialinių stipendijų skirstymo komisija
 
-_Studentų atstovai -- Ieva Budreikaitė, Ieva Šiaudvytytė, Raimondas Šiškevičius_
+_Studentų atstovai – Ieva Budreikaitė, Ieva Šiaudvytytė, Raimondas Šiškevičius_
 
 Vienkartinės socialinės stipendijos yra Universiteto skiriama parama
 studentams, susidūrusiems su sunkumais, kurie paveikė jų gyvenimus
@@ -230,7 +230,7 @@ posėdžiai, kurių metu skirtos 86 stipendijos už 25 874 eurų sumą.
 
 ### VU Vienkartinių tikslinių stipendijų skirstymo komisija
 
-_Studentų atstovai -- Ieva Budreikaitė, Raimondas Šiškevičius_
+_Studentų atstovai – Ieva Budreikaitė, Raimondas Šiškevičius_
 
 Vienkartinės tikslinės stipendijos yra Universiteto skiriama skatinamoji
 parama studentams, kurie aktyviai dalyvauja socialinėse, mokslinėse,
@@ -240,14 +240,14 @@ stipendijos už 92 463 eurų sumą.
 
 ### VU Profesoriaus ir docento pedagoginių vardų teikimo komisija
 
-_Studentų atstovė -- Ugnė Bičkauskaitė_
+_Studentų atstovė – Ugnė Bičkauskaitė_
 
 Komisija svarsto ir teikia Senatui tvirtinti dėstytojų kandidatūras dėl
 pedagoginių vardų suteikimo. Ataskaitiniu laikotarpiu įvyko 1 posėdis.
 
 ### VU Geriausių dėstytojų pripažinimo komisija
 
-_Studentų atstovas -- Arnoldas Solovjovas_
+_Studentų atstovas – Arnoldas Solovjovas_
 
 Komisija svarsto kandidatų veiklą ir teikia Rektoriui rekomendacijas dėl
 kandidatų pripažinimo geriausiais metų dėstytojais. Kandidatūras iš
@@ -280,13 +280,13 @@ dėstytojų, kurie vėliau buvo apdovanoti Rektoriaus premija.
 - Verslo mokyklos profesoriui Mindaugui Laužikui;
 - Medicinos fakulteto profesorei Dianai Ramašauskaitei.
 
-## Vilniaus universiteto 2021--2025 m. strateginio plano įgyvendinimui
+## Vilniaus universiteto 2021–2025 m. strateginio plano įgyvendinimui
 
 sudarytos grupės ir komisijos
 
-### VU 2021--2025 m. strateginio plano veiklos „Studentų pasirinkimo ir daugiakryptiškumo galimybių didinimas" įgyvendinimo darbo grupė
+### VU 2021–2025 m. strateginio plano veiklos „Studentų pasirinkimo ir daugiakryptiškumo galimybių didinimas" įgyvendinimo darbo grupė
 
-_Studentų atstovė -- Neda Žutautaitė_
+_Studentų atstovė – Neda Žutautaitė_
 
 Darbo grupė suburta siekiant įgyvendinti studentų pasirinkimo ir
 daugiakryptiškumo galimybių didinimą, bakalauro ir vientisosiose
@@ -300,7 +300,7 @@ studijų modelio organizavimui.
 
 ### VU studijų kokybės vadovo atnaujinimo darbo grupė
 
-_Studentų atstovė -- Dominyka Goldbergaitė_
+_Studentų atstovė – Dominyka Goldbergaitė_
 
 Darbo grupė suburta patvirtinus naują Universiteto strateginį veiklos
 planą, kuriame buvo numatyta atnaujinti turimą studijų kokybės vadovą.
@@ -313,7 +313,7 @@ darbą su šio vadovo atnaujinimu.
 
 ### VU studijų tarptautiškumo iniciatyvų komisija
 
-_Studentų atstovė -- Ugnė Bičkauskaitė_
+_Studentų atstovė – Ugnė Bičkauskaitė_
 
 Komisijai yra teikiamos tarptautinių iniciatyvų paraiškos, kurias
 įvertinus priimamas sprendimas dėl lėšų skyrimo jų įgyvendinimui.
@@ -321,7 +321,7 @@ Ataskaitiniu laikotarpiu įvyko 4 posėdžiai.
 
 ### VU Edukacinių iniciatyvų komisija
 
-_Studentų atstovė -- Neda Žutautaitė_
+_Studentų atstovė – Neda Žutautaitė_
 
 Edukacinių iniciatyvų komisija yra naujai suburta komisija, kuri
 svarsto, tvirtina ir skiria lėšas dėstytojų iniciatyvoms, skirtoms
@@ -334,7 +334,7 @@ ir iniciatyvos.
 
 ### VU pedagogų rengimo plėtros komitetas
 
-_Studentų atstovė -- Neda Žutautaitė_
+_Studentų atstovė – Neda Žutautaitė_
 
 Komitetas sudarytas siekiant parengti Pedagogų ugdymo plėtros koncepciją
 Vilniaus universitete. Šiam tikslui pasiekti buvo organizuojamos XXI
@@ -345,7 +345,7 @@ bendruomenėje, kuriose dalyvavo ir studentų atstovai.
 
 ### VU Stipendijų darbo grupė
 
-_Studentų atstovės -- Lijana Savickienė, Neda Žutaitaitė_
+_Studentų atstovės – Lijana Savickienė, Neda Žutaitaitė_
 
 VU suburta darbo grupė Stipendijų nuostatų atnaujinimui, siekiant
 peržiūrėti šiuo metu egzistuojančias studentų paramos formas,
@@ -357,36 +357,36 @@ dviejų skirtingų dydžių. Taip pat paramos plėtimui kuriamas naujas
 stipendijos modelis, skirtas mažiausias pajamas turintiems studentams
 tam, kad jie galėtų ne dirbti, o studijuoti ir siekti akademinių
 rezultatų, suteikiant piniginę paramą visus metus kas mėnesį skiriant
-fiksuotą paramos sumą, o pasiekus tam tikrų pasiekimų -- paskatinant
+fiksuotą paramos sumą, o pasiekus tam tikrų pasiekimų – paskatinant
 papildomai.
 
 ### VU 450-mečio stipendija
 
-_Studentų atstovės -- Ugnė Bičkauskaitė, Ieva Budreikaitė, Raminta Klimaitė_
+_Studentų atstovės – Ugnė Bičkauskaitė, Ieva Budreikaitė, Raminta Klimaitė_
 
 VU 450-mečio stipendija yra Universiteto skiriama parama būsimiems
 studentams iš socialiai pažeidžiamų grupių. 100 būsimų studentų mokama
-200 eurų stipendija pirmuosius studijų metus -- nuo rugsėjo iki birželio
+200 eurų stipendija pirmuosius studijų metus – nuo rugsėjo iki birželio
 mėnesio, siekiant mažinti socialinės atskirties problemą.
 
 ### VU „Tech Hub" stipendijų komisija
 
-_Studentų atstovė -- Neda Žutautaitė_
+_Studentų atstovė – Neda Žutautaitė_
 
 Vilniaus universiteto Technologijų uostas (VU „Tech Hub") paskelbė
 konkursą dėl vardinės stipendijos už geriausią studijų metu parengtą
 baigiamąjį darbą. 300 eurų stipendija buvo skiriama baigiamųjų darbų
 autoriams šiose kategorijose:
 
-- "Technologijos visuomenės raidai" -- už geriausią darbą, kuriame
+- "Technologijos visuomenės raidai" – už geriausią darbą, kuriame
   tiriami ir pristatomi technologiniai sprendimai, nulemiantys
   visuomenės raidą;
-- "Visuomeniniai iššūkiai naujųjų technologijų amžiuje" -- už
+- "Visuomeniniai iššūkiai naujųjų technologijų amžiuje" – už
   geriausią darbą, tiriantį robotizacijos, skaitmenizacijos ir
   dirbtinio intelekto poveikį visuomenės ir jos institutų vystymuisi;
-- "Inovacijos gyvenimui" -- už geriausią darbą, kuriame siūlomas
+- "Inovacijos gyvenimui" – už geriausią darbą, kuriame siūlomas
   technologinis sprendimas visuomenės poreikiams tenkinti;
-- "Geriausias tarpdisciplininis darbas" -- už geriausią darbą, kuriame
+- "Geriausias tarpdisciplininis darbas" – už geriausią darbą, kuriame
   nagrinėjamos aktualios sudėtinės problemos ir derinami skirtingų
   mokslų sričių tyrimo metodai.
 
@@ -395,21 +395,21 @@ buvo išrinkti laureatai.
 
 ### VU Kanados lietuvių vardinės stipendijos komisija
 
-_Studentų atstovė -- Elena Pranevičiūtė_
+_Studentų atstovė – Elena Pranevičiūtė_
 
 Stipendija yra skiriama Chemijos ir geomokslų, Medicinos fakulteto bei
 Gyvybės mokslų centro Chemijos, Biochemijos, Mikrobiologijos ir
 biotechnologijos bei Medicinos studijų programų gerai besimokantiems ir
-socialiai remtiniems I pakopos (bakalauro) 2--4 kursų, vientisųjų
-studijų 2--6 kursų ir II pakopos (magistrantūros) studentams.
+socialiai remtiniems I pakopos (bakalauro) 2–4 kursų, vientisųjų
+studijų 2–6 kursų ir II pakopos (magistrantūros) studentams.
 Ataskaitiniu laikotarpiu įvyko 1 šios komisijos posėdis, kuriame
 stipendija buvo skirta 3-ims studentams.
 
 ### VU Lietuvos Didžiosios Kunigaikštystės vardinių stipendijų skyrimo komisija
 
-_Studentų atstovas -- Daniel Šematovič_
+_Studentų atstovas – Daniel Šematovič_
 
-Lietuvos Didžiosios Kunigaikštystės (toliau -- LDK) stipendijos tikslas
+Lietuvos Didžiosios Kunigaikštystės (toliau – LDK) stipendijos tikslas
 yra paremti ir padėti Ukrainos Respublikos bei Baltarusijos Respublikos
 piliečiams, priimtiems studijuoti Vilniaus universiteto pirmosios,
 antrosios ir vientisųjų studijų programose. Ši stipendija yra skiriama
@@ -420,7 +420,7 @@ nusprendė savo studijas pratęsti Vilniaus universitete.
 
 ### VU SBA įmonių grupės vardinių stipendijų skyrimo komisija
 
-_Studentų atstovas -- Daniel Šematovič_
+_Studentų atstovas – Daniel Šematovič_
 
 SBA įmonių grupės vardinės stipendijos tikslas yra padėti nuo
 Baltarusijos Respublikos režimo represijų nukentėjusiems Baltarusijos
@@ -443,7 +443,7 @@ pakopos studentai.
 
 Po antrojo susitikimo VU SA iniciatyva buvo suburta neoficiali VU
 doktorantų grupė, kurią sudaro bent po vieną atstovą iš kiekvieno VU
-akademinio padalinio. Šios grupės tikslas -- analizuoti esamas III
+akademinio padalinio. Šios grupės tikslas – analizuoti esamas III
 pakopos studentų problemas, numatyti prioritetus, gerinti VU SA III
 pakopos studentų atstovavimą bei teikti siūlymus galimiems iššūkių, su
 kuriais doktorantai susiduria, sprendimams. Grupė susirinkimus planuoja
@@ -475,7 +475,7 @@ pasirenkamųjų dalykų, dalykų turinio bei aprašų naujinimo klausimais.
 
 ### Akademinių reikalų prodekanų posėdžiai
 
-_Studentų atstovai -- Margarita Aleksynaitė, Arnoldas Solovjovas_
+_Studentų atstovai – Margarita Aleksynaitė, Arnoldas Solovjovas_
 
 Akademinių reikalų prodekanų posėdžių metu ruošiamos teikti išvados ir
 rekomendacijos Universiteto studijų veiklai gerinti. Šiuose posėdžiuose
@@ -498,7 +498,7 @@ studentų paramos ir priėmimo į universitetą.
 
 ### VU partnerystės profesorių ir partnerystės docentų skyrimo patariamasis komitetas
 
-_Studentų atstovė -- Neda Žutautaitė_
+_Studentų atstovė – Neda Žutautaitė_
 
 Komitetas teikia VU rektoriui nuomonę dėl VU partnerystės profesorių ir
 partnerystės docentų pareigybių suteikimo. Šios pareigybės leidžia
@@ -516,9 +516,9 @@ fakulteto lygmenyje ir sutartis sudaryta vienerių metų laikotarpiui.
 
 ### VU studentų paslaugų darbo grupė
 
-_Studentų atstovas -- Arnoldas Solovjovas_
+_Studentų atstovas – Arnoldas Solovjovas_
 
-Studentų paslaugų darbo grupės tikslas -- išsigryninti visas VU
+Studentų paslaugų darbo grupės tikslas – išsigryninti visas VU
 teikiamas paslaugas bendruomenės nariams, išanalizuoti užsienio
 universitetų teikiamų paslaugų modelį. Siekiama optimizuoti šiuo metu
 teikiamas paslaugas, nes dalis jų teikiamos skirtingų skyrių ar centrų
@@ -528,7 +528,7 @@ buvo apklausiami dėl teikiamų VU paslaugų ir jų kokybės.
 
 ### VU Covid-19 darbo grupė
 
-_Studentų atstovė -- Neda Žutautaitė_
+_Studentų atstovė – Neda Žutautaitė_
 
 Darbo grupė suburta Universiteto veiksmų ir procesų koordinavimui
 reaguojant į pandemijos sąlygas ir apribojimus. Darbo grupės kontekste
@@ -539,7 +539,7 @@ papildomų saugumo priemonių.
 
 ### VU darbo grupė dėl Ukrainos padėties
 
-_Studentų atstovė -- Neda Žutautaitė_
+_Studentų atstovė – Neda Žutautaitė_
 
 Darbo grupė suburta atsižvelgiant į karo Ukrainoje situaciją ir skirta
 Universiteto veiksmų, iniciatyvų bei komunikacijos derinimui teikiant
@@ -551,7 +551,7 @@ paramą bei imtasi kitų iniciatyvų įgyvendinimo.
 
 ### VU VUSIS3 projekto ekspertų darbo grupė
 
-_Studentų atstovas -- Arnoldas Solovjovas_
+_Studentų atstovas – Arnoldas Solovjovas_
 
 VUSIS3 projekto darbo grupė suburta dėl ketinamos atnaujinti Vilniaus
 universiteto informacinės sistemos. Ataskaitiniu laikotarpiu įvyko 3
@@ -560,7 +560,7 @@ sistemos versijos konkursą laimėjusiai įmonei sistemos programavimui.
 
 ### VU emocinės gerovės darbo grupė
 
-_Studentų atstovės -- Julija Jarutytė, Neda Žutautaitė_
+_Studentų atstovės – Julija Jarutytė, Neda Žutautaitė_
 
 Emocinės gerovės darbo grupė suburta siekiant sukurti emocinės gerovės
 užtikrinimo sistemą Universitete. Ataskaitiniu laikotarpiu įvyko 3 darbo

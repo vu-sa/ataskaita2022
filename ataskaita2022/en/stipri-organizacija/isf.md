@@ -27,7 +27,7 @@ also carried out the following projects:
 - \"Leadership ABC\" was prepared and two leadership workshops were
   organized (one in September, next in February);
 - The database of the lecturers has been updated;
-- The program of the mentors is being reviewed -- mentors, the
+- The program of the mentors is being reviewed – mentors, the
   structure and functioning of the program (this year the mentor had
   16 people);
 - Preparing a pass of experience memo;

@@ -1,4 +1,6 @@
 export default {
+    title: "Report 2021-2022",
+    description: "VU Student Council's annual report for 2021-2022 term.",
     themeConfig: {
         nav: [
             { text: 'Congratulations', link: '/en/sveikinimai' },

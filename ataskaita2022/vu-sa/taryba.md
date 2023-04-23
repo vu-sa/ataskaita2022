@@ -92,7 +92,7 @@ const members = [
 ]
 </script>
 
-# VU SA taryba
+# VU SA Taryba
 
 ![VU SA Taryba](/img/koordinatoriu-nuotraukos/bendros/Taryba-2.jpg)
 

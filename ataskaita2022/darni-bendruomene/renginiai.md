@@ -34,7 +34,7 @@ Lapkričio 17 d. VU Mokslinės komunikacijos ir informacijos centre (MKIC)
 ### #ateitieskūrėjai. Kompetencijų mugė
 
 Lapkričio 18 d. VU Centriniuose rūmuose vyko #ateitieskūrėjai.
-Kompetencijų mugė -- dirbtuvės, užsiėmimai, paskaitos, kurių metu
+Kompetencijų mugė – dirbtuvės, užsiėmimai, paskaitos, kurių metu
 studentai (-ės) turėjo galimybę ugdyti kompetencijas, įgyti naujų žinių
 bei susipažinti su VU SA programomis, klubais ir projektais bei
 Universitete veikiančiomis organizacijomis. Renginio metu sutikome ir
@@ -79,7 +79,7 @@ koja su šūkiu „Atrask MIDI iš naujo!". Didžiausias VU MIF studentų
 tradiciniais, visų pamiltais renginiais: orientacinėmis varžybomis, LAN
 Party, šachmatų turnyru, sporto dienomis, konferencija, įmonių muge,
 protmūšiu ir uždarymo vakaru. Pirmą kartą surengtos 1974-aisiais,
-**MIDI** šiemet organizuojamos jau 41--ąjį kartą.
+**MIDI** šiemet organizuojamos jau 41–ąjį kartą.
 
 ### Filologų naktys
 

@@ -20,8 +20,6 @@ useMutationObserver(document.documentElement, () => {
 
 # VU SA padaliniuose iškelti tikslai
 
-...
-
 ## Chemijos ir geomokslų fakultete
 
 ### 3. 2022 m. balandžio 1 d. yra atlikta I studijų pakopos dviejų (geografijos ir chemijos) studijų programų privalomųjų dalykų analizė.

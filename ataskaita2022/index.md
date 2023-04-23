@@ -31,7 +31,7 @@ features:
     icon: 📝
     link: /mvp/mvp
   - title: Veikla
-    details: Išskaidėm veiklą į 3 strategines kryptis
+    details: Išskaidėme nuveiktus darbus į 3 VU SA strategines kryptis
     icon: 📈
     link: /kokybiskos-studijos/nacionalinis
   - title: VU SA bendruomenė
@@ -39,7 +39,13 @@ features:
     icon: 🤝
     link: /bendruomene
   - title: Padėka
-    details: Ačiū visiems, kurie prisidėjo prie VU SA veiklos
+    details: Ačiū visiems (-oms), kurie prisidėjo prie VU SA veiklos
     icon: 🙏
     link: /padeka
 ---
+
+<script setup lang="ts">
+import TestimonialElement from "/components/TestimonialElement.vue";
+</script>
+
+<TestimonialElement />

@@ -13,12 +13,12 @@ Dear students of Vilnius University,
 The past year and the beginning of this year have again brought great,
 previously unexplored challenges. For three years now, we have been
 living in a climate of global uncertainty and are learning to do the
-best we can -- we are looking for solutions, trying to see the
+best we can – we are looking for solutions, trying to see the
 possibilities of each situation and reacting quickly to change, and at
 the same time we do not forget. raise questions that have matured for a
 long time and look for constructive solutions.
 
-The determined students of Vilnius University are very delightful --
+The determined students of Vilnius University are very delightful –
 when faced with difficulties, you have not been left behind, you are not
 left behind, you are not passive observers, but you yourself are
 constantly looking for ways and suggesting how your community can
@@ -67,7 +67,7 @@ characterized by unfailing activity and citizenship, the ability to act
 and unite. At this turbulent time, you have put in a huge deposit to
 provide as much clarity and encouragement as possible to your community.
 I believe that you will be happy to welcome those who are experiencing
-the most at the moment -- let\'s do our best to make Ukrainians in a
+the most at the moment – let\'s do our best to make Ukrainians in a
 brotherly country feel welcome, feel safe.
 
 I wish you to continue your meaningful work and fully improve, to
@@ -205,7 +205,7 @@ participants and partners of all these transformations.
 
 On behalf of the entire VU Council, I thank you all for your
 partnership, initiative and volunteering. With all your youthful energy,
-continue to build your university -- an international community based on
+continue to build your university – an international community based on
 mutual respect, where there is a dialogue between different generations,
 where science and studies combine with meaningful leisure and social
 responsibility and volunteering.
@@ -286,7 +286,7 @@ students to take a more active interest in the specific course
 \"Academic Ethics\", preparation of methodological material, openness to
 consultations and other initiatives are some examples when your
 involvement is significant. The most important thing is to move forward
-creatively and boldly -- this is how changes in the Lithuanian study and
+creatively and boldly – this is how changes in the Lithuanian study and
 science system become possible.
 
 I appreciate your contribution and invite you to work together towards
@@ -312,7 +312,7 @@ And here society especially needs your positivity, courage and, most
 importantly, real involvement. Share information, explain to the
 doubters, create the state and the future in which you want to live.
 
-And Vilnius will always be yours -- established after studying or
+And Vilnius will always be yours – established after studying or
 deciding to look abroad after studying. We look forward to coming back.
 
 Mayor of Vilnius

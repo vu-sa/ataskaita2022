@@ -2,7 +2,7 @@
 
 ## Nuolatinių studentų iš užsienio studijų pradžios Vilniaus universitete (VU) bei Kauno technologijos universitete (KTU) patirtys
 
-Tyrimas atliktas 2021 m. kovo 5--21 d. laikotarpiu bendradarbiaujant su
+Tyrimas atliktas 2021 m. kovo 5–21 d. laikotarpiu bendradarbiaujant su
 Kauno technologijos universiteto Studentų atstovybe. Tyrimo tikslas buvo
 išsiaiškinti studentų problemas nuotolinių studijų laikotarpiu ir
 išsiaiškinti veiksnius, apsunkinančius integraciją į akademinę
@@ -20,7 +20,7 @@ parengti paviršutiniškai. Plačiau apie tyrimą galima rasti
 
 ## Full-time international students' experiences of arriving, studying, living in Lithuania: the perspective of students, experts and stakeholders
 
-Tyrimas atliktas 2021 m. birželio 1 d. -- 2021 m. rugpjūčio 23 d.
+Tyrimas atliktas 2021 m. birželio 1 d. – 2021 m. rugpjūčio 23 d.
 laikotarpiu, siekiant išsiaiškinti užsienio studentų, atvykusių
 studijuoti visam studijų laikotarpiui Lietuvoje, neigiamas patirtis ir
 jiems kylančius sunkumus. Atlikus tyrimą paaiškėjo, jog šie studentai
@@ -41,7 +41,7 @@ tyrimą galima rasti
 
 ## Studentų praktikų vykdymo ir kokybės užtikrinimo universitete bei už jo ribų tyrimas
 
-Tyrimas atliktas 2021 m. rugpjūčio 16 d. -- 2021 m lapkričio 24 d.
+Tyrimas atliktas 2021 m. rugpjūčio 16 d. – 2021 m lapkričio 24 d.
 laikotarpiu. Atliekant tyrimą buvo siekiama apžvelgti Lietuvos aukštųjų
 mokyklų studentų praktikų organizavimo problemas bei išsiaiškinti
 galimybes ir kylančius sunkumus studentų atliekamų praktikų kokybės
@@ -61,7 +61,7 @@ galima rasti
 
 ## Studentų mokslinės veiklos tyrimas
 
-Tyrimas atliktas 2021 m. liepos--gruodžio mėn. Tyrimo tikslas --
+Tyrimas atliktas 2021 m. liepos–gruodžio mėn. Tyrimo tikslas –
 apžvelgti studentų mokslinės veiklos situaciją Lietuvos universitetuose
 bei įvardinti, kodėl studentai (ne)įsitraukia į mokslinę veiklą,
 kokiomis formomis jie gali įsitraukti ir kaip ši veikla stebima Lietuvos
@@ -136,7 +136,7 @@ tyrimą.](/uploads/files/2021–2022/SD-priemonių-grupių-apžvalga.pdf)
 
 ## Pirmakursių integracijos į universitetą tyrimas
 
-VU SA atliko pirmakursių integracijos tyrimą. Tyrimo tikslas --
+VU SA atliko pirmakursių integracijos tyrimą. Tyrimo tikslas –
 išsiaiškinti VU bei VU SA vykdomų veiklų efektyvumą ir įsitraukimą į
 sėkmingą pirmakursių integracijos procesą. Tyrimo apklausoje iš viso
 dalyvavo 825 studentai, iš kurių 61 užsienio studentas. Iš apklausą

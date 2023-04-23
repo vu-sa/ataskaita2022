@@ -6,7 +6,7 @@
 
 _Ataskaitiniu laikotarpiu radijui vadovavo Rimantas Murza._
 
-VU radijas START FM -- VU SA ir Vilniaus universiteto radijo stotis,
+VU radijas START FM – VU SA ir Vilniaus universiteto radijo stotis,
 veiklą pradėjusi 2005 metais. Vienintelė Lietuvoje studentų radijo
 stotis suteikia plačias saviraiškos galimybes studentams: padeda rengti
 būsimus žurnalistus, programuotojus ir kitų sričių specialistus. START
@@ -15,12 +15,12 @@ atlikėjų ir muzikos grupių kūrybos sklaidą, rengia interviu su
 alternatyvios muzikos atlikėjais, palaiko įvairias menines bei
 socialines iniciatyvas.
 
-2021--2022 m. per savaitę buvo transliuojama vidutiniškai 48 valandos
+2021–2022 m. per savaitę buvo transliuojama vidutiniškai 48 valandos
 originalaus programavimo (kitą programos dalį sudaro automatinis muzikos
 grojimas), o internetu eterį įsijungdavo vidutiniškai 42 000 unikalių
 klausytojų per mėnesį.
 
-Augimas nesustojo ir bendradarbiavimo vystyme -- pradėti bendri
+Augimas nesustojo ir bendradarbiavimo vystyme – pradėti bendri
 projektai su Lietuvos tarpdisciplinio meno kūrėjų sąjunga, šiuolaikinės
 rimtosios muzikos festivaliu Druskomanija, neformalia muzikos kūrybos
 mokykla „Muzikalkė", radijo teatru Bilietų Nėra (studijoje įrašytas ir
@@ -39,7 +39,7 @@ reportažus aktualiomis temomis bei interviu.
 
 _Ataskaitiniu laikotarpiu klubo veiklą koordinavo Robertas Remeika._
 
-VU Debatų klubas -- 2004 m. įkurtas klubas, skirtas skatinti studentų,
+VU Debatų klubas – 2004 m. įkurtas klubas, skirtas skatinti studentų,
 atstovaujančių skirtingiems fakultetams, bendravimą, suteikti erdvę
 lavinti kritinio mąstymo, argumentavimo, anglų kalbos ir viešojo
 kalbėjimo įgūdžius bei atstovauti Vilniaus universitetui debatų
@@ -62,10 +62,10 @@ klubas buvo sėkmingai atidaryta pirmajame viešame renginyje, vykusiame
 
 _Ataskaitiniu laikotarpiu projekto veiklą koordinavo Rugilė Hokušaitė (iki 2021 m. gruodžio mėn.), Urtė Marija Kasnikauskaitė (nuo 2021 m. gruodžio mėn.)._
 
-Studentai -- moksleiviams, moksleiviai -- studentams -- VU SA
+Studentai – moksleiviams, moksleiviai – studentams – VU SA
 organizuojama trijų dienų stovykla vyresnių klasių mokiniams, norintiems
 iš arčiau susipažinti su studentišku gyvenimu ir studijų galimybėmis.
-Šiais metais stovyklą pagaliau pavyko surengti kontaktiniu būdu -- dėl
+Šiais metais stovyklą pagaliau pavyko surengti kontaktiniu būdu – dėl
 vyravusios pandeminės situacijos Lietuvoje du metus iš eilės šis
 projektas buvo perkeltas į Discord platformą. Šių metų SMMS stovykla
 įvyko Generolo Jono Žemaičio Lietuvos karo akademijoje, su kuria
@@ -75,7 +75,7 @@ visos Lietuvos ir suteikti jiems galimybę pamatyti Vilniaus
 universitetą, jame vykdomas veiklas bei kartu su kuratoriais-studentais
 bent dienai pasijausti tikrais studentais pasirinktuose fakultetuose.
 Šiais metais moksleiviai galėjo susipažinti ne tik su Universitete
-vykdomomis studijomis, bet ir saviraiškos galimybėmis -- programomis,
+vykdomomis studijomis, bet ir saviraiškos galimybėmis – programomis,
 klubais bei projektais.
 
 ## VU Teisės klinika
@@ -84,7 +84,7 @@ klubais bei projektais.
 
 _Ataskaitiniu laikotarpiu projektą koordinavo Viktorija Medžiaušaitė._
 
-VU SA ir partnerių įsteigta VšĮ Vilniaus universiteto Teisės klinika --
+VU SA ir partnerių įsteigta VšĮ Vilniaus universiteto Teisės klinika –
 nemokamos teisinės pagalbos projektas, kuris suteikia tikros profesinės
 praktikos galimybę vyresniųjų kursų teisės studentams, o visuomenei
 siūlo nemokamą teisinę pagalbą ir skatina teisinį raštingumą. Prieš 24
@@ -112,10 +112,10 @@ visuomenės informavimo priemonėmis, reguliariai teikė teisinius
 komentarus populiariausiems portalams: lrt.lt, 15min.lt, teise.pro,
 dalyvavo radijo laidoje („Radijo byla"). Parengtos 11 publikacijų
 tokiomis temomis kaip: „Baudžiamosios atsakomybės už kyšininkavimą
-ypatumai"; „Nelaimingas atsitikimas dirbant nuotoliniu būdu -- kieno tai
-atsakomybė?"; „Bendravimas su vaiku -- teisė ir pareiga"; „Ar darbdavys
+ypatumai"; „Nelaimingas atsitikimas dirbant nuotoliniu būdu – kieno tai
+atsakomybė?"; „Bendravimas su vaiku – teisė ir pareiga"; „Ar darbdavys
 gali nutraukti darbo sutartį, kai nėra darbuotojo kaltės?";
-„Paveldėjimas -- ką daryti netekus sutuoktinio?"; „Asmens teisė į
+„Paveldėjimas – ką daryti netekus sutuoktinio?"; „Asmens teisė į
 atvaizdą: kada asmens nuotrauka viešinama neteisėtai?" ir kt.
 
 Kartu su Vilniaus universiteto Studentų atstovybe parengti mokymai
@@ -136,7 +136,7 @@ centru dėl teisinės pagalbos teikimo nukentėjusiems nuo prekybos
 
 _Ataskaitiniu laikotarpiu fondui vadovavo Ieva Turskytė (iki 2022 m. sausio mėn.) bei Gabrielė Stanionytė (nuo 2022 m. sausio mėn.)._
 
-Vilniaus universiteto Studentų investicinis fondas (VU SIF) -- VU SA
+Vilniaus universiteto Studentų investicinis fondas (VU SIF) – VU SA
 įsteigtas pirmasis ir didžiausias studentų investicinis fondas
 Lietuvoje, skatinantis jaunimą domėtis investicijų valdymo pasauliu ir
 savarankiškai investuoti.
@@ -176,24 +176,24 @@ Verslo mokykla bei Vilniaus universitetas.
 
 _Ataskaitiniu laikotarpiu projekto veiklą koordinavo Eglė Jašinskaitė._
 
-Vilniaus universiteto Karjeros dienos -- VU SA projektas, leidžiantis
+Vilniaus universiteto Karjeros dienos – VU SA projektas, leidžiantis
 studentams susipažinti su potencialiais darbdaviais, užmegzti naujus
 ryšius ir savarankiškai pradėti karjeros kelią. Projektu siekiama padėti
 studijuojantiesiems įsitvirtinti darbo rinkoje ir tapti paklausiais savo
 srities specialistais.
 
 Šių metų pagrindinis renginys VU Karjeros dienos 2022 buvo
-suorganizuotas kovo 21--24 d., o vasario 22 d. ir kovo 3 d. įvyko VU
+suorganizuotas kovo 21–24 d., o vasario 22 d. ir kovo 3 d. įvyko VU
 Karjeros diena Kauno fakultete ir VU Karjeros diena Šiaulių akademijoje.
 Į projektą įsitraukė 76 įmonės ir finansiniai rėmėjai. Taip pat
 suorganizuoti 4 papildomi renginiai, kurių metu gvildentos įvairios
 temos, susijusios su karjera. Sklandžią viso projekto eigą padėjo
 užtikrinti suburta 111 vadovų, narių ir savanorių komanda. Didžiausi šių
-metų pokyčiai -- papildomų renginių organizavimas, narių įtraukimas
+metų pokyčiai – papildomų renginių organizavimas, narių įtraukimas
 beveik viso ataskaitinio laikotarpio metu ir atskirų VU Karjeros dienų
 renginių organizavimas ne Vilniuje esančiuose VU KAP (kamieniniuose
 akademiniuose padaliniuose). Iniciatyva, kuria labiausiai didžiuojamės
--- Hackathon\'as, kurio metu studentų komandos turėjo galimybę laimėti
+– Hackathon\'as, kurio metu studentų komandos turėjo galimybę laimėti
 net 4500 EUR prizą įsteigtą FRANMAX.
 
 ## Be etikečių
@@ -202,12 +202,12 @@ net 4500 EUR prizą įsteigtą FRANMAX.
 
 _Ataskaitiniu laikotarpiu programos veiklą koordinavo Julija Baublinskaitė._
 
-Be etikečių -- nuo 2010-ųjų VU SA vykdoma programa, aktyviai veikianti
+Be etikečių – nuo 2010-ųjų VU SA vykdoma programa, aktyviai veikianti
 socialinės atskirties mažinimo ir žmogaus teisių srityse. Programa
 siekiama paneigti visuomenėje nusistovėjusius stereotipus, skatinti
 visapusę socialiai pažeidžiamų grupių integraciją bei kurti pagarbų
 tarpusavio santykį Vilniaus universiteto bendruomenėje. Pagrindinės
-vertybės -- lygybė, atvirumas ir pagarba kiekvieno žmogaus
+vertybės – lygybė, atvirumas ir pagarba kiekvieno žmogaus
 individualumui.
 
 Šiais metais Be etikečių skyrė dėmesį atskiroms socialiai pažeidžiamoms
@@ -242,7 +242,7 @@ ir istorija.
 
 _Ataskaitiniu laikotarpiu klubo veiklą koordinavo Klaudija Pukalskaitė._
 
-Vilniaus universiteto Jaunųjų energetikų klubas (VU JEK) -- VU SA
+Vilniaus universiteto Jaunųjų energetikų klubas (VU JEK) – VU SA
 klubas, vienijantis jaunimą, besidomintį įvairių rūšių energetika,
 ekonominiais, politiniais ir techniniais aspektais. Organizuodami
 renginius, skleisdami informaciją, VU JEK nariai dalijasi turimomis
@@ -255,7 +255,7 @@ padalinių organizuojamose veiklose, renginiuose.
 Šiemet į klubą buvo pritraukta daug įvairių studijų programų pirmo kurso
 studentų, o renginiai sulaukė visuomenės susidomėjimo. Klube
 orientuotasi į didesnius projektus ir pradėta juos vykdyti. Vienas iš
-tokių projektų -- VU JEK stalo žaidimas ar žurnalo Progressus antras
+tokių projektų – VU JEK stalo žaidimas ar žurnalo Progressus antras
 numeris. Taip pat šiemet klubo nariai turėjo išskirtinę galimybę
 aplankyti Antalieptės muziejų ir jį atnaujinti mokymų metu.
 
@@ -265,9 +265,9 @@ aplankyti Antalieptės muziejų ir jį atnaujinti mokymų metu.
 
 _Ataskaitiniu laikotarpiu programos veiklą koordinavo Simonas Bendinskas._
 
-ESN Vilnius University -- VU SA programa, skatinanti studentų mobilumą
+ESN Vilnius University – VU SA programa, skatinanti studentų mobilumą
 bei padedanti užsienio studentams sėkmingai integruotis Vilniaus
-universitete. Pagrindinis ESN Vilnius University tikslas -- padėti į VU
+universitete. Pagrindinis ESN Vilnius University tikslas – padėti į VU
 atvykstantiems užsienio studentams prisitaikyti naujoje aplinkoje,
 supažindinti juos su studijų tvarka, mūsų šalies kultūra bei
 tradicijomis.
@@ -290,7 +290,7 @@ atveju.
 
 _Ataskaitiniu laikotarpiu klubo veiklą koordinavo Vytenis Almonaitis._
 
-Vilniaus universiteto Kendo klubas -- nuo 2008 m. veikianti VU SA
+Vilniaus universiteto Kendo klubas – nuo 2008 m. veikianti VU SA
 japoniško fechtavimo studija, skirta tiek pradedantiesiems, tiek
 norintiems tobulinti jau turimus įgūdžius. VU Kendo klubas siekia ne tik
 populiarinti kendo sportą ir skatinti aktyvią gyvenseną, bet ir burti
@@ -311,10 +311,10 @@ porinių treniruočių galimybes bei kvietė visus sportuoti.
 
 _Ataskaitiniu laikotarpiu projektui vadovavo Aurelija Vasiliauskaitė._
 
-Studentiško gyvenimo vadovas (SGV) -- tai VU SA leidinys skirtas
+Studentiško gyvenimo vadovas (SGV) – tai VU SA leidinys skirtas
 palengvinti pirmakursių bei iš užsienio į Vilniaus universitetą
 studijuoti atvykstančių studentų gyvenimo naujame mieste (ar šalyje)
-pradžią. Pagrindinis SGV tikslas -- skatinti studentų savarankiškumą,
+pradžią. Pagrindinis SGV tikslas – skatinti studentų savarankiškumą,
 aktyvią veiklą ir, žinoma, užtikrinti sklandų įsiliejimą į didžiausios
 Lietuvoje akademinės bendruomenės narių gretas. Tam, kad pavyktų kuo
 efektyviau įgyvendinti šį tikslą, užtikrinta, kad leidinys jau antrus
@@ -331,7 +331,7 @@ laisvalaikiu.
 
 _Ataskaitiniu laikotarpiu klubo veiklą koordinavo Nikolajus Elkana Eimutis._
 
-VU Rašytojų klubas -- 2013 m. susibūrusi draugija, vienijanti rašančius
+VU Rašytojų klubas – 2013 m. susibūrusi draugija, vienijanti rašančius
 ir literatūra besidominčius VU bendruomenės narius. VU Rašytojų klubo
 tikslas yra ne tik suburti rašančius žmones, tačiau ir skatinti labiau
 domėtis literatūra, pažvelgti į ją iš kūrėjo, kritiko, skaitytojo ir
@@ -352,7 +352,7 @@ pobūdžio eseistinius straipsnius Facebook paskyroje. Prasidėjus karui
 Ukrainoje kasdien vertėme ir dalinomės Ukrainos poetų kūryba
 socialiniuose tinkluose, bendradarbiaudami su VU Jaunųjų žurnalistų
 organizacija skaitėme ukrainiečių poeziją debatų metu. Taip pat
-bendradarbiavome su programa Be etikečių rengdami, vertindami 9--12
+bendradarbiavome su programa Be etikečių rengdami, vertindami 9–12
 klasių mokinių rašinių konkursą Metamorfozės: etninių tapatybių sandūra
 kaip atspirtis pokyčiams visuomenėje.
 
@@ -362,17 +362,17 @@ kaip atspirtis pokyčiams visuomenėje.
 
 _Ataskaitiniu laikotarpiu klubo veiklą koordinavo Gintarė Vaičekauskytė._
 
-VU HEMA (Historical European Marchal Arts) klubas -- naujai savo veiklą
-pradėjęs ir susikūręs klubas. HEMA (arba IEKM) -- tai istoriniai Europos
+VU HEMA (Historical European Marchal Arts) klubas – naujai savo veiklą
+pradėjęs ir susikūręs klubas. HEMA (arba IEKM) – tai istoriniai Europos
 kovos menai, ilgųjų kalavijų treniruotės, paremtos informacija iš
 senovės meistrų vadovėlių. VU HEMA klubas siekia suteikti galimybę
 studentams praktikuotis bei susipažinti su šiuo kovos menu, bei skatina
 palaikyti fizinį aktyvumą.
 
-Ataskaitiniu laikotarpiu viena svarbiausių naujo klubo užduočių --
+Ataskaitiniu laikotarpiu viena svarbiausių naujo klubo užduočių –
 studentų supažindinimas su HEMA bei naujų ir jau lankančių narių būrimas
 į besikuriančią bendruomenę. Šiais metais teko sudalyvauti ir pristatyti
-save SMMS (Studentai -- moksleiviams, moksleiviai -- studentams)
+save SMMS (Studentai – moksleiviams, moksleiviai – studentams)
 stovykloje.
 
 ## Foto klubas
@@ -381,8 +381,8 @@ stovykloje.
 
 _Ataskaitiniu laikotarpiu VU Fotoklubui pirmininkavo Gabija Raubaitė ir Andranik Karagezian._
 
-VU Fotoklubo misija -- puoselėti ir brandinti studentų įvairovę bei
-kūrybiškumą pasitelkiant vieną žaviausių meno krypčių -- fotografiją.
+VU Fotoklubo misija – puoselėti ir brandinti studentų įvairovę bei
+kūrybiškumą pasitelkiant vieną žaviausių meno krypčių – fotografiją.
 Visgi šiais mokslo metais supratome, jog mūsų misija taip pat
 neatsiejama ir nuo pastovaus bendradarbiavimo su Vilniaus universitetu.
 Džiaugiamės gaudami šansą suteikti fotografijos paslaugas tokiai
@@ -409,11 +409,11 @@ Pavasario semestrui einant į pabaigą net nebežinome, kur dėti vien per
 šiuos metus užfiksuotas nuotraukas, kadangi nuolat pildosi mūsų
 talpyklos. Užfiksavime kone kiekvieno klubo ir projekto veiklas, o taip
 pat ir VU Kultūros centro kolektyvų pasirodymus. Kaip sakoma angliškai
--- sharing is caring. Vedami šios minties surengėme du atvirus
+– sharing is caring. Vedami šios minties surengėme du atvirus
 fotografijos pagrindų mokymus VU bendruomenei.
 
 Galų gale visuomet stengėmės išlikti visuomeniški bei aktyvūs viešumoje.
-Nuolatos fiksavome įvairiausius kadrus -- nuo ryškiausių valstybinių
+Nuolatos fiksavome įvairiausius kadrus – nuo ryškiausių valstybinių
 švenčių iki skaudžiausių protestų. Išlikome neabejingi ir atsakingi
 kartu su visa VU SA.
 
@@ -445,7 +445,7 @@ tema, kuriame buvo kalbama apie atliktus 2 socialinius tyrimus.
 
 _Ataskaitiniu laikotarpiu veiklą koordinavo Daniel Šematovič_
 
-Gyvybės mokslų konferencija The COINS -- VU SA projektas, organizuojamas
+Gyvybės mokslų konferencija The COINS – VU SA projektas, organizuojamas
 studentų. Tai yra mokslinis renginys, kuriuo siekiama skatinti studentų
 mokslinę veiklą, domėjimąsi naujausiais mokslo pasiekimais bei plėsti
 akademinius bei profesinius ryšius. Konferencija kviečia aukščiausio
@@ -465,10 +465,10 @@ dirbtuvės, pastarosios sulaukė didelio susidomėjimo ir pritraukė virš
 150 dalyvių.
 
 Šiais metais organizuota The COINS 2022 konferencija vyko vasario 28 d.
--- kovo 3 d. virtualioje erdvėje. Suburta beveik 40 organizatorių
+– kovo 3 d. virtualioje erdvėje. Suburta beveik 40 organizatorių
 komanda, užtikrinusi, kad pasiruošimas bei visos konferencijos veiklos
 vyktų sklandžiai. Konferencijoje kasdien dalyvaudavo po 130 žmonių,
-pasiektas rekordinis studentų stendinių pranešimų skaičius -- 125.
+pasiektas rekordinis studentų stendinių pranešimų skaičius – 125.
 Paskaitas skaitė 13 aukščiausio lygio lektorių iš užsienio
 neurobiologijos, astrobiologijos, bioinformatikos, baltymų ir genų
 inžinerijos, ląstelės biologijos temomis, tarp jų ir 2016 m. Nobelio
@@ -484,7 +484,7 @@ pritraukusi 120 moksleivių iš įvairių Lietuvos mokyklų.
 
 _Ataskaitiniu laikotarpiu draugijai vadovavo Gabija Strumylaitė._
 
-2021 m. rugpjūčio 28 d. -- pirmasis VU JŽD steigiamasis susitikimas. Nuo
+2021 m. rugpjūčio 28 d. – pirmasis VU JŽD steigiamasis susitikimas. Nuo
 rugsėjo mėn. Draugija pradėjo vykdyti aktyvią organizacijos kūrimosi
 veiklą, sujungiančią studentus ir moksleivius iš visos Lietuvos.
 
@@ -503,7 +503,7 @@ ekspedicijos" iniciatoriai Edmundas Jakilaitis ir Alfredas Bumblauskas.
 Kovo 14 d. VU Komunikacijos fakultete įvyko diskusija „Ukraina ir
 Rusija: kiek toli siekia (ne)sutarimų šaknys? su doc. dr. Grigorijumi
 Potašenko ir doc. dr. Česlovu Laurinavičiumi. Prie šių renginių išvien
-dirbome su kitais VU PKP -- VU Fotoklubu, VU Rašytojų klubu.
+dirbome su kitais VU PKP – VU Fotoklubu, VU Rašytojų klubu.
 
 Formalių ir neformalių užsiėmimų metu organizacijoje skiriamas dėmesys
 visapusiškam asmeniniam narių tobulėjimui. 2021 m. lapkričio 20 d.
@@ -546,7 +546,7 @@ Artimiausiu metu daugiau dėmesio skirsime gilesnei narių integracijai,
 tarpusavio ryšio stiprinimui (gegužę organizuojamas protmūšis, kiti
 socialinio tipo renginiai), bandysime pasiekti daugiau kūrybingų
 Lietuvos moksleivių, galinčių organizacijos rėmuose atskleisti savo
-potencialą. Vasarą--rudenį planuojama kūrybinė stovykla, jau svarstome
+potencialą. Vasarą–rudenį planuojama kūrybinė stovykla, jau svarstome
 apie rudens sezono diskusijas ir viešus renginius aktualiausiomis
 temomis su Lietuvos ir tarptautinėje erdvėje veikiančiais žmonėmis.
 Toliau vykdysime Premijos organizavimo darbus su profesionaliausiais
@@ -573,12 +573,12 @@ viešino ir garsino Vilniaus universiteto vardą. Šiemet taip pat
 suorganizuotos vienos dienos išvažiuojamosios parduotuvės įvairiuose
 Universiteto padaliniuose bei studentams suteikta galimybė įsigyti
 atributikos Universitete vykstančių renginių metu. Be to, fondas plečia
-bendradarbiavimą su Universitetu -- pasirašyta bendradarbiavimo sutartis
+bendradarbiavimą su Universitetu – pasirašyta bendradarbiavimo sutartis
 su VU muziejumi dėl jų gaminamos produkcijos pardavinėjimo VU
 atributikos parduotuvėje (atvirlaiškiai, magnetukai ir kt.).
 
 Taip pat
-šiais metais tęsiama iniciatyva -- renkama 1,2 % GPM parama, kuri bus
+šiais metais tęsiama iniciatyva – renkama 1,2 % GPM parama, kuri bus
 tikslingai naudojama atvykusių ukrainiečių studentų (-čių) integracijai
 į Universitetą. Už surinktas lėšas bus perkami būtini buities daiktai,
 higienos priemonės ar kitos prekės, skirtos atvykusiems studentams

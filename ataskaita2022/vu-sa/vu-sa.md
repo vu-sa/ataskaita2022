@@ -19,39 +19,39 @@ VU SA vienija apie 1 000 narių.
 
 **VU SA:**
 
--   atstovauja studentams – gina studentų teises Universiteto valdymo
-    organuose ir nacionaliniu lygmeniu;
--   prisideda prie studijų proceso tobulinimo Universitete, yra visų
-    svarbiausių VU valdymo institucijų dalis;
--   rūpinasi socialine gerove – užtikrina patogią ir studentams
-    pritaikytą aplinką, rūpinasi studentų integracija, dalyvauja
-    stipendijų skirstymo procese;
--   organizuoja turiningą laisvalaikį;
--   skleidžia informaciją – rūpinasi, kad visos svarbiausios naujienos
-    pasiektų studentus.
+- atstovauja studentams – gina studentų teises Universiteto valdymo
+  organuose ir nacionaliniu lygmeniu;
+- prisideda prie studijų proceso tobulinimo Universitete, yra visų
+  svarbiausių VU valdymo institucijų dalis;
+- rūpinasi socialine gerove – užtikrina patogią ir studentams
+  pritaikytą aplinką, rūpinasi studentų integracija, dalyvauja
+  stipendijų skirstymo procese;
+- organizuoja turiningą laisvalaikį;
+- skleidžia informaciją – rūpinasi, kad visos svarbiausios naujienos
+  pasiektų studentus.
 
 ## Strategija
 
-**Vizija** -- atvira aplinka savarankiškam studento tobulėjimui
+**Vizija** – atvira aplinka savarankiškam studento tobulėjimui
 vieningoje Vilniaus universiteto bendruomenėje.
 
-**Misija** -- efektyviai atstovaujant Vilniaus universiteto studentams
+**Misija** – efektyviai atstovaujant Vilniaus universiteto studentams
 bei puoselėjant universitetinę kultūrą, kurti palankiausias sąlygas
 studento saviraiškai.
 
 ### Vertybės
 
--   atvirumas
--   atsakomybė
--   veiklos kokybė
--   vieningumas
--   tobulėjimas
+- atvirumas
+- atsakomybė
+- veiklos kokybė
+- vieningumas
+- tobulėjimas
 
 ### Strateginės kryptys
 
--   kokybiškos studijos ir joms pritaikyta aplinka
--   stipri organizacija
--   darni universitetinė bendruomenė
+- kokybiškos studijos ir joms pritaikyta aplinka
+- stipri organizacija
+- darni universitetinė bendruomenė
 
 ## VU SA valdymo schema
 

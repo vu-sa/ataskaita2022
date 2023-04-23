@@ -20,7 +20,7 @@ were broadcast per week (the next part of the program consists of
 automatic music play), while an average of 42,000 unique listeners per
 month tuned in online.
 
-Growth did not stop in the development of cooperation -- joint projects
+Growth did not stop in the development of cooperation – joint projects
 with the Lithuanian Interdisciplinary Artists\' Union, contemporary
 serious music festival Druskomanija, informal music creative school
 Muzikalkė, radio theatre No tickets were started (the studio recorded
@@ -39,7 +39,7 @@ reports on topical topics and interviews every working day.
 
 _During the reference period, the activities of the club were coordinated by Robertas Remeika._
 
-VU Debate club -- a club, established 2004, to promote communication
+VU Debate club – a club, established 2004, to promote communication
 between students representing different faculties, to provide space to
 develop critical thinking, reasoning, English and public speaking
 skills, and to represent the Vilnius University in tournaments.
@@ -67,10 +67,10 @@ of April, 2022.
 
 _During the reference period, the project activities were coordinated by Urtė Marija Kasnikauskaitė._
 
-_Students - for pupils, pupils - for students_ (SMMS) -- a three-day
+_Students - for pupils, pupils - for students_ (SMMS) – three-day
 camp is organized by VU SR for students of older classes who want to get
 acquainted with student life and study opportunities. This year, the
-camp was organized face-to-face -- due to the prevailing pandemic
+camp was organized face-to-face – due to the prevailing pandemic
 situation in Lithuania, this project was transferred to Discord platform
 for two years in a row. This year\'s SMMS camp took place at the General
 Jonas Zemaitis Military Academy of Lithuania, with which we have been
@@ -81,7 +81,7 @@ University, its activities and, together with the curators-students, to
 feel true students in the chosen academic core units for at least a day.
 This year, students were able to get acquainted not only with the
 studies conducted at University, but also with the possibilities of
-self-expression -- programs, clubs and projects.
+self-expression – programs, clubs and projects.
 
 ## Vilnius University Law Clinic (VU LC)
 
@@ -400,7 +400,7 @@ _During the reference period, VU Photography Club was coordinated by Gabija Raub
 
 The mission of VU Photography Club is to foster and mature the diversity
 and creativity of students through one of the most fascinating art
-directions -- photography. However, this year we realized that our
+directions – photography. However, this year we realized that our
 mission is also inseparable from constant cooperation with Vilnius
 University. We are happy to get the opportunity to provide photography
 services to such a wide variety of programs, clubs and projects and to
@@ -430,7 +430,7 @@ alone, because our storage is constantly filling up. As they say,
 training courses on the basics of photography for the VU community.
 
 After all, we have always tried to remain social and active in public.
-We have constantly recorded all sorts of shots -- from the brightest
+We have constantly recorded all sorts of shots – from the brightest
 public holidays to the most painful protests. We have remained
 indifferent and responsible together with the entire VU SR.
 
@@ -484,7 +484,7 @@ online from 28th of February to 3rd of March. A team of almost 40
 organizers was formed to ensure that the preparation and all the
 activities of the conference went smoothly. The conference was attended
 by 130 people a day, and a record number of student bench presentations
-were achieved -- 125. Lectures were given by 13 top-level lecturers from
+were achieved – 125. Lectures were given by 13 top-level lecturers from
 abroad on neurobiology, astrobiology, bioinformatics, protein and
 genetic engineering, cell biology, including 2016 Nobel Prize winner in
 chemistry Sir Fraser Stoddart. During the conference, 3 discussions were
@@ -500,7 +500,7 @@ various Lithuanian schools.
 _During the reference period, the activities of the society were
 coordinated by Gabija Strumylaitė_
 
-28th of August 2021 -- the first inaugural meeting of VU JŽD. Since
+28th of August 2021 – the first inaugural meeting of VU JŽD. Since
 September the Society has started to carry out active organization
 creation activities that unite students from all over Lithuania.
 
@@ -519,7 +519,7 @@ Bumblauskas, the initiators of the LRT National Expedition, told more
 about it. On March 14th, the VU Faculty of Communication held a
 discussion "Ukraine and Russia: how far do the roots of (non)consensus
 go?" with Dr. Grigory Potashenko and Doc. Dr. Česlovas Laurinavičius. We
-worked together on these events with other VU PCP -- VU Photography
+worked together on these events with other VU PCP – VU Photography
 Club, VU Writers\' Club.
 
 During formal and informal sessions, the society pays attention to the
@@ -578,7 +578,7 @@ During the reference period, the aim was to significantly expand and
 increase the network of student initiatives. To achieve this goal, a
 "hackVU" event was organized, during which several new initiatives were
 added to our community. The first steps were also started by several
-other initiatives -- mind battles, music club.
+other initiatives – mind battles, music club.
 
 ## Charity and support fund "Ateičiai"
 
@@ -593,7 +593,7 @@ publicized and promoted the name of Vilnius University. This year,
 one-day pop-up shops were also organized in various academic core units
 of the University, and students were given the opportunity to purchase
 merch during the events taking place at the University. In addition,
-Fund is expanding cooperation with the University -- a cooperation
+Fund is expanding cooperation with the University – a cooperation
 agreement has been signed with VU Museum on the sale of their products
 in the VU merchandise shop (postcards, magnets, etc.). This year the
 fund is also continues to collect 1.2% income tax support, which will be

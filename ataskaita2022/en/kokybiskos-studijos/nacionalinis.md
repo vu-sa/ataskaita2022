@@ -277,7 +277,7 @@ students.
 
 During the reference period, a meeting of the Student Forum was held,
 where the quality of studies was discussed from the perspective of study
-participants -- students, lecturers. Attention was paid to the Report of
+participants – students, lecturers. Attention was paid to the Report of
 the National Audit, which notes that in Lithuanian higher education
 institutions students\' opinion on the quality of studies is not
 sufficiently heard. The development of the career path of lecturers and
@@ -336,7 +336,7 @@ organized by students.
 
 ### Vilnius City Municipality and Youth Council
 
-_Student representatives -- Neda Žutautaitė, Aistė Rinkevičiūtė_
+_Student representatives – Neda Žutautaitė, Aistė Rinkevičiūtė_
 
 During the reference period, Vilnius city municipality was repeatedly
 approached for the issue of potassium iodide tablets to young people

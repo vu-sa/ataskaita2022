@@ -375,4 +375,3 @@ _Gaudeamus igitur, iuvenes dum sumus!_
 Lietuvos mokslo tarybos pirmininkas
 
 **prof. Romas Baronas**
-:::

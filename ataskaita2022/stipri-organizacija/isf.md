@@ -7,7 +7,7 @@ kompetencijų kėlimą, žmogiškųjų išteklių valdymą. Fondas siekia
 užtikrinti sąlygas instituciniam stiprinimui ir nuosekliam kompetencijų
 kėlimui organizacijoje.
 
-::: tip Institucinis stiprinimas -- tai...
+::: tip Institucinis stiprinimas – tai...
 Procesai, orientuoti į poreikiu grįstą
 organizacijos bei atskirų jos vienetų ar veiklų tobulinimą, jos narių
 bendrųjų ir specifinių kompetencijų ugdymą, institucinės atminties
@@ -29,7 +29,7 @@ projektus:
 - Paruoštas „Vadovavimo ABC" ir suorganizuotos dvejos dirbtuvės
   vadovavimo tematika (vienos rugsėjo mėn., kitos vasario mėn.);
 - Pradėta naujinti lektorių duomenų bazė;
-- Peržiūrima mentorių programa -- mentoriai, programos struktūra ir
+- Peržiūrima mentorių programa – mentoriai, programos struktūra ir
   veikimas (šiais metais mentorius turėjo 16 žmonių);
 - Ruošiama patirties perdavimo atmintinė;
 

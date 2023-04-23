@@ -80,8 +80,8 @@ duomenys pateikti Vidaus reikalų ministerijai.
 
 ### ŽEF
 
-Žinių ekonomikos forumas -- asociacija, atvira visoms idėjoms, kurios
-skatina prioritetinės Lietuvos srities -- žinių ekonomikos -- augimą.
+Žinių ekonomikos forumas – asociacija, atvira visoms idėjoms, kurios
+skatina prioritetinės Lietuvos srities – žinių ekonomikos – augimą.
 ŽEF kviečia visuomenę kartu kurti modernesnę, šiuolaikinėmis
 technologijomis bei žiniomis grįstą šalies ateitį.
 
@@ -108,7 +108,7 @@ kurių metu aptarėme galimus tolimesnio bendradarbiavimo klausimus.
 - VU SA priėmė studentų atstovus iš Arqus universitetų aljanso -
   (galima išvardinti 7, be lenkų ir portugalų). Organizavo vizitą,
   pristatė gerąsias patirtis, dalyvavo studentų tarybos posėdžiuose.
-  (spalio 3--7 d.)
+  (spalio 3–7 d.)
 - VU SA atstovai lankėsi pas Arqus aljanso tinklo partnerius Bergeno
   universitete Norvegijoje. Vizito metu buvo gilinamasi į studentų
   vadovaujamą „welfare" (gerovės) sistemą, studentų socialinius
@@ -118,7 +118,7 @@ kurių metu aptarėme galimus tolimesnio bendradarbiavimo klausimus.
   Paduvoje, Italijoje. VU SA deleguota atstovė Dominyka Goldbergaitė
   tapo Studentų tarybos vicepirmininke. Taip pat konferencijos metu
   Studentų taryba priėmė VU SA atstovų rengtą rezoliuciją dėl Ukrainos
-  akademinės bendruomenės įtraukimo į aljanso veiklas. (balandžio 2--7
+  akademinės bendruomenės įtraukimo į aljanso veiklas. (balandžio 2–7
   d.)
 - VU SA atstovai vyko vizitui į Portugalijoje esančio Minho
   universitetą, kuris šiais metais tapo nauju Arqus universitetų
@@ -135,7 +135,7 @@ kurių metu aptarėme galimus tolimesnio bendradarbiavimo klausimus.
 - VU SA priėmė studentų atstovus iš Warsaw School of Economics.
   Dalinosi gerosiomis patirtimis įgyvendinant studentų verslų ir
   verslumo ugdymo projektus. Suorganizuotas tinklaveikos renginys su
-  VU SIF, VU KD, VU TechHub. (gruodžio 1--3 d.)
+  VU SIF, VU KD, VU TechHub. (gruodžio 1–3 d.)
 - Liepos 19-21 dienomis 10 VU SA delegatų dalyvavo UNICA
   konferencijoje. Ši konferencija pritraukia šimtus studentų iš visų
   Europos valstybių. Pagrindinė konferencijos tema buvo Universitetas
@@ -153,13 +153,13 @@ kurių metu aptarėme galimus tolimesnio bendradarbiavimo klausimus.
 konferencijoje, kurioje diskutuota, kas turi prisiimti atsakomybę už
 jaunų žmonių psichologinę būklę. Skaitytame pranešime N. Žutautaitė
 akcentavo, jog studentų (-čių) psichikos sveikata aukštojoje mokykloje
-nėra tik jų asmeninis rūpestis -- turime suprasti, kad tai tiek
+nėra tik jų asmeninis rūpestis – turime suprasti, kad tai tiek
 akademinės bendruomenės tarpusavio ryšių, tiek studijų ir su jomis
 susijusios aplinkos klausimas. Taip pat pristatytos užsienio
 Universitetų taikomos praktikos, skirtos psichologinės aplinkos
 gerinimui, palaikančios bendruomenės kūrimui.
 
-### LR Seimo Švietimo ir mokslo komiteto diskusija „Socialinė dimensija -- studijų kokybei"
+### LR Seimo Švietimo ir mokslo komiteto diskusija „Socialinė dimensija – studijų kokybei"
 
 Spalio 8d. Lietuvos Respublikos Švietimo ir mokslo komiteto
 organizuotoje diskusijoje Neda Žutautaitė turėjo galimybę pasidalinti VU
@@ -179,9 +179,9 @@ Gruodžio 10d. Studijų kokybės ir vertinimo centras studentus (-es)
 kvietė į forumą, diskutuoti apie studijų kokybę ir studentų(-čių)
 įsitraukimą siekiant ją užtikrinti.
 
-Forumo metu kalbėta apie studijų kokybę iš dalyvių perspektyvos --
+Forumo metu kalbėta apie studijų kokybę iš dalyvių perspektyvos –
 pirmiausia, studentų (-čių), kurie yra pagrindinė ašis studijų procese
--- kuo greičiau aukštoji mokykla tai priima, tuo lengviau yra kartu
+– kuo greičiau aukštoji mokykla tai priima, tuo lengviau yra kartu
 siekti studijų kokybės. Diskutuota ir apie dėstytojo(-os) karjeros kelio
 plėtojimaą ir didaktinių kompetencijų užtikrinimą, kuris yra ne mažiau
 svarbus studijų kokybei. Visi forumo dalyviai sutarė, jog svarbus ne tik
@@ -200,7 +200,7 @@ vis dar egzistuoja.
 
 Neda Žutautaitė susirinkimo dalyviams pristatė studentams (-ėms)
 dažniausiai kylančias problemas ir būdus, kaip Universiteto bendruomenė
-stengiasi jas atliepti. Situacija nėra ideali -- galimų suteikti
+stengiasi jas atliepti. Situacija nėra ideali – galimų suteikti
 konsultacijų skaičius nėra pakankamas studentų(-čių) poreikiui atliepti,
 nutolusiuose akademiniuose padaliniuose trūksta gyvų konsultacijų, jau
 pradedamos, bet dar neišvystytos psichologinės priemonės užsieniečiams
@@ -209,5 +209,5 @@ studentams(-ėms) anglų kalba.
 „Džiugu, jog Vilniaus universitete tiek COVID-19 pandemijos laikotarpiu,
 tiek ir dabar, karo kontekste, galima matyti pastangas skirti resursus
 kaip įmanoma labiau užtikrinti, kad bendruomenė ir studentai(-ės) galėtų
-gauti psichologinę pagalbą, kai jos reikia", -- pristatyme teigė N.
+gauti psichologinę pagalbą, kai jos reikia", – pristatyme teigė N.
 Žutautaitė.

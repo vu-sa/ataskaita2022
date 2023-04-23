@@ -9,7 +9,7 @@ buvo suorganizuota 18 VU SA pirmakursių stovyklų, kuriose dalyvavo
 daugiau nei 1100 būsimų VU studentų (-čių).
 
 Epidemiologinei situacijai besitęsiant, buvo atsisakyta kelių dienų
-išvažiuojamųjų stovyklų, o vietoje jų organizuotos trumpesnės -- vienos
+išvažiuojamųjų stovyklų, o vietoje jų organizuotos trumpesnės – vienos
 dienos stovyklos, vykusios VU Botanikos sodo skyriuose ir padalinių
 kiemeliuose.
 
@@ -22,10 +22,10 @@ Universitete.
 
 ## Kuratorių programa
 
-Kuratorių programa -- nuo 2000 m. VU SA vykdoma programa, sukurta tam,
+Kuratorių programa – nuo 2000 m. VU SA vykdoma programa, sukurta tam,
 kad efektyviai integruotų pirmo kurso studentus (-es) į Universiteto
 bendruomenę bei supažindintų su studijų proceso tvarka. Šios programos
-dalyviai (-ės) -- kuratoriai (-ės) -- specialius mokymus išklausę
+dalyviai (-ės) – kuratoriai (-ės) – specialius mokymus išklausę
 vyresnių kursų studentai (-ės), padedantys savo kuruojamos grupės
 studentams (-ėms) integracijos proceso laikotarpiu.
 
@@ -54,7 +54,7 @@ nariai (-ės), mokslininkai (-ės) bei visuomenės atstovai (-ės).
 Diskusijų pabaigoje studentai (-ės) interaktyviais būdais susipažino su
 įvairiomis studentiškomis organizacijomis ir saviraiškos galimybėmis
 veikiančių organizacijų bei VU SA programų, klubų, projektų mugėje.
-Baigiamasis renginio akcentas -- bendruomenės koncertas VU Didžiajame
+Baigiamasis renginio akcentas – bendruomenės koncertas VU Didžiajame
 kieme.
 
 ## Rugsėjo 1-osios šventinė VU eisena

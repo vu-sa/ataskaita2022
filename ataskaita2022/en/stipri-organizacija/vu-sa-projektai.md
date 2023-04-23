@@ -2,7 +2,7 @@
 
 ## Project \"Increasing the involvement of students in fostering academic ethics in the university community\"
 
-Academic ethics -- one of the fundamental values of higher education --
+Academic ethics – one of the fundamental values of higher education –
 is enshrined both in the Law on Science and Studies of the Republic of
 Lithuania and in the statutes of higher education institutions,
 therefore it becomes an important duty of a higher education
@@ -62,7 +62,7 @@ positions was drawn up; various trainings and conferences were organized
 both for the development of competences of the members of the
 organizations and for the greater involvement of students(s). Thanks to
 this project, VU SR has already expanded the wide range of topics and
-issues affecting students(s) even more -- in our activities we can rely
+issues affecting students(s) even more – in our activities we can rely
 on concrete and research-based data (which are often difficult or not
 found in external sources), and from them significant proposals and
 changes are formed for students(s) both at the University and national

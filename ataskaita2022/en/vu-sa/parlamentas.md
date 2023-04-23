@@ -144,7 +144,7 @@ Realizing the importance of integration, which is
 evident when foreign students try to integrate into the social and
 academic life of the University, the Parliament of VU SR tries in this
 letter to draw attention to the dissemination of information in the
-University\'s communication channels and physical spaces -- it
+University\'s communication channels and physical spaces – it
 encourages to spread the message not only in Lithuanian, but also in
 English, and thus to provide all the necessary information to foreign
 students(s).
@@ -170,7 +170,7 @@ Academic Ethics.
 
 The main problems raised are: the difficulty of access
 to information and the lack of a position as an academic ethics
-consultant(s) for students -- the letter contains proposals on how to
+consultant(s) for students – the letter contains proposals on how to
 solve these problems, including proposals to conduct research in the
 field of academic ethics or to establish a post of a person consulting
 students.
@@ -319,7 +319,7 @@ Ukraine.
   - execution and quality assurance of student(s) practices at the
     University and beyond.
 - The sittings of the VU SR Parliament were attended and talked about
-  by invited guests -- Andrius Uždanavičius, head of the Department of
+  by invited guests – Andrius Uždanavičius, head of the Department of
   Quality and Development of Studies at Vilnius University, and Vigita
   Vėbraitė, Chairwoman of the Central Commission for Academic Ethics
   at Vilnius University.
