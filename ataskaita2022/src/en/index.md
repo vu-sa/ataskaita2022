@@ -42,7 +42,7 @@ features:
 ---
 
 <script setup lang="ts">
-import TestimonialElement from "/components/TestimonialElement.vue";
+import TestimonialElement from "../../components/TestimonialElement.vue";
 </script>
 
 <TestimonialElement img-src="/img/sveikinimai/neda.jpg" person-name="Neda Žutautaitė" person-position="VU SR president" href="/en/prezidentes-kalba" button-text="Speech of the president">

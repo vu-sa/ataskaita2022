@@ -1,7 +1,7 @@
 <script setup>
 import { VPTeamMembers } from 'vitepress/theme'
-import PersonAvatar from '/components/PersonAvatar.vue'
-import { taryba } from '/data/bendruomene'
+import PersonAvatar from '../../components/PersonAvatar.vue'
+import { taryba } from '../../data/bendruomene'
 
 </script>
 

@@ -35,7 +35,7 @@ reports on topical topics and interviews every working day.
 
 ## VU Debate Club
 
-![](/img/pkp-logo/Debatų%20klubų%20logotipas.jpg)
+![](../../img/pkp-logo/Debatų%20klubų%20logotipas.jpg)
 
 _During the reference period, the activities of the club were coordinated by Robertas Remeika._
 
@@ -63,7 +63,7 @@ of April, 2022.
 
 ## SMMS
 
-![](/img/pkp-logo/SMMS%20logotipas.jpg)
+![](../../img/pkp-logo/SMMS%20logotipas.jpg)
 
 _During the reference period, the project activities were coordinated by Urtė Marija Kasnikauskaitė._
 
@@ -85,7 +85,7 @@ self-expression – programs, clubs and projects.
 
 ## Vilnius University Law Clinic (VU LC)
 
-![](/img/pkp-logo/Teisės%20klinikos%20logotipas.png)
+![](../../img/pkp-logo/Teisės%20klinikos%20logotipas.png)
 
 _During the reference period, VU LC was headed by Viktorija Medžiaušaitė_
 
@@ -139,7 +139,7 @@ violence, relatives of missing persons.
 
 ## Vilnius University Student Investment Fund (VU SIF)
 
-![](/img/pkp-logo/SIF%20logotipas.png)
+![](../../img/pkp-logo/SIF%20logotipas.png)
 
 _During the reporting period, the fund was managed by Ieva Turskytė (until January, 2022) bei Gabrielė Stanionytė (from January, 2022)._
 
@@ -185,7 +185,7 @@ improve during the reference period to the VU SIF.
 
 ## Vilnius University Career Days
 
-![](/img/pkp-logo/KD%20logotipas.png)
+![](../../img/pkp-logo/KD%20logotipas.png)
 
 _During the reference period, the project was coordinated by Eglė Jašinskaitė_
 
@@ -212,7 +212,7 @@ of as much as 4500 euros, established by FRANMAX.
 
 ## Be etikečių
 
-![](/img/pkp-logo/Be%20etikečių%20logotipas.jpg)
+![](../../img/pkp-logo/Be%20etikečių%20logotipas.jpg)
 
 _During the reference period, the activities of the program were coordinated by Julija Baublinskaitė._
 
@@ -253,7 +253,7 @@ which introduce the terms and history of drag culture.
 
 ## VU JEK
 
-![](/img/pkp-logo/JEK%20logotipas.png)
+![](../../img/pkp-logo/JEK%20logotipas.png)
 
 _During the reference period, the activities were coordinated by
 Klaudija Pukalskaitė_
@@ -277,7 +277,7 @@ trainings.
 
 ## ESN VU
 
-![](/img/pkp-logo/ESN%20logotipas.png)
+![](../../img/pkp-logo/ESN%20logotipas.png)
 
 _During the reference period, the program\'s activities were coordinated by Simonas Bendinskas_
 
@@ -302,7 +302,7 @@ information in case of infection with the disease.
 
 ## Vilnius University Kendo Club
 
-![](/img/pkp-logo/Kendo%20klubo%20logotipas.jpg)
+![](../../img/pkp-logo/Kendo%20klubo%20logotipas.jpg)
 
 _During the reporting period, the activities of the club were coordinated by Vytenis Almonaitis._
 
@@ -323,7 +323,7 @@ followers on social media and invited everyone to play sports.
 
 ## Students' Life Guide (SGV)
 
-![](/img/pkp-logo/SGV%20logotipas.png)
+![](../../img/pkp-logo/SGV%20logotipas.png)
 
 _During the reference period, the project was coordinated by Aurelija Vasiliauskaitė._
 
@@ -343,7 +343,7 @@ services and leisure time of the University.
 
 ## VU Writers Club
 
-![](/img/pkp-logo/Rašytojų%20klubo%20logotipas.png)
+![](../../img/pkp-logo/Rašytojų%20klubo%20logotipas.png)
 
 _During the reporting period, the activities of the club were coordinated by Nikolajus Elkana Eimutis._
 
@@ -375,7 +375,7 @@ starting point for changes in society for students in grades 9-12.
 
 ## HEMA
 
-![](/img/pkp-logo/HEMA%20logotipas.jpg)
+![](../../img/pkp-logo/HEMA%20logotipas.jpg)
 
 _During the reference period, the activities of the club were coordinated by Gintarė Vaičekauskytė._
 
@@ -394,7 +394,7 @@ for students (SMMS) camp.
 
 ## VU Photography Club
 
-![](/img/pkp-logo/Fotoklubo%20logotipas.jpg)
+![](../../img/pkp-logo/Fotoklubo%20logotipas.jpg)
 
 _During the reference period, VU Photography Club was coordinated by Gabija Raubaitė and Andranik Karagezian_
 
@@ -439,7 +439,7 @@ cooperation, close connection and opportunities to grow, act and thrive.
 
 ## VU Antroclub
 
-![](/img/pkp-logo/Antropologų%20klubo%20logotipas.png)
+![](../../img/pkp-logo/Antropologų%20klubo%20logotipas.png)
 
 _During the reference period, the activities of the club were
 coordinated by Ivan Trunov._
@@ -457,7 +457,7 @@ out.
 
 ## Life Sciences Conference The COINS 2022
 
-![](/img/pkp-logo/The%20COINS%20logotipas.jpg)
+![](../../img/pkp-logo/The%20COINS%20logotipas.jpg)
 
 _During the reference period, the activities were coordinated by Daniel Šematovič_
 
@@ -495,7 +495,7 @@ various Lithuanian schools.
 
 ## Vilnius University Society of Young Journalists
 
-![](/img/pkp-logo/JŽD%20logotipas.jpg)
+![](../../img/pkp-logo/JŽD%20logotipas.jpg)
 
 _During the reference period, the activities of the society were
 coordinated by Gabija Strumylaitė_

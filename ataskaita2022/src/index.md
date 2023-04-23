@@ -13,9 +13,9 @@ hero:
     - theme: brand
       text: Sužinok apie 2021-2022 metus!
       link: /vu-sa/vu-sa
-    - theme: alt
-      text: Žiūrėti naujiausią ataskaitą
-      link: https://vusa.lt
+    # - theme: alt
+    #   text: Žiūrėti naujiausią ataskaitą
+    #   link: https://vusa.lt
 
 features:
   - title: Sveikinimai
@@ -45,7 +45,7 @@ features:
 ---
 
 <script setup lang="ts">
-import TestimonialElement from "/components/TestimonialElement.vue";
+import TestimonialElement from "../components/TestimonialElement.vue";
 </script>
 
 <TestimonialElement img-src="/img/sveikinimai/neda.jpg" person-name="Neda Žutautaitė" person-position="VU SA prezidentė" href="/prezidentes-kalba" button-text="Prezidentės kalba">

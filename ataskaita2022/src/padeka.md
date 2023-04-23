@@ -4,7 +4,7 @@ outline: deep
 
 <script setup lang="ts">
 import { NImageGroup, NImage, NSpace } from "naive-ui";
-import logos from "/data/friendLogos.ts";
+import logos from "../data/friendLogos.ts";
 
 </script>
 

@@ -6,8 +6,8 @@ outline: deep
 import { NConfigProvider, darkTheme } from 'naive-ui'
 import { useMutationObserver } from '@vueuse/core'
 import { ref } from 'vue'
-import TimelineItemSection from '/components/TimelineItemSection.vue'
-import padaliniaiGoals from '/data/padaliniaiGoals.ts'
+import TimelineItemSection from '../../components/TimelineItemSection.vue'
+import padaliniaiGoals from '../../data/padaliniaiGoals.ts'
 
 // check if there's html class dark
 const dark = ref(document.documentElement.classList.contains('dark'))

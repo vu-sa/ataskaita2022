@@ -3,11 +3,12 @@ outline: deep
 ---
 
 <script setup lang="ts">
-import { teamPhotos, biuras, socakad, atstovai, kom, mark, hr, integration, admin, pkp, intl, lsp, other } from '/data/bendruomene'
-import TeamAvatarLayout from '/components/TeamAvatarLayout.vue'
+import { teamPhotos, biuras } from '../../data/bendruomene.EN'
+import { socakad, atstovai, kom, mark, hr, integration, admin, pkp, intl, lsp, other } from '../../data/bendruomene'
+import TeamAvatarLayout from '../../components/TeamAvatarLayout.vue'
 </script>
 
-# Ačiū, kad esate kartu!
+# Thank you for being with us!
 
 <div class="grid grid-cols-2 gap-8 mt-16">
     <div v-for="photo in teamPhotos" class="flex flex-col items-center gap-3">
@@ -18,91 +19,91 @@ import TeamAvatarLayout from '/components/TeamAvatarLayout.vue'
     </div>
 </div>
 
-## Centrinis biuras
+## Central Office
 
 ![](/img/koordinatoriu-nuotraukos/bendros/Centrinis%20biuras-2.jpg)
 
 <TeamAvatarLayout :members="biuras" />
 
-## VU SA Taryba
+## VU SR Board
 
 ![VU SA Taryba](/img/koordinatoriu-nuotraukos/bendros/Taryba-2.jpg)
 
-::: tip Daugiau...
-Apie VU SA Tarybos veiklą bei kas ją sudarė – skaityk [čia](/vu-sa/taryba).
+::: tip More...
+On VU SR Council and its members - [here](/en/vu-sa/taryba).
 :::
 
-## VU SA Parlamentas
+## VU SR Parliament
 
-![VU SA Taryba](/img/kitos-nuotraukos/Parlamentas.jpg)
+![VU SR Parliament](/img/kitos-nuotraukos/Parlamentas.jpg)
 
-::: tip Daugiau
-Apie VU SA Parlamento veiklą bei kas ją sudarė – skaityk [čia](/vu-sa/parlamentas).
+::: tip More...
+On VU SR Parliament and its members – skaityk [here](/en/vu-sa/parlamentas).
 :::
 
-## Institucinio stiprinimo fondas
+## Institutional Strengthening Fund
 
 ![ISF](/img/kitos-nuotraukos/ISF.jpg)
 
-::: tip Daugiau
-Apie Institucinio fondo veiklą bei kas jį sudarė – skaityk [čia](/stipri-organizacija/isf).
+::: tip More
+About Institutional Strengthening Fund and its members – [here](/stipri-organizacija/isf).
 :::
 
-## Socialinio-akademinio proceso koordinatoriai
+## Coordinators of Socioacademic Affairs
 
 ![](/img/koordinatoriu-nuotraukos/bendros/Socialinio-akademinio%20proceso%20koordinatoriai-2.jpg)
 
 <TeamAvatarLayout :members="socakad" />
 
-## Atstovų koordinatoriai
+## Representatives\' Coordinators
 
 ![](/img/koordinatoriu-nuotraukos/bendros/atstovu.jpg)
 
 <TeamAvatarLayout :members="atstovai" />
 
-## Komunikacijos koordinatoriai
+## Coordinators of Communication
 
 ![](/img/koordinatoriu-nuotraukos/bendros/Komunikacijos%20koordinatoriai-2.jpg)
 
 <TeamAvatarLayout :members="kom" />
 
-## Marketingo koordinatoriai
+## Coordinators of Marketing
 
 ![](/img/koordinatoriu-nuotraukos/bendros/Marketingo%20srities%20koordinatoriai-2.jpg)
 
 <TeamAvatarLayout :members="mark" />
 
-## Organizacinės srities koordinatoriai
+## Coordinators of Organizational Affairs
 
 ![](/img/koordinatoriu-nuotraukos/bendros/organizacines.jpg)
 
 <TeamAvatarLayout :members="org" />
 
-## Žmogiškųjų išteklių koordinatoriai
+## Coordinators of Human Resources
 
 ![](/img/koordinatoriu-nuotraukos/bendros/HR-2.jpg)
 
 <TeamAvatarLayout :members="hr" />
 
-## Integracijos proceso koordinatoriai
+## Coordinators of Integration Process
 
 ![](/img/koordinatoriu-nuotraukos/bendros/Integracijos%20proceso%20koordinatoriai-2.jpg)
 
 <TeamAvatarLayout :members="integration" />
 
-## Administratoriai
+## Administrators
 
 ![](/img/koordinatoriu-nuotraukos/bendros/Administratoriai-2.jpg)
 
 <TeamAvatarLayout :members="admin" />
 
-## LSP koordinatoriai
+## Coordinators of LSIC
 
 ![](/img/koordinatoriu-nuotraukos/bendros/LSP%20koordinatoriai-2.jpg)
 
 <TeamAvatarLayout :members="lsp" />
 
-## Programos, klubai ir projektai
+## Programs, Clubs and Projects
 
 ![](/img/koordinatoriu-nuotraukos/bendros/PKP-2.jpg)
 
@@ -112,12 +113,12 @@ Apie programų, klubų ir projektų veiklą – skaityk [čia](/darni-bendruomen
 
 <TeamAvatarLayout :members="pkp" />
 
-## Užsieniečių studentų koordinatoriai
+## Coordinators of Foreign Student Affairs
 
 ![](/img/koordinatoriu-nuotraukos/bendros/Uzsienieciu-koordai-2.jpg)
 
 <TeamAvatarLayout :members="intl" />
 
-## Kitų sričių koordinatoriai
+## Coordinators of other activities
 
 <TeamAvatarLayout :members="other" />
