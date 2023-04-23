@@ -11,7 +11,7 @@ hero:
     alt: VU SA report 2022
   actions:
     - theme: brand
-      text: Find out about 2021-2022!
+      text: Find out about 2021-2022
       link: /en/vu-sa/vu-sa
     - theme: alt
       text: See the latest report
@@ -19,7 +19,7 @@ hero:
 
 features:
   - title: Greetings
-    details: Read greetings from VU SR partners
+    details: Read the greetings from VU SR partners
     icon: 🎉
     link: /en/sveikinimai
   - title: What is VU SR?
@@ -38,8 +38,19 @@ features:
     details: Many students were involved in VU SR activities
     icon: 🤝
     link: /en/bendruomene
-  - title: Padėka
+  - title: Apprecation to partners
     details: We thank everyone who helped us
     icon: 🙏
     link: /en/padeka
 ---
+
+<script setup lang="ts">
+import TestimonialElement from "/components/TestimonialElement.vue";
+</script>
+
+<TestimonialElement img-src="/img/sveikinimai/neda.jpg" person-name="Neda Žutautaitė" person-position="VU SR president" href="/en/prezidentes-kalba" button-text="Speech of the president">
+We would not have done all this and many things not yet listed without
+solid partnerships and united work together! So I would like to say a
+big THANK YOU to everyone who contributed to making it better for the
+students and the Organization.
+</TestimonialElement>

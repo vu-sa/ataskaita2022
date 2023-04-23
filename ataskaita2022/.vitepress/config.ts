@@ -5,6 +5,7 @@ import enConfig from './config/en'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/ataskaita2022/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     ...sharedConfig

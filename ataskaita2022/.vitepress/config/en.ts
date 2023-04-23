@@ -8,7 +8,7 @@ export default {
             { text: 'Year plan', link: '/en/mvp/mvp' },
             { text: 'Strategic directions', items: [
                 { text: 'High quality studies and its environment', link: '/en/kokybiskos-studijos/nacionalinis' },
-                { text: 'Strong organization', link: '/en/vu-sa-projektai' },
+                { text: 'Strong organization', link: '/en/stipri-organizacija/vu-sa-projektai' },
                 { text: 'Sustainable University community', link: '/en/darni-bendruomene/darni-bendruomene' },
             ] },
             { text: 'Community', link: '/en/bendruomene' },

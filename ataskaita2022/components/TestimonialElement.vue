@@ -3,7 +3,7 @@
     <div class="md:max-w-6xl sm:py-8 py-6 max-w-2xl mx-auto">
       <figure class="flex flex-col md:flex-row items-center gap-8">
         <div class="p-8">
-          <img class="shadow-md" src="/img/sveikinimai/neda.jpg" alt="" />
+          <img class="shadow-md" :src="imgSrc" alt="" />
         </div>
         <div class="relative p-8">
           <svg
@@ -29,20 +29,14 @@
           </svg>
           <blockquote>
             <p class="font-bold text-xl/8 tracking-normal italic">
-              Visų šitų ir krūvos dar neišvardytų dalykų nebūtume nuveikę be
-              stiprių partnerysčių ir vieningo darbo kartu! Tad tariu didžiulį
-              AČIŪ kiekvienai (-am) prisidėjusiai (-iam) prie to, kad studentams
-              (-ėms) ir Organizacijai būtų geriau.
+              <slot />
             </p>
           </blockquote>
           <figcaption class="leading-4 my-8">
-            <div class="text-lg font-bold">Neda Žutautaitė</div>
-            <div class="opacity-80 text-sm">VU SA prezidentė</div>
+            <div class="text-lg font-bold">{{ personName }}</div>
+            <div class="opacity-80 text-sm">{{ personPosition }}</div>
           </figcaption>
-          <VPButton
-            href="/prezidentes-kalba"
-            text="Prezidentės kalba"
-          ></VPButton>
+          <VPButton :href="href" :text="buttonText"></VPButton>
         </div>
       </figure>
     </div>
@@ -51,4 +45,12 @@
 
 <script setup lang="ts">
 import VPButton from "vitepress/dist/client/theme-default/components/VPButton.vue";
+
+defineProps<{
+  imgSrc: string;
+  href: string;
+  buttonText: string;
+  personName: string;
+  personPosition: string;
+}>();
 </script>
