@@ -2,7 +2,7 @@
 
 ## Start FM
 
-![](/img/pkp-logo/START%20FM%20logotipas.png)
+![](/img/pkp-logo/START_FM_logotipas.png)
 
 _Ataskaitiniu laikotarpiu radijui vadovavo Rimantas Murza._
 
@@ -35,7 +35,7 @@ reportažus aktualiomis temomis bei interviu.
 
 ## VU Debatų draugija
 
-![](/img/pkp-logo/Debatų%20klubų%20logotipas.jpg)
+![](/img/pkp-logo/Debatu_klubo_logotipas.jpg)
 
 _Ataskaitiniu laikotarpiu klubo veiklą koordinavo Robertas Remeika._
 
@@ -58,7 +58,7 @@ klubas buvo sėkmingai atidaryta pirmajame viešame renginyje, vykusiame
 
 ## SMMS
 
-![](/img/pkp-logo/SMMS%20logotipas.jpg)
+![](/img/pkp-logo/SMMS_logotipas.jpg)
 
 _Ataskaitiniu laikotarpiu projekto veiklą koordinavo Rugilė Hokušaitė (iki 2021 m. gruodžio mėn.), Urtė Marija Kasnikauskaitė (nuo 2021 m. gruodžio mėn.)._
 
@@ -80,7 +80,7 @@ klubais bei projektais.
 
 ## VU Teisės klinika
 
-![](/img/pkp-logo/Teisės%20klinikos%20logotipas.png)
+![](/img/pkp-logo/Teisės_klinikos_logotipas.png)
 
 _Ataskaitiniu laikotarpiu projektą koordinavo Viktorija Medžiaušaitė._
 
@@ -132,7 +132,7 @@ centru dėl teisinės pagalbos teikimo nukentėjusiems nuo prekybos
 
 ## Vilniaus universiteto Studentų investicinis fondas (VU SIF)
 
-![](/img/pkp-logo/SIF%20logotipas.png)
+![](/img/pkp-logo/SIF_logotipas.png)
 
 _Ataskaitiniu laikotarpiu fondui vadovavo Ieva Turskytė (iki 2022 m. sausio mėn.) bei Gabrielė Stanionytė (nuo 2022 m. sausio mėn.)._
 
@@ -172,7 +172,7 @@ Verslo mokykla bei Vilniaus universitetas.
 
 ## Karjeros dienos\'22
 
-![](/img/pkp-logo/KD%20logotipas.png)
+![](/img/pkp-logo/KD_logotipas.png)
 
 _Ataskaitiniu laikotarpiu projekto veiklą koordinavo Eglė Jašinskaitė._
 
@@ -198,7 +198,7 @@ net 4500 EUR prizą įsteigtą FRANMAX.
 
 ## Be etikečių
 
-![](/img/pkp-logo/Be%20etikečių%20logotipas.jpg)
+![](/img/pkp-logo/Be_etikečių_logotipas.jpg)
 
 _Ataskaitiniu laikotarpiu programos veiklą koordinavo Julija Baublinskaitė._
 
@@ -238,7 +238,7 @@ ir istorija.
 
 ## VU JEK
 
-![](/img/pkp-logo/JEK%20logotipas.png)
+![](/img/pkp-logo/JEK_logotipas.png)
 
 _Ataskaitiniu laikotarpiu klubo veiklą koordinavo Klaudija Pukalskaitė._
 
@@ -261,7 +261,7 @@ aplankyti Antalieptės muziejų ir jį atnaujinti mokymų metu.
 
 ## ESN VU
 
-![](/img/pkp-logo/ESN%20logotipas.png)
+![](/img/pkp-logo/ESN_logotipas.png)
 
 _Ataskaitiniu laikotarpiu programos veiklą koordinavo Simonas Bendinskas._
 
@@ -286,7 +286,7 @@ atveju.
 
 ## Kendo klubas
 
-![](/img/pkp-logo/Kendo%20klubo%20logotipas.jpg)
+![](/img/pkp-logo/Kendo_klubo_logotipas.jpg)
 
 _Ataskaitiniu laikotarpiu klubo veiklą koordinavo Vytenis Almonaitis._
 
@@ -307,7 +307,7 @@ porinių treniruočių galimybes bei kvietė visus sportuoti.
 
 ## SGV
 
-![](/img/pkp-logo/SGV%20logotipas.png)
+![](/img/pkp-logo/SGV_logotipas.png)
 
 _Ataskaitiniu laikotarpiu projektui vadovavo Aurelija Vasiliauskaitė._
 
@@ -327,7 +327,7 @@ laisvalaikiu.
 
 ## Rašytojų klubas
 
-![](/img/pkp-logo/Rašytojų%20klubo%20logotipas.png)
+![](/img/pkp-logo/Rašytojų_klubo_logotipas.png)
 
 _Ataskaitiniu laikotarpiu klubo veiklą koordinavo Nikolajus Elkana Eimutis._
 
@@ -358,7 +358,7 @@ kaip atspirtis pokyčiams visuomenėje.
 
 ## HEMA
 
-![](/img/pkp-logo/HEMA%20logotipas.jpg)
+![](/img/pkp-logo/HEMA_logotipas.jpg)
 
 _Ataskaitiniu laikotarpiu klubo veiklą koordinavo Gintarė Vaičekauskytė._
 
@@ -377,7 +377,7 @@ stovykloje.
 
 ## Foto klubas
 
-![](/img/pkp-logo/Fotoklubo%20logotipas.jpg)
+![](/img/pkp-logo/Fotoklubo_logotipas.jpg)
 
 _Ataskaitiniu laikotarpiu VU Fotoklubui pirmininkavo Gabija Raubaitė ir Andranik Karagezian._
 
@@ -423,7 +423,7 @@ klestėti.
 
 ## Antropologų klubas
 
-![](/img/pkp-logo/Antropologų%20klubo%20logotipas.png)
+![](/img/pkp-logo/Antropologų_klubo_logotipas.png)
 
 _Ataskaitiniu laikotarpiu klubo veiklą koordinavo Ivan Trunov._
 
@@ -441,7 +441,7 @@ tema, kuriame buvo kalbama apie atliktus 2 socialinius tyrimus.
 
 ## Gyvybės mokslų konferencija The COINS 2022
 
-![](/img/pkp-logo/The%20COINS%20logotipas.jpg)
+![](/img/pkp-logo/The_COINS_logotipas.jpg)
 
 _Ataskaitiniu laikotarpiu veiklą koordinavo Daniel Šematovič_
 
@@ -480,7 +480,7 @@ pritraukusi 120 moksleivių iš įvairių Lietuvos mokyklų.
 
 ## Jaunųjų žurmalistų draugija
 
-![](/img/pkp-logo/JŽD%20logotipas.jpg)
+![](/img/pkp-logo/JŽD_logotipas.jpg)
 
 _Ataskaitiniu laikotarpiu draugijai vadovavo Gabija Strumylaitė._
 

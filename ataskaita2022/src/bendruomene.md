@@ -20,7 +20,7 @@ import TeamAvatarLayout from '../components/TeamAvatarLayout.vue'
 
 ## Centrinis biuras
 
-![](/img/koordinatoriu-nuotraukos/bendros/Centrinis%20biuras-2.jpg)
+![](/img/koordinatoriu-nuotraukos/bendros/Centrinis-biuras-2.jpg)
 
 <TeamAvatarLayout :members="biuras" />
 
@@ -50,7 +50,7 @@ Apie Institucinio fondo veiklą bei kas jį sudarė – skaityk [čia](/stipri-o
 
 ## Socialinio-akademinio proceso koordinatoriai
 
-![](/img/koordinatoriu-nuotraukos/bendros/Socialinio-akademinio%20proceso%20koordinatoriai-2.jpg)
+![](/img/koordinatoriu-nuotraukos/bendros/Socialinio-akademinio-proceso-koordinatoriai-2.jpg)
 
 <TeamAvatarLayout :members="socakad" />
 
@@ -62,13 +62,13 @@ Apie Institucinio fondo veiklą bei kas jį sudarė – skaityk [čia](/stipri-o
 
 ## Komunikacijos koordinatoriai
 
-![](/img/koordinatoriu-nuotraukos/bendros/Komunikacijos%20koordinatoriai-2.jpg)
+![](/img/koordinatoriu-nuotraukos/bendros/Komunikacijos-koordinatoriai-2.jpg)
 
 <TeamAvatarLayout :members="kom" />
 
 ## Marketingo koordinatoriai
 
-![](/img/koordinatoriu-nuotraukos/bendros/Marketingo%20srities%20koordinatoriai-2.jpg)
+![](/img/koordinatoriu-nuotraukos/bendros/Marketingo-srities-koordinatoriai-2.jpg)
 
 <TeamAvatarLayout :members="mark" />
 
@@ -86,7 +86,7 @@ Apie Institucinio fondo veiklą bei kas jį sudarė – skaityk [čia](/stipri-o
 
 ## Integracijos proceso koordinatoriai
 
-![](/img/koordinatoriu-nuotraukos/bendros/Integracijos%20proceso%20koordinatoriai-2.jpg)
+![](/img/koordinatoriu-nuotraukos/bendros/Integracijos-proceso-koordinatoriai-2.jpg)
 
 <TeamAvatarLayout :members="integration" />
 
@@ -98,7 +98,7 @@ Apie Institucinio fondo veiklą bei kas jį sudarė – skaityk [čia](/stipri-o
 
 ## LSP koordinatoriai
 
-![](/img/koordinatoriu-nuotraukos/bendros/LSP%20koordinatoriai-2.jpg)
+![](/img/koordinatoriu-nuotraukos/bendros/LSP-koordinatoriai-2.jpg)
 
 <TeamAvatarLayout :members="lsp" />
 

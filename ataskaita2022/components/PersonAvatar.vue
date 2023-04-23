@@ -13,7 +13,7 @@
   </div>
 </template>
 
-<script setup lang="tsx">
+<script setup lang="ts">
 import { NAvatar } from "naive-ui";
 
 defineProps<{

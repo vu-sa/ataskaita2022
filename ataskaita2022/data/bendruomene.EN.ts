@@ -208,41 +208,41 @@ export const biuras = [
     {
         "name": "Viktorija Milko",
         "title": "Organizational Coordinator",
-        "avatar": "/img/koordinatoriu-nuotraukos/CB/Viktorija%20Milko_Organizacinės%20srities%20koordinatorė.jpg"
+        "avatar": "/img/koordinatoriu-nuotraukos/CB/Viktorija-Milko_Organizacinės-srities-koordinatorė.jpg"
     },
     {
         "name": "Aurelija Vasiliauskaitė",
         "title": "Integration Process Coordinator",
-        "avatar": "/img/koordinatoriu-nuotraukos/CB/Aurelija%20Vasiliauskaitė_Integracijos%20proceso%20koordinatorė.jpg"
+        "avatar": "/img/koordinatoriu-nuotraukos/CB/Aurelija-Vasiliauskaitė_Integracijos-proceso-koordinatorė.jpg"
     },
     {
         "name": "Kamilė Kandrotaitė",
         "title": "Planning Process Coordinator",
-        "avatar": "/img/koordinatoriu-nuotraukos/CB/Kamilė%20Kandrotaitė_Planavimo%20proceso%20koordinatorė.jpg"
+        "avatar": "/img/koordinatoriu-nuotraukos/CB/Kamilė-Kandrotaitė_Planavimo-proceso-koordinatorė.jpg"
     },
     {
         "name": "Andželika Jankauskytė",
         "title": "Administrator, Representatives' Coordinator (until 2021-11)",
-        "avatar": "/img/koordinatoriu-nuotraukos/CB/Andželika%20Jankauskytė_Administratorė_Atstovų%20koordinatorė%20(iki%202021-11).jpg"
+        "avatar": "/img/koordinatoriu-nuotraukos/CB/Andželika-Jankauskytė_Administratorė_Atstovų-koordinatorė-(iki-2021-11).jpg"
     },
     {
         "name": "Aušrinė Dichavičiūtė",
         "title": "LSP Coordinator (from 2021-09)",
-        "avatar": "/img/koordinatoriu-nuotraukos/CB/Aušrinė%20Dichavičiūtė_LSP%20koordinatorė%20(nuo%202021-09).jpg"
+        "avatar": "/img/koordinatoriu-nuotraukos/CB/Aušrinė-Dichavičiūtė_LSP-koordinatorė-(nuo-2021-09).jpg"
     },
     {
         "name": "Justinas Kavoliūnas",
         "title": "IT Coordinator",
-        "avatar": "/img/koordinatoriu-nuotraukos/CB/Justinas%20Kavoliūnas_IT%20koordinatorius.jpg"
+        "avatar": "/img/koordinatoriu-nuotraukos/CB/Justinas-Kavoliūnas_IT-koordinatorius.jpg"
     },
     {
         "name": "Gabija Laibakojytė",
         "title": "Communications Coordinator (until 2021-10)",
-        "avatar": "/img/koordinatoriu-nuotraukos/CB/Gabija%20Laibakojytė_Komunikacijos%20koordinatorė%20(iki%202021-10)-2.jpg"
+        "avatar": "/img/koordinatoriu-nuotraukos/CB/Gabija-Laibakojytė_Komunikacijos-koordinatorė-(iki-2021-10)-2.jpg"
     },
     {
         "name": "Rokas Toleikis",
         "title": "Marketing Coordinator (until 2022-11)",
-        "avatar": "/img/koordinatoriu-nuotraukos/CB/Rokas%20Toleikis_Marketingo%20koordinatorius%20(iki%202022-11)-2.jpg"
+        "avatar": "/img/koordinatoriu-nuotraukos/CB/Rokas-Toleikis_Marketingo-koordinatorius-(iki-2022-11)-2.jpg"
     }
 ]

@@ -6,7 +6,7 @@ outline: deep
 
 ## Government of the Republic of Lithuania
 
-![Vyriausybė](/img/sveikinimai/MP%20portretas.jpg)
+![Vyriausybė](/img/sveikinimai/MP-portretas.jpg)
 
 Dear students of Vilnius University,
 
@@ -85,7 +85,7 @@ Minister for Education, Science and Sport
 
 ## Committee on Education and Science of the Parliament of the Republic of Lithuania
 
-![](/img/sveikinimai/Žukauskas.XIII-020-S20210121-O%20Posaškovos-0234.JPG)
+![](/img/sveikinimai/zukauskas.jpg)
 
 Dear students,
 
@@ -152,7 +152,7 @@ Rector of Vilnius university
 
 ## Vilniaus University Senate
 
-![](/img/sveikinimai/senato%20pirmininke.jpg)
+![](/img/sveikinimai/senato-pirmininke.jpg)
 
 Dear students of Vilnius University,
 
@@ -273,7 +273,7 @@ General Director of VU Library
 
 ## Ombudswoman for academic ethics and procedures
 
-![](/img/sveikinimai/dr.%20Loreta%20Tauginienė.MART1397B.jpg)
+![](/img/sveikinimai/dr.-Loreta-Tauginienė.MART1397B.jpg)
 
 Dear students,
 

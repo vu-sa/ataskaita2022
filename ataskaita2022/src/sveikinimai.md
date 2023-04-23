@@ -6,7 +6,7 @@ outline: deep
 
 ## LR Vyriausybė
 
-![Vyriausybė](img/sveikinimai/MP%20portretas.jpg)
+![Vyriausybė](/img/sveikinimai/MP-portretas.jpg)
 
 Mieli Vilniaus universiteto studentai ir studentės,
 
@@ -81,7 +81,7 @@ tikiuosi, kad nenustosite rodyti jaunatviškos drąsos ir solidarumo su
 
 ## LR Seimo Švietimo ir mokslo komitetas
 
-![](/img/sveikinimai/Žukauskas.XIII-020-S20210121-O%20Posaškovos-0234.JPG)
+![](/img/sveikinimai/zukauskas.jpg)
 
 Mieli studentai,
 
@@ -145,7 +145,7 @@ Vilniaus universiteto rektorius
 
 ## Vilniaus universiteto Senatas
 
-![](/img/sveikinimai/senato%20pirmininke.jpg)
+![](/img/sveikinimai/senato-pirmininke.jpg)
 
 Brangūs Vilniaus universiteto studentai,
 
@@ -264,7 +264,7 @@ VU bibliotekos generalinė direktorė
 
 ## Akademinės etikos ir procedūrų kontrolierė
 
-![](/img/sveikinimai/dr.%20Loreta%20Tauginienė.MART1397B.jpg)
+![](/img/sveikinimai/dr.-Loreta-Tauginienė.MART1397B.jpg)
 
 Mieli studentai, mielos studentės,
 

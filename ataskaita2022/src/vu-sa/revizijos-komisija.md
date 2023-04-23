@@ -11,11 +11,11 @@ ataskaitinėje-rinkiminėje konferencijoje.
 
 ::: details Ataskaitiniu laikotarpiu Revizijos komisiją sudarė:
 
--   Evaldas Matijošaitis (komisijos pirmininkas)
--   Tomas Bedulskij
--   Aušrinė Gedminaitė
--   Kamilė Gineikaitė
--   Agnė Tamošiūnaitė
+- Evaldas Matijošaitis (komisijos pirmininkas)
+- Tomas Bedulskij
+- Aušrinė Gedminaitė
+- Kamilė Gineikaitė
+- Agnė Tamošiūnaitė
 
 :::
 
@@ -36,9 +36,10 @@ tikslų planavimuose ir strateginio plano kūrimo sesijose.
 
 Organizacijos
 veiklos vertinimas buvo atliktas renkant informaciją skirtingais būdais:
+
 - dalyvaujant bendrose organizacijos veiklose;
 - organizuojant individualius
-susitikimus su pareigas einančiais VU SA nariais;
+  susitikimus su pareigas einančiais VU SA nariais;
 - vykdant apklausas raštu.
 
 Taip pat Revizijos komisija konsultavo VU SA narius ir teikė
@@ -48,4 +49,4 @@ atsakymus į jų klausimus, susijusius su VU SA veikla bei teisės aktais.
 Organizacijos veiklos vertinimo ataskaitą Revizijos komisija teikia VU
 SA ataskaitinės-rinkiminės konferencijos metu (su vertinimo ataskaita
 galima susipažinti
-[čia](/lt/veiklos-ir-tyrimu-ataskaitos).).
+[čia](https://vusa.lt/lt/veiklos-ir-tyrimu-ataskaitos).).

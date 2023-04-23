@@ -21,7 +21,7 @@ import TeamAvatarLayout from '../../components/TeamAvatarLayout.vue'
 
 ## Central Office
 
-![](/img/koordinatoriu-nuotraukos/bendros/Centrinis%20biuras-2.jpg)
+![](/img/koordinatoriu-nuotraukos/bendros/Centrinis-biuras-2.jpg)
 
 <TeamAvatarLayout :members="biuras" />
 
@@ -51,7 +51,7 @@ About Institutional Strengthening Fund and its members – [here](/stipri-organi
 
 ## Coordinators of Socioacademic Affairs
 
-![](/img/koordinatoriu-nuotraukos/bendros/Socialinio-akademinio%20proceso%20koordinatoriai-2.jpg)
+![](/img/koordinatoriu-nuotraukos/bendros/Socialinio-akademinio-proceso-koordinatoriai-2.jpg)
 
 <TeamAvatarLayout :members="socakad" />
 
@@ -63,13 +63,13 @@ About Institutional Strengthening Fund and its members – [here](/stipri-organi
 
 ## Coordinators of Communication
 
-![](/img/koordinatoriu-nuotraukos/bendros/Komunikacijos%20koordinatoriai-2.jpg)
+![](/img/koordinatoriu-nuotraukos/bendros/Komunikacijos-koordinatoriai-2.jpg)
 
 <TeamAvatarLayout :members="kom" />
 
 ## Coordinators of Marketing
 
-![](/img/koordinatoriu-nuotraukos/bendros/Marketingo%20srities%20koordinatoriai-2.jpg)
+![](/img/koordinatoriu-nuotraukos/bendros/Marketingo-srities-koordinatoriai-2.jpg)
 
 <TeamAvatarLayout :members="mark" />
 
@@ -87,7 +87,7 @@ About Institutional Strengthening Fund and its members – [here](/stipri-organi
 
 ## Coordinators of Integration Process
 
-![](/img/koordinatoriu-nuotraukos/bendros/Integracijos%20proceso%20koordinatoriai-2.jpg)
+![](/img/koordinatoriu-nuotraukos/bendros/Integracijos-proceso-koordinatoriai-2.jpg)
 
 <TeamAvatarLayout :members="integration" />
 
@@ -99,7 +99,7 @@ About Institutional Strengthening Fund and its members – [here](/stipri-organi
 
 ## Coordinators of LSIC
 
-![](/img/koordinatoriu-nuotraukos/bendros/LSP%20koordinatoriai-2.jpg)
+![](/img/koordinatoriu-nuotraukos/bendros/LSP-koordinatoriai-2.jpg)
 
 <TeamAvatarLayout :members="lsp" />
 

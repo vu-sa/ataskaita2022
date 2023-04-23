@@ -232,49 +232,49 @@ export const biuras = [
     name: "Viktorija Milko",
     title: "Organizacinės srities koordinatorė",
     avatar:
-      "/img/koordinatoriu-nuotraukos/CB/Viktorija%20Milko_Organizacinės%20srities%20koordinatorė.jpg",
+      "/img/koordinatoriu-nuotraukos/CB/Viktorija-Milko_Organizacinės-srities-koordinatorė.jpg",
   },
   {
     name: "Aurelija Vasiliauskaitė",
     title: "Integracijos proceso koordinatorė",
     avatar:
-      "/img/koordinatoriu-nuotraukos/CB/Aurelija%20Vasiliauskaitė_Integracijos%20proceso%20koordinatorė.jpg",
+      "/img/koordinatoriu-nuotraukos/CB/Aurelija-Vasiliauskaitė_Integracijos-proceso-koordinatorė.jpg",
   },
   {
     name: "Kamilė Kandrotaitė",
     title: "Planavimo proceso koordinatorė",
     avatar:
-      "/img/koordinatoriu-nuotraukos/CB/Kamilė%20Kandrotaitė_Planavimo%20proceso%20koordinatorė.jpg",
+      "/img/koordinatoriu-nuotraukos/CB/Kamilė-Kandrotaitė_Planavimo-proceso-koordinatorė.jpg",
   },
   {
     name: "Andželika Jankauskytė",
     title: "Administratorė, atstovų koordinatorė (iki 2021-11)",
     avatar:
-      "/img/koordinatoriu-nuotraukos/CB/Andželika%20Jankauskytė_Administratorė_Atstovų%20koordinatorė%20(iki%202021-11).jpg",
+      "/img/koordinatoriu-nuotraukos/CB/Andželika-Jankauskytė_Administratorė_Atstovų-koordinatorė-(iki-2021-11).jpg",
   },
   {
     name: "Aušrinė Dichavičiūtė",
     title: "LSP koordinatorė (nuo 2021-09)",
     avatar:
-      "/img/koordinatoriu-nuotraukos/CB/Aušrinė%20Dichavičiūtė_LSP%20koordinatorė%20(nuo%202021-09).jpg",
+      "/img/koordinatoriu-nuotraukos/CB/Aušrinė-Dichavičiūtė_LSP-koordinatorė-(nuo-2021-09).jpg",
   },
   {
     name: "Justinas Kavoliūnas",
     title: "IT koordinatorius",
     avatar:
-      "/img/koordinatoriu-nuotraukos/CB/Justinas%20Kavoliūnas_IT%20koordinatorius.jpg",
+      "/img/koordinatoriu-nuotraukos/CB/Justinas-Kavoliūnas_IT-koordinatorius.jpg",
   },
   {
     name: "Gabija Laibakojytė",
     title: "Komunikacijos koordinatorė (iki 2021-10)",
     avatar:
-      "/img/koordinatoriu-nuotraukos/CB/Gabija%20Laibakojytė_Komunikacijos%20koordinatorė%20(iki%202021-10)-2.jpg",
+      "/img/koordinatoriu-nuotraukos/CB/Gabija-Laibakojytė_Komunikacijos-koordinatorė-(iki-2021-10)-2.jpg",
   },
   {
     name: "Rokas Toleikis",
     title: "Marketingo koordinatorius (iki 2022-11)",
     avatar:
-      "/img/koordinatoriu-nuotraukos/CB/Rokas%20Toleikis_Marketingo%20koordinatorius%20(iki%202022-11)-2.jpg",
+      "/img/koordinatoriu-nuotraukos/CB/Rokas-Toleikis_Marketingo-koordinatorius-(iki-2022-11)-2.jpg",
   },
 ];
 
@@ -283,79 +283,79 @@ export const socakad = [
     name: "Gabija Navašinskaitė",
     title: "VU SA CHGF",
     avatar:
-      "/img/koordinatoriu-nuotraukos/socakad/Gabija%20Navašinskaitė_Socialinio-akademinio%20proceso%20reikalų%20koordinatorė_CHGF-2.jpg",
+      "/img/koordinatoriu-nuotraukos/socakad/Gabija-Navašinskaitė_Socialinio-akademinio-proceso-reikalų-koordinatorė_CHGF-2.jpg",
   },
   {
     name: "Eglė Romelytė",
     title: "VU SA EVAF",
     avatar:
-      "/img/koordinatoriu-nuotraukos/socakad/Eglė%20Romelytė_Socialinio-akademino%20proceso%20reikalų%20koordinatorė_EVAF.jpg",
+      "/img/koordinatoriu-nuotraukos/socakad/Eglė-Romelytė_Socialinio-akademino-proceso-reikalų-koordinatorė_EVAF.jpg",
   },
   {
     name: "Kasparas Daranda",
     title: "VU SA FF",
     avatar:
-      "/img/koordinatoriu-nuotraukos/socakad/Kasparas%20Daranda_Socakad_FF.jpg",
+      "/img/koordinatoriu-nuotraukos/socakad/Kasparas-Daranda_Socakad_FF.jpg",
   },
   {
     name: "Kamilė Kanapienytė",
     title: "VU SA FilF",
     avatar:
-      "/img/koordinatoriu-nuotraukos/socakad/Kamilė%20Kanapienytė_Socakad_FilF-2.jpg",
+      "/img/koordinatoriu-nuotraukos/socakad/Kamilė-Kanapienytė_Socakad_FilF-2.jpg",
   },
   {
     name: "Vėjūnė Uldinskaitė",
     title: "VU SA FsF",
     avatar:
-      "/img/koordinatoriu-nuotraukos/socakad/Vėjūnė%20Uldinskaitė_Socakad_Fsf-2.jpg",
+      "/img/koordinatoriu-nuotraukos/socakad/Vėjūnė-Uldinskaitė_Socakad_Fsf-2.jpg",
   },
   {
     name: "Justė Žilionytė",
     title: "VU SA GMC",
     avatar:
-      "/img/koordinatoriu-nuotraukos/socakad/Justė%20Žilionytė_Socakad_GMC-2.jpg",
+      "/img/koordinatoriu-nuotraukos/socakad/Justė-Žilionytė_Socakad_GMC-2.jpg",
   },
   {
     name: "Vilija Valiukonytė",
     title: "VU SA IF",
     avatar:
-      "/img/koordinatoriu-nuotraukos/socakad/Vilija%20Valiukonytė_socakadas_IF(nuo%202021-09)-2.jpg",
+      "/img/koordinatoriu-nuotraukos/socakad/Vilija-Valiukonytė_socakadas_IF(nuo-2021-09)-2.jpg",
   },
   {
     name: "Greta Tarimaitė",
     title: "VU SA KF",
     avatar:
-      "/img/koordinatoriu-nuotraukos/socakad/Greta%20Tarimaitė_Socakad_KF-2.jpg",
+      "/img/koordinatoriu-nuotraukos/socakad/Greta-Tarimaitė_Socakad_KF-2.jpg",
   },
   {
     name: "Raminta Klimaitė",
     title: "VU SA KnF",
     avatar:
-      "/img/koordinatoriu-nuotraukos/socakad/Raminta%20Klimaitė_socakad_KnF.jpg",
+      "/img/koordinatoriu-nuotraukos/socakad/Raminta-Klimaitė_socakad_KnF.jpg",
   },
   {
     name: "Anastasija Volkova",
     title: "VU SA MIF",
     avatar:
-      "/img/koordinatoriu-nuotraukos/socakad/Anastasija%20Volkova_Socakad_MIF-2.jpg",
+      "/img/koordinatoriu-nuotraukos/socakad/Anastasija-Volkova_Socakad_MIF-2.jpg",
   },
   {
     name: "Dominyka Banel",
     title: "VU SA TF",
     avatar:
-      "/img/koordinatoriu-nuotraukos/socakad/Dominyka%20Banel_Socakad_TF-2.jpg",
+      "/img/koordinatoriu-nuotraukos/socakad/Dominyka-Banel_Socakad_TF-2.jpg",
   },
   {
     name: "Livija Trakelytė",
     title: "VU SA TSPMI",
     avatar:
-      "/img/koordinatoriu-nuotraukos/socakad/Livija%20Trakelytė_socakad_TSPMI.jpg",
+      "/img/koordinatoriu-nuotraukos/socakad/Livija-Trakelytė_socakad_TSPMI.jpg",
   },
   {
     name: "Matas Krikščiūnas",
     title: "VU SA VM",
     avatar:
-      "/img/koordinatoriu-nuotraukos/socakad/Matas%20Krikščiūnas_socakad_VM.jpg",
+      "/img/koordinatoriu-nuotraukos/socakad/Matas-Krikščiūnas_socakad_VM.jpg",
   },
   {
     name: "Vakarė Gotautaitė",
@@ -374,103 +374,103 @@ export const atstovai = [
     name: "Monika Paulauskaitė",
     title: "VU SA CHGF (iki 2021-11)",
     avatar:
-      "/img/koordinatoriu-nuotraukos/atstovai/Monika%20Paulauskaitė_Atstovų%20koordinatorė_CHGF-2.jpg",
+      "/img/koordinatoriu-nuotraukos/atstovai/Monika-Paulauskaitė_Atstovų-koordinatorė_CHGF-2.jpg",
   },
   {
     name: "Adelė Čibiraitė",
     title: "VU SA EVAF (iki 2021-09)",
     avatar:
-      "/img/koordinatoriu-nuotraukos/atstovai/Adelė%20Čibiraitė_atstovų_EVAF(iki%202021-09)-2.jpg",
+      "/img/koordinatoriu-nuotraukos/atstovai/Adelė-Čibiraitė_atstovų_EVAF(iki-2021-09)-2.jpg",
   },
   {
     name: "Augustė Volkavičiūtė",
     title: "VU SA EVAF (nuo 2021-09)",
     avatar:
-      "/img/koordinatoriu-nuotraukos/atstovai/Augustė%20Volkavičiūtė_Atstovų_EVAF(nuo%202021-09)-2.jpg",
+      "/img/koordinatoriu-nuotraukos/atstovai/Augustė-Volkavičiūtė_Atstovų_EVAF(nuo-2021-09)-2.jpg",
   },
   {
     name: "Kasparas Daranda",
     title: "VU SA FF",
     avatar:
-      "/img/koordinatoriu-nuotraukos/atstovai/Kasparas%20Daranda_Atstovai_FF.jpg",
+      "/img/koordinatoriu-nuotraukos/atstovai/Kasparas-Daranda_Atstovai_FF.jpg",
   },
   {
     name: "Martynas Žaronaitis",
     title: "VU SA FilF",
     avatar:
-      "/img/koordinatoriu-nuotraukos/atstovai/Martynas%20Žaronaitis_Atstovų_FilF-2.jpg",
+      "/img/koordinatoriu-nuotraukos/atstovai/Martynas-Žaronaitis_Atstovų_FilF-2.jpg",
   },
   {
     name: "Erika Didrikaitė",
     title: "VU SA FsF",
     avatar:
-      "/img/koordinatoriu-nuotraukos/atstovai/Erika%20Didrikaitė_Atstovu_Fsf-2.jpg",
+      "/img/koordinatoriu-nuotraukos/atstovai/Erika-Didrikaitė_Atstovu_Fsf-2.jpg",
   },
   {
     name: "Miglė Krasauskaitė",
     title: "VU SA GMC",
     avatar:
-      "/img/koordinatoriu-nuotraukos/atstovai/Miglė%20Krasauskaitė_Atstovai_GMC-2.jpg",
+      "/img/koordinatoriu-nuotraukos/atstovai/Miglė-Krasauskaitė_Atstovai_GMC-2.jpg",
   },
   {
     name: "Eva Ginkevičiūtė",
     title: "VU SA IF (nuo 2022-01)",
     avatar:
-      "/img/koordinatoriu-nuotraukos/atstovai/Eva%20Ginkevičiūtė_atstovai_IF(nuo%202022-01).jpg",
+      "/img/koordinatoriu-nuotraukos/atstovai/Eva-Ginkevičiūtė_atstovai_IF(nuo-2022-01).jpg",
   },
   {
     name: "Viktorija Jankauskaitė",
     title: "VU SA KF",
     avatar:
-      "/img/koordinatoriu-nuotraukos/atstovai/Viktorija%20Jankauskaitė_Atstovai_KF-2.jpg",
+      "/img/koordinatoriu-nuotraukos/atstovai/Viktorija-Jankauskaitė_Atstovai_KF-2.jpg",
   },
   {
     name: "Aušrinė Tamulevičiūtė",
     title: "VU SA KnF",
     avatar:
-      "/img/koordinatoriu-nuotraukos/atstovai/Aušrinė%20Tamulevičiūtė_Atsttovai_KnF.jpg",
+      "/img/koordinatoriu-nuotraukos/atstovai/Aušrinė-Tamulevičiūtė_Atsttovai_KnF.jpg",
   },
   {
     name: "Miglė Vilniškytė",
     title: "VU SA MF",
     avatar:
-      "/img/koordinatoriu-nuotraukos/atstovai/Miglė%20Vilniškytė_atstovai_MF-2.jpg",
+      "/img/koordinatoriu-nuotraukos/atstovai/Miglė-Vilniškytė_atstovai_MF-2.jpg",
   },
   {
     name: "Rimantas Stražinskas",
     title: "VU SA MIF",
     avatar:
-      "/img/koordinatoriu-nuotraukos/atstovai/Rimantas%20Stražinskas_atstovai_MIF-2.jpg",
+      "/img/koordinatoriu-nuotraukos/atstovai/Rimantas-Stražinskas_atstovai_MIF-2.jpg",
   },
   {
     name: "Viktorija Rubliova",
     title: "VU SA ŠA",
     avatar:
-      "/img/koordinatoriu-nuotraukos/atstovai/Viktorija%20Rubliova_atstovai_ŠA-2.jpg",
+      "/img/koordinatoriu-nuotraukos/atstovai/Viktorija-Rubliova_atstovai_ŠA-2.jpg",
   },
   {
     name: "Kamilia Edita Fominova",
     title: "VU SA TF",
     avatar:
-      "/img/koordinatoriu-nuotraukos/atstovai/Kamilia%20Edita%20Fominova_Atstovu_TF-2.jpg",
+      "/img/koordinatoriu-nuotraukos/atstovai/Kamilia-Edita-Fominova_Atstovu_TF-2.jpg",
   },
   {
     name: "Milda Ščiglaitė",
     title: "VU SA TSPMI",
     avatar:
-      "/img/koordinatoriu-nuotraukos/atstovai/Milda%20Ščiglaitė_atastovai_TSPMI.jpg",
+      "/img/koordinatoriu-nuotraukos/atstovai/Milda-Ščiglaitė_atastovai_TSPMI.jpg",
   },
   {
     name: "Ričardas Ratkevičius",
     title: "VU SA VM (iki 2021-12)",
     avatar:
-      "/img/koordinatoriu-nuotraukos/atstovai/Ričardas%20Ratkevičius%20–%20VU%20SA%20VM%20Atstovų%20koordinatorius%20(iki%202021%20gruodžio%20mėn.).jpg",
+      "/img/koordinatoriu-nuotraukos/atstovai/Ričardas-Ratkevičius-–-VU-SA-VM-Atstovų-koordinatorius-(iki-2021-gruodžio-mėn.).jpg",
   },
   {
     name: "Edgaras Kodis",
     title: "VU SA VM (nuo 2021-12)",
     avatar:
-      "/img/koordinatoriu-nuotraukos/atstovai/Edgaras%20Kodis_atstovai_VM(nuo%202021-12).jpg",
+      "/img/koordinatoriu-nuotraukos/atstovai/Edgaras-Kodis_atstovai_VM(nuo-2021-12).jpg",
   },
 ];
 
@@ -479,84 +479,84 @@ export const kom = [
     name: "Beatričė Urbaitė",
     title: "VU SA CHGF",
     avatar:
-      "/img/koordinatoriu-nuotraukos/kom/Beatričė%20Urbaitė_Komunikacijos%20koordinatorė%20CHGF-2.jpg",
+      "/img/koordinatoriu-nuotraukos/kom/Beatričė-Urbaitė_Komunikacijos-koordinatorė-CHGF-2.jpg",
   },
   {
     name: "Aušrinė Bielskytė",
     title: "VU SA EVAF",
     avatar:
-      "/img/koordinatoriu-nuotraukos/kom/Aušrinė%20Bielskytė_Komunikacijos%20koordinatorė_EVAF.jpg",
+      "/img/koordinatoriu-nuotraukos/kom/Aušrinė-Bielskytė_Komunikacijos-koordinatorė_EVAF.jpg",
   },
   {
     name: "Artūr Karagezian",
     title: "VU SA FF",
-    avatar: "/img/koordinatoriu-nuotraukos/kom/Artūr%20Karagezian_Kom_FF.jpg",
+    avatar: "/img/koordinatoriu-nuotraukos/kom/Artūr-Karagezian_Kom_FF.jpg",
   },
   {
     name: "Justė Vardauskaitė",
     title: "VU SA FilF",
     avatar:
-      "/img/koordinatoriu-nuotraukos/kom/Justė%20Vardauskaitė_Kom_FilF-2.jpg",
+      "/img/koordinatoriu-nuotraukos/kom/Justė-Vardauskaitė_Kom_FilF-2.jpg",
   },
   {
     name: "Dovilė Mikniūtė",
     title: "VU SA FsF",
-    avatar: "/img/koordinatoriu-nuotraukos/kom/Dovilė%20Mikniūtė_kom_Fsf-2.jpg",
+    avatar: "/img/koordinatoriu-nuotraukos/kom/Dovilė-Mikniūtė_kom_Fsf-2.jpg",
   },
   {
     name: "Eivinas Zableckas",
     title: "VU SA GMC (nuo 2021-08)",
     avatar:
-      "/img/koordinatoriu-nuotraukos/kom/Eivinas%20Zableckas_kom_GMC(nuo%202021-08)-2.jpg",
+      "/img/koordinatoriu-nuotraukos/kom/Eivinas-Zableckas_kom_GMC(nuo-2021-08)-2.jpg",
   },
   {
     name: "Neringa Andrejevaitė",
     title: "VU SA IF (iki 2021-12)",
     avatar:
-      "/img/koordinatoriu-nuotraukos/kom/Neringa%20Andrejevaitė_Kom_IF(iki%202021-12)-2.jpg",
+      "/img/koordinatoriu-nuotraukos/kom/Neringa-Andrejevaitė_Kom_IF(iki-2021-12)-2.jpg",
   },
   {
     name: "Justina Reklaitytė",
     title: "VU SA IF",
     avatar:
-      "/img/koordinatoriu-nuotraukos/kom/Justina%20Reklaitytė_kom_IF(nuo%202022-01)-2.jpg",
+      "/img/koordinatoriu-nuotraukos/kom/Justina-Reklaitytė_kom_IF(nuo-2022-01)-2.jpg",
   },
   {
     name: "Gerda Minajevaitė",
     title: "VU SA KF",
     avatar:
-      "/img/koordinatoriu-nuotraukos/kom/Gerda%20Minajevaitė_Kom_KF-2.jpg",
+      "/img/koordinatoriu-nuotraukos/kom/Gerda-Minajevaitė_Kom_KF-2.jpg",
   },
   {
     name: "Ieva Šilingaitė",
     title: "VU SA KnF",
-    avatar: "/img/koordinatoriu-nuotraukos/kom/Ieva%20Šilingaitė_Kom_KnF.jpg",
+    avatar: "/img/koordinatoriu-nuotraukos/kom/Ieva-Šilingaitė_Kom_KnF.jpg",
   },
   {
     name: "Lurdes Gaidelytė",
     title: "VU SA MF",
-    avatar: "/img/koordinatoriu-nuotraukos/kom/Lurdes%20Gaidelytė_Kom_MF-2.jpg",
+    avatar: "/img/koordinatoriu-nuotraukos/kom/Lurdes-Gaidelytė_Kom_MF-2.jpg",
   },
   {
     name: "Agota Lužytė",
     title: "VU SA MIF",
-    avatar: "/img/koordinatoriu-nuotraukos/kom/Agota%20Lužytė_kom_MIF-2.jpg",
+    avatar: "/img/koordinatoriu-nuotraukos/kom/Agota-Lužytė_kom_MIF-2.jpg",
   },
   {
     name: "Luka Tamulionytė",
     title: "VU SA TF",
-    avatar: "/img/koordinatoriu-nuotraukos/kom/Luka%20Tamulionytė_kom_TF-2.jpg",
+    avatar: "/img/koordinatoriu-nuotraukos/kom/Luka-Tamulionytė_kom_TF-2.jpg",
   },
   {
     name: "Kamilė Augėnaitė",
     title: "VU SA TSPMI",
     avatar:
-      "/img/koordinatoriu-nuotraukos/kom/Kamilė%20Augėnaitė_kom_TSPMI.jpg",
+      "/img/koordinatoriu-nuotraukos/kom/Kamilė-Augėnaitė_kom_TSPMI.jpg",
   },
   {
     name: "Abigailė Zizaitė",
     title: "VU SA VM",
-    avatar: "/img/koordinatoriu-nuotraukos/kom/Abigailė%20Zizaitė_kom_VM.jpg",
+    avatar: "/img/koordinatoriu-nuotraukos/kom/Abigailė-Zizaitė_kom_VM.jpg",
   },
   {
     name: "Aistė Andrukaitė",
@@ -570,79 +570,79 @@ export const mark = [
     name: "Beatričė Urbaitė",
     title: "VU SA CHGF",
     avatar:
-      "/img/koordinatoriu-nuotraukos/mark/Beatričė%20Urbaitė_Marketingo%20koordinatorė%20CHGF-2.jpg",
+      "/img/koordinatoriu-nuotraukos/mark/Beatričė-Urbaitė_Marketingo-koordinatorė-CHGF-2.jpg",
   },
   {
     name: "Greta Bičiulaitytė",
     title: "VU SA EVAF (iki 2021-11)",
     avatar:
-      "/img/koordinatoriu-nuotraukos/mark/Greta%20Bičiulaitytė_Markas_EVAF(iki%202021-11).jpg",
+      "/img/koordinatoriu-nuotraukos/mark/Greta-Bičiulaitytė_Markas_EVAF(iki-2021-11).jpg",
   },
   {
     name: "Ieva Gruodytė",
     title: "VU SA EVAF (nuo 2021-11)",
     avatar:
-      "/img/koordinatoriu-nuotraukos/mark/Ieva%20Gruodytė_Markas_EVAF(nuo%202021-11)-2.jpg",
+      "/img/koordinatoriu-nuotraukos/mark/Ieva-Gruodytė_Markas_EVAF(nuo-2021-11)-2.jpg",
   },
   {
     name: "Viktorija Nilova",
     title: "VU SA FF (iki 2022-03)",
     avatar:
-      "/img/koordinatoriu-nuotraukos/mark/Viktorija%20Nilova_markas_FF(iki%202022-03).jpg",
+      "/img/koordinatoriu-nuotraukos/mark/Viktorija-Nilova_markas_FF(iki-2022-03).jpg",
   },
   {
     name: "Kasparas Daranda",
     title: "VU SA FF (nuo 2022-03)",
     avatar:
-      "/img/koordinatoriu-nuotraukos/mark/Kasparas%20Daranda_markas_FF(nuo%202022-03).jpg",
+      "/img/koordinatoriu-nuotraukos/mark/Kasparas-Daranda_markas_FF(nuo-2022-03).jpg",
   },
   {
     name: "Aušrinė Tverskytė",
     title: "VU SA FilF",
     avatar:
-      "/img/koordinatoriu-nuotraukos/mark/Aušrinė%20Tverskytė_Markas_Filf-2.jpg",
+      "/img/koordinatoriu-nuotraukos/mark/Aušrinė-Tverskytė_Markas_Filf-2.jpg",
   },
   {
     name: "Nomeda Griškevičiūtė",
     title: "VU SA FsF",
     avatar:
-      "/img/koordinatoriu-nuotraukos/mark/Nomeda%20Griškevičiūtė_Markas_Fsf-2.jpg",
+      "/img/koordinatoriu-nuotraukos/mark/Nomeda-Griškevičiūtė_Markas_Fsf-2.jpg",
   },
   {
     name: "Vesta Kubiliūtė",
     title: "VU SA GMC",
     avatar:
-      "/img/koordinatoriu-nuotraukos/mark/Vesta%20Kubiliūtė_Markas_GMC-2.jpg",
+      "/img/koordinatoriu-nuotraukos/mark/Vesta-Kubiliūtė_Markas_GMC-2.jpg",
   },
   {
     name: "Lukrecija Giedraitytė",
     title: "VU SA KF",
     avatar:
-      "/img/koordinatoriu-nuotraukos/mark/Lukrecija%20Giedraitytė_Markas_KF-2.jpg",
+      "/img/koordinatoriu-nuotraukos/mark/Lukrecija-Giedraitytė_Markas_KF-2.jpg",
   },
   {
     name: "Gabija Burokaitė",
     title: "VU SA MIF",
     avatar:
-      "/img/koordinatoriu-nuotraukos/mark/Gabija%20Burokaitė_markas_MIF-2.jpg",
+      "/img/koordinatoriu-nuotraukos/mark/Gabija-Burokaitė_markas_MIF-2.jpg",
   },
   {
     name: "Kristina Lapienytė",
     title: "VU SA TF",
     avatar:
-      "/img/koordinatoriu-nuotraukos/mark/Kristina%20Lapienytė_markas_TF-2.jpg",
+      "/img/koordinatoriu-nuotraukos/mark/Kristina-Lapienytė_markas_TF-2.jpg",
   },
   {
     name: "Ugnius Sejonas",
     title: "VU SA TSPMI",
     avatar:
-      "/img/koordinatoriu-nuotraukos/mark/Ugnius%20Sejonas_markas_TSPMI.jpg",
+      "/img/koordinatoriu-nuotraukos/mark/Ugnius-Sejonas_markas_TSPMI.jpg",
   },
   {
     name: "Marja Abramavičiūtė",
     title: "VU SA VM",
     avatar:
-      "/img/koordinatoriu-nuotraukos/mark/Marja%20Abramavičiūtė_markas_VM.jpg",
+      "/img/koordinatoriu-nuotraukos/mark/Marja-Abramavičiūtė_markas_VM.jpg",
   },
   {
     name: "Evelina Volskytė (iki 2021-08)",
@@ -661,101 +661,101 @@ export const org = [
     name: "Egmontas Taraila",
     title: "VU SA CHGF",
     avatar:
-      "/img/koordinatoriu-nuotraukos/org/Egmontas%20Taraila_Organizacinės%20srities%20koordinarius%20CHGF-2.jpg",
+      "/img/koordinatoriu-nuotraukos/org/Egmontas-Taraila_Organizacinės-srities-koordinarius-CHGF-2.jpg",
   },
   {
     name: "Einoras Tiškevičius",
     title: "VU SA EVAF",
     avatar:
-      "/img/koordinatoriu-nuotraukos/org/Einoras%20Tiškevičius_Organizacinės%20srities%20koordinatorius_EVAF.jpg",
+      "/img/koordinatoriu-nuotraukos/org/Einoras-Tiškevičius_Organizacinės-srities-koordinatorius_EVAF.jpg",
   },
   {
     name: "Kornelija Kairytė",
     title: "VU SA FF",
     avatar:
-      "/img/koordinatoriu-nuotraukos/org/Kornelija%20Kairytė_Orgas_FF.jpg",
+      "/img/koordinatoriu-nuotraukos/org/Kornelija-Kairytė_Orgas_FF.jpg",
   },
   {
     name: "Gabrielė Jaskelevičiūtė",
     title: "VU SA FilF (iki 2021-08)",
     avatar:
-      "/img/koordinatoriu-nuotraukos/org/Gabrielė%20Jaskelevičiūtė_orgas_FiLF(iki%202021-08)-2.jpg",
+      "/img/koordinatoriu-nuotraukos/org/Gabrielė-Jaskelevičiūtė_orgas_FiLF(iki-2021-08)-2.jpg",
   },
   {
     name: "Paulina Mikėnaitė",
     title: "VU SA FilF (nuo 2021-10)",
     avatar:
-      "/img/koordinatoriu-nuotraukos/org/Paulina%20Mikėnaitė_Orgas_Filf(nuo%202021-10)-2.jpg",
+      "/img/koordinatoriu-nuotraukos/org/Paulina-Mikėnaitė_Orgas_Filf(nuo-2021-10)-2.jpg",
   },
   {
     name: "Vakarė Punelytė",
     title: "VU SA FsF",
     avatar:
-      "/img/koordinatoriu-nuotraukos/org/Vakarė%20Punelytė_Orgas_Fsf-2.jpg",
+      "/img/koordinatoriu-nuotraukos/org/Vakarė-Punelytė_Orgas_Fsf-2.jpg",
   },
   {
     name: "Rusnė Uzielaitė ",
     title: "VU SA GMC (nuo 2021-09)",
     avatar:
-      "/img/koordinatoriu-nuotraukos/org/Rusnė%20Uzielaitė_Orgas_GMC(nuo%202021-09)-2.jpg",
+      "/img/koordinatoriu-nuotraukos/org/Rusnė-Uzielaitė_Orgas_GMC(nuo-2021-09)-2.jpg",
   },
   {
     name: "Tomas Mikalauskas ",
     title: "VU SA IF (nuo 2021-09)",
     avatar:
-      "/img/koordinatoriu-nuotraukos/org/Tomas%20Mikalauskas_Orgas_IF(nuo%202021-09)-2.jpg",
+      "/img/koordinatoriu-nuotraukos/org/Tomas-Mikalauskas_Orgas_IF(nuo-2021-09)-2.jpg",
   },
   {
     name: "Rugilė Barauskaitė",
     title: "VU SA KF",
     avatar:
-      "/img/koordinatoriu-nuotraukos/org/Rugilė%20Barauskaitė_Orgas_KF-2.jpg",
+      "/img/koordinatoriu-nuotraukos/org/Rugilė-Barauskaitė_Orgas_KF-2.jpg",
   },
   {
     name: "Valentas Kuklis",
     title: "VU SA KnF",
-    avatar: "/img/koordinatoriu-nuotraukos/org/Valentas%20Kuklis_orgas_KnF.jpg",
+    avatar: "/img/koordinatoriu-nuotraukos/org/Valentas-Kuklis_orgas_KnF.jpg",
   },
   {
     name: "Beatričė Kuzminaitė",
     title: "VU SA MF",
     avatar:
-      "/img/koordinatoriu-nuotraukos/org/Beatričė%20Kuzminaitė_orgas_MF-2.jpg",
+      "/img/koordinatoriu-nuotraukos/org/Beatričė-Kuzminaitė_orgas_MF-2.jpg",
   },
   {
     name: "Gustas Štaševskis",
     title: "VU SA MIF (iki 2021-09)",
     avatar:
-      "/img/koordinatoriu-nuotraukos/org/Gustas%20Štaševskis_orgas_MIF(iki%202021-09)-2.jpg",
+      "/img/koordinatoriu-nuotraukos/org/Gustas-Štaševskis_orgas_MIF(iki-2021-09)-2.jpg",
   },
   {
     name: "Augustina Petraitytė",
     title: "VU SA MIF (nuo 2021-09)",
     avatar:
-      "/img/koordinatoriu-nuotraukos/org/Augustina%20Petraitytė_orgas_MIF(nuo%202021-09)-2.jpg",
+      "/img/koordinatoriu-nuotraukos/org/Augustina-Petraitytė_orgas_MIF(nuo-2021-09)-2.jpg",
   },
   {
     name: "Akvilė Bušininkaitė",
     title: "VU SA ŠA",
     avatar:
-      "/img/koordinatoriu-nuotraukos/org/Akvilė%20Bušininkaitė_orgas_ŠA-2.jpg",
+      "/img/koordinatoriu-nuotraukos/org/Akvilė-Bušininkaitė_orgas_ŠA-2.jpg",
   },
   {
     name: "Deimantė Lina Paškevičiūtė",
     title: "VU SA TF",
     avatar:
-      "/img/koordinatoriu-nuotraukos/org/Deimantė%20Lina%20Paškevičiūtė_orgas_TF-2.jpg",
+      "/img/koordinatoriu-nuotraukos/org/Deimantė-Lina-Paškevičiūtė_orgas_TF-2.jpg",
   },
   {
     name: "Anelė Dromantaitė",
     title: "VU SA TSPMI",
     avatar:
-      "/img/koordinatoriu-nuotraukos/org/Anelė%20Dromantaitė_orgas_TSMPI.jpg",
+      "/img/koordinatoriu-nuotraukos/org/Anelė-Dromantaitė_orgas_TSMPI.jpg",
   },
   {
     name: "Goda Valtytė",
     title: "VU SA VM",
-    avatar: "/img/koordinatoriu-nuotraukos/org/Goda%20Valtytė_orgas_VM.jpg",
+    avatar: "/img/koordinatoriu-nuotraukos/org/Goda-Valtytė_orgas_VM.jpg",
   },
   {
     name: "Lukas Šarauskas",
@@ -771,72 +771,72 @@ export const hr = [
     name: "Jonas Stirbys",
     title: "VU SA EVAF (iki 2022-03)",
     avatar:
-      "/img/koordinatoriu-nuotraukos/HR/Jonas%20Stirbys_HR_EVAF(iki%202022-03).jpg",
+      "/img/koordinatoriu-nuotraukos/HR/Jonas-Stirbys_HR_EVAF(iki-2022-03).jpg",
   },
   {
     name: "Martyna Šimkutė",
     title: "VU SA FF",
-    avatar: "/img/koordinatoriu-nuotraukos/HR/Martyna%20Šimkutė_HR_FF-2.jpg",
+    avatar: "/img/koordinatoriu-nuotraukos/HR/Martyna-Šimkutė_HR_FF-2.jpg",
   },
   {
     name: "Karolina Kuzmaitė",
     title: "VU SA FsF",
-    avatar: "/img/koordinatoriu-nuotraukos/HR/Karolina%20Kuzmaitė_HR_Fsf-2.jpg",
+    avatar: "/img/koordinatoriu-nuotraukos/HR/Karolina-Kuzmaitė_HR_Fsf-2.jpg",
   },
   {
     name: "Evelina Prosevičiūtė",
     title: "VU SA GMC",
     avatar:
-      "/img/koordinatoriu-nuotraukos/HR/Evelina%20Prosevičiūtė_HR_GMC-2.jpg",
+      "/img/koordinatoriu-nuotraukos/HR/Evelina-Prosevičiūtė_HR_GMC-2.jpg",
   },
   {
     name: "Neda Rasimavičiūtė",
     title: "VU SA IF",
-    avatar: "/img/koordinatoriu-nuotraukos/HR/Neda%20Rasimavičiūtė_HR_IF-2.jpg",
+    avatar: "/img/koordinatoriu-nuotraukos/HR/Neda-Rasimavičiūtė_HR_IF-2.jpg",
   },
   {
     name: "Mišel Zaslavskaitė",
     title: "VU SA KF",
-    avatar: "/img/koordinatoriu-nuotraukos/HR/Mišel%20Zaslavskaitė_HR_KF-3.jpg",
+    avatar: "/img/koordinatoriu-nuotraukos/HR/Mišel-Zaslavskaitė_HR_KF-3.jpg",
   },
   {
     name: "Aušra Korkuzaitė",
     title: "VU SA KF (iki 2021-11)",
     avatar:
-      "/img/koordinatoriu-nuotraukos/HR/Aušra%20Korkuzaitė_HR_KnF(2021-11)-2.jpg",
+      "/img/koordinatoriu-nuotraukos/HR/Aušra-Korkuzaitė_HR_KnF(2021-11)-2.jpg",
   },
   {
     name: "Indrė Bagdžiūtė",
     title: "VU SA KnF (nuo 2021-11)",
     avatar:
-      "/img/koordinatoriu-nuotraukos/HR/Indrė%20Bagdžiūtė_HR_KnF(nuo%202021-11).jpg",
+      "/img/koordinatoriu-nuotraukos/HR/Indrė-Bagdžiūtė_HR_KnF(nuo-2021-11).jpg",
   },
   {
     name: "Agnė Butkutė",
     title: "VU SA MIF",
-    avatar: "/img/koordinatoriu-nuotraukos/HR/Agnė%20Butkutė_HR_MF-2.jpg",
+    avatar: "/img/koordinatoriu-nuotraukos/HR/Agnė-Butkutė_HR_MF-2.jpg",
   },
   {
     name: "Dovydas Grajauskas",
     title: "VU SA TF",
-    avatar: "/img/koordinatoriu-nuotraukos/HR/Dovydas%20Grajauskas_HR_TF-2.jpg",
+    avatar: "/img/koordinatoriu-nuotraukos/HR/Dovydas-Grajauskas_HR_TF-2.jpg",
   },
   {
     name: "Gintarė Kudelytė",
     title: "VU SA TSPMI",
-    avatar: "/img/koordinatoriu-nuotraukos/HR/Gintarė%20Kudelytė_HR_TSPMI.jpg",
+    avatar: "/img/koordinatoriu-nuotraukos/HR/Gintarė-Kudelytė_HR_TSPMI.jpg",
   },
   {
     name: "Edgaras Kodis",
     title: "VU SA VM",
     avatar:
-      "/img/koordinatoriu-nuotraukos/HR/Edgaras%20Kodis%20–%20HRVM%20(iki%202021%20gruodžio%20mėn.).jpg",
+      "/img/koordinatoriu-nuotraukos/HR/Edgaras-Kodis-–-HRVM-(iki-2021-gruodžio-mėn.).jpg",
   },
   {
     name: "Karolina Alimovaitė",
     title: "VU SA VM",
     avatar:
-      "/img/koordinatoriu-nuotraukos/HR/Karolina%20Alimovaitė%20–%20HRVM%20(nuo%202022%20vasario%20mėn.).jpg",
+      "/img/koordinatoriu-nuotraukos/HR/Karolina-Alimovaitė-–-HRVM-(nuo-2022-vasario-mėn.).jpg",
   },
   {
     name: "Vėjunė Vasiliauskaitė",
@@ -854,79 +854,79 @@ export const integration = [
     name: "Evaldas Kvietkauskas",
     title: "VU SA CHGF",
     avatar:
-      "/img/koordinatoriu-nuotraukos/integr/Evaldas%20Kvietkauskas_Integracijos%20koordinatorius%20CHGF-2.jpg",
+      "/img/koordinatoriu-nuotraukos/integr/Evaldas-Kvietkauskas_Integracijos-koordinatorius-CHGF-2.jpg",
   },
   {
     name: "Gabija Platakytė",
     title: "VU SA EVAF",
     avatar:
-      "/img/koordinatoriu-nuotraukos/integr/Gabija%20Platakytė_Integracijos%20proceso%20koordinatorė_EVAF.jpg",
+      "/img/koordinatoriu-nuotraukos/integr/Gabija-Platakytė_Integracijos-proceso-koordinatorė_EVAF.jpg",
   },
   {
     name: "Kornelija Račkauskaitė",
     title: "VU SA FF",
     avatar:
-      "/img/koordinatoriu-nuotraukos/integr/Kornelija%20Račkauskaitė_Integracija_FF.jpg",
+      "/img/koordinatoriu-nuotraukos/integr/Kornelija-Račkauskaitė_Integracija_FF.jpg",
   },
   {
     name: "Rūta Balsevičiūtė",
     title: "VU SA FilF",
     avatar:
-      "/img/koordinatoriu-nuotraukos/integr/Rūta%20Balsevičiūtė_Integr_FilF-2.jpg",
+      "/img/koordinatoriu-nuotraukos/integr/Rūta-Balsevičiūtė_Integr_FilF-2.jpg",
   },
   {
     name: "Gintarė Tauterytė",
     title: "VU SA FsF",
     avatar:
-      "/img/koordinatoriu-nuotraukos/integr/Gintarė%20Tauterytė_Intergacija_FsF-2.jpg",
+      "/img/koordinatoriu-nuotraukos/integr/Gintarė-Tauterytė_Intergacija_FsF-2.jpg",
   },
   {
     name: "Deimantė Graželytė",
     title: "VU SA GMC (iki 2021-12)",
     avatar:
-      "/img/koordinatoriu-nuotraukos/integr/Deimantė%20Graželytė_Inegr_GMC(iki%202021-12)-2.jpg",
+      "/img/koordinatoriu-nuotraukos/integr/Deimantė-Graželytė_Inegr_GMC(iki-2021-12)-2.jpg",
   },
   {
     name: "Tomas Mikalauskas",
     title: "VU SA IF",
     avatar:
-      "/img/koordinatoriu-nuotraukos/integr/Tomas%20Mikalauskas_Integr_IF-2.jpg",
+      "/img/koordinatoriu-nuotraukos/integr/Tomas-Mikalauskas_Integr_IF-2.jpg",
   },
   {
     name: "Iveta Gelumbickaitė",
     title: "VU SA KF",
     avatar:
-      "/img/koordinatoriu-nuotraukos/integr/Iveta%20Gelumbickaitė_Integrac_KF-3.jpg",
+      "/img/koordinatoriu-nuotraukos/integr/Iveta-Gelumbickaitė_Integrac_KF-3.jpg",
   },
   {
     name: "Marija Trofimišinaitė",
     title: "VU SA KnF",
     avatar:
-      "/img/koordinatoriu-nuotraukos/integr/Marija%20Trofimišinaitė_Integr_KnF.jpg",
+      "/img/koordinatoriu-nuotraukos/integr/Marija-Trofimišinaitė_Integr_KnF.jpg",
   },
   {
     name: "Titas Masys",
     title: "VU SA MIF",
     avatar:
-      "/img/koordinatoriu-nuotraukos/integr/Titas%20Masys_Integracija_MIF-2.jpg",
+      "/img/koordinatoriu-nuotraukos/integr/Titas-Masys_Integracija_MIF-2.jpg",
   },
   {
     name: "Benas Norkus",
     title: "VU SA TF",
     avatar:
-      "/img/koordinatoriu-nuotraukos/integr/Benas%20Norkus_Integr_TF-2.jpg",
+      "/img/koordinatoriu-nuotraukos/integr/Benas-Norkus_Integr_TF-2.jpg",
   },
   {
     name: "Anelė Dromantaitė",
     title: "VU SA TSPMI",
     avatar:
-      "/img/koordinatoriu-nuotraukos/integr/Anelė%20Dromantaitė_integr_TSMPI.jpg",
+      "/img/koordinatoriu-nuotraukos/integr/Anelė-Dromantaitė_integr_TSMPI.jpg",
   },
   {
     name: "Justas Petraitis",
     title: "VU SA VM",
     avatar:
-      "/img/koordinatoriu-nuotraukos/integr/Justas%20Petraitis_Integr_VM.jpg",
+      "/img/koordinatoriu-nuotraukos/integr/Justas-Petraitis_Integr_VM.jpg",
   },
   {
     name: "Katažyna Aneta Borščevska",
@@ -944,67 +944,67 @@ export const admin = [
     name: "Milda Striupaitytė",
     title: "VU SA EVAF",
     avatar:
-      "/img/koordinatoriu-nuotraukos/admin/Milda%20Striupaitytė_Administratorė_EVAF.jpg",
+      "/img/koordinatoriu-nuotraukos/admin/Milda-Striupaitytė_Administratorė_EVAF.jpg",
   },
   {
     name: "Ugnė Šilingaitė",
     title: "VU SA FF",
     avatar:
-      "/img/koordinatoriu-nuotraukos/admin/Ugnė%20Šilingaitė_Admin_FF-2.jpg",
+      "/img/koordinatoriu-nuotraukos/admin/Ugnė-Šilingaitė_Admin_FF-2.jpg",
   },
   {
     name: "Justė Vardauskaitė",
     title: "VU SA FilF",
     avatar:
-      "/img/koordinatoriu-nuotraukos/admin/Justė%20Vardauskaitė_Admin_FilF-2.jpg",
+      "/img/koordinatoriu-nuotraukos/admin/Justė-Vardauskaitė_Admin_FilF-2.jpg",
   },
   {
     name: "Vilius Alvinskas",
     title: "VU SA FsF",
     avatar:
-      "/img/koordinatoriu-nuotraukos/admin/Vilius%20Alvinskas_Admin_Fsf-2.jpg",
+      "/img/koordinatoriu-nuotraukos/admin/Vilius-Alvinskas_Admin_Fsf-2.jpg",
   },
   {
     name: "Vesta Kubiliūtė",
     title: "VU SA GMC",
     avatar:
-      "/img/koordinatoriu-nuotraukos/admin/Vesta%20Kubiliūtė_Admin_GMC-2.jpg",
+      "/img/koordinatoriu-nuotraukos/admin/Vesta-Kubiliūtė_Admin_GMC-2.jpg",
   },
   {
     name: "Neda Rasimavičiūtė",
     title: "VU SA IF",
     avatar:
-      "/img/koordinatoriu-nuotraukos/admin/Neda%20Rasimavičiūtė_admin_IF.jpg",
+      "/img/koordinatoriu-nuotraukos/admin/Neda-Rasimavičiūtė_admin_IF.jpg",
   },
   {
     name: "Ernestas Rainys",
     title: "VU SA KnF",
     avatar:
-      "/img/koordinatoriu-nuotraukos/admin/Ernestas%20Rainys_Admin_KnF.jpg",
+      "/img/koordinatoriu-nuotraukos/admin/Ernestas-Rainys_Admin_KnF.jpg",
   },
   {
     name: "Rūta Dikčiūtė",
     title: "VU SA TF",
     avatar:
-      "/img/koordinatoriu-nuotraukos/admin/Rūta%20Dikčiūtė_Admin_TF-2.jpg",
+      "/img/koordinatoriu-nuotraukos/admin/Rūta-Dikčiūtė_Admin_TF-2.jpg",
   },
   {
     name: "Ugnius Sejonas",
     title: "VU SA TSPMI",
     avatar:
-      "/img/koordinatoriu-nuotraukos/admin/Ugnius%20Sejonas_admin_TSPMI.jpg",
+      "/img/koordinatoriu-nuotraukos/admin/Ugnius-Sejonas_admin_TSPMI.jpg",
   },
   {
     name: "Aistė Prialgauskaitė",
     title: "VU SA VM (iki 2021-09)",
     avatar:
-      "/img/koordinatoriu-nuotraukos/admin/Aistė%20Prialgauskaitė_admin_VM(iki%202021-09).jpg",
+      "/img/koordinatoriu-nuotraukos/admin/Aistė-Prialgauskaitė_admin_VM(iki-2021-09).jpg",
   },
   {
     name: "Erika Radiun",
     title: "VU SA VM (nuo 2021-09)",
     avatar:
-      "/img/koordinatoriu-nuotraukos/admin/Erika%20Radiun_admin_VM(nuo%202021-09).jpg",
+      "/img/koordinatoriu-nuotraukos/admin/Erika-Radiun_admin_VM(nuo-2021-09).jpg",
   },
 ];
 export const pkp = [
@@ -1012,126 +1012,126 @@ export const pkp = [
     name: "Julija Baublinskaitė",
     title: "Programa 'Be etikečių'",
     avatar:
-      "/img/koordinatoriu-nuotraukos/pkp/Julija%20Baublinskaitė%20Be%20etikečių.jpg",
+      "/img/koordinatoriu-nuotraukos/pkp/Julija-Baublinskaitė-Be-etikečių.jpg",
   },
   {
     name: "Gintarė Vaičekauskytė",
     title: "HEMA",
     avatar:
-      "/img/koordinatoriu-nuotraukos/pkp/Gintarė%20Vaičekauskytė_HEMA.jpg",
+      "/img/koordinatoriu-nuotraukos/pkp/Gintarė-Vaičekauskytė_HEMA.jpg",
   },
   {
     name: "Danielius Šematovič",
     title: "The COINS",
     avatar:
-      "/img/koordinatoriu-nuotraukos/pkp/Danielius%20Šematovič_The%20COINS.jpg",
+      "/img/koordinatoriu-nuotraukos/pkp/Danielius-Šematovič_The-COINS.jpg",
   },
   {
     name: "Gabija Raubaitė",
     title: "VU Foto klubas",
     avatar:
-      "/img/koordinatoriu-nuotraukos/pkp/Gabija%20Raubaitė%20VU%20fotoklubas.jpg",
+      "/img/koordinatoriu-nuotraukos/pkp/Gabija-Raubaitė-VU-fotoklubas.jpg",
   },
   {
     name: "Andranik Karagezian",
     title: "VU Foto klubas",
     avatar:
-      "/img/koordinatoriu-nuotraukos/pkp/Andranik%20Karagezian%20VU%20Fotoklubas.jpg",
+      "/img/koordinatoriu-nuotraukos/pkp/Andranik-Karagezian-VU-Fotoklubas.jpg",
   },
   {
     name: "Gabija Strumylaitė",
     title: "VU Jaunųjų žurnalistų draugija",
     avatar:
-      "/img/koordinatoriu-nuotraukos/pkp/Gabija%20Strumylaitė%20VU%20Jaunųjų%20žurnalistų%20draugija.jpg",
+      "/img/koordinatoriu-nuotraukos/pkp/Gabija-Strumylaitė-VU-Jaunųjų-žurnalistų-draugija.jpg",
   },
   {
     name: "Eglė Jašinskaitė",
     title: "VU Karjeros dienos",
     avatar:
-      "/img/koordinatoriu-nuotraukos/pkp/Eglė%20Jašinskaitė%20VU%20Karjeros%20dienos.jpg",
+      "/img/koordinatoriu-nuotraukos/pkp/Eglė-Jašinskaitė-VU-Karjeros-dienos.jpg",
   },
   {
     name: "Ivan Trunov",
     title: "Antropologų klubas",
     avatar:
-      "/img/koordinatoriu-nuotraukos/pkp/Antropologų%20klubas%20Ivan%20Trunov_.jpg",
+      "/img/koordinatoriu-nuotraukos/pkp/Antropologų-klubas-Ivan-Trunov_.jpg",
   },
   {
     name: "Aurelija Vasiliauskaitė",
     title: "Studentiško gyvenimo vadovas",
     avatar:
-      "/img/koordinatoriu-nuotraukos/pkp/Aurelija%20Vasiliauskaitė%20SGV.jpg",
+      "/img/koordinatoriu-nuotraukos/pkp/Aurelija-Vasiliauskaitė-SGV.jpg",
   },
   {
     name: "Justinas Brazaitis",
     title: "Sąžiningai (nuo 2022 m. sausio mėn.)",
     avatar:
-      "/img/koordinatoriu-nuotraukos/pkp/Justinas%20Brazaitis%20(nuo%202022%20m.%20sausio%20m%C4%97n.)%20S%C4%85%C5%BEiningai.jpg",
+      "/img/koordinatoriu-nuotraukos/pkp/Justinas-Brazaitis-(nuo-2022-m.-sausio-m%C4%97n.)-S%C4%85%C5%BEiningai.jpg",
   },
   {
     name: "Klaudija Pukalskaitė",
     title: "VU Jaunųjų energetikų klubas",
     avatar:
-      "/img/koordinatoriu-nuotraukos/pkp/Klaudija%20Pukalskait%C4%97%20VU%20JEK.jpg",
+      "/img/koordinatoriu-nuotraukos/pkp/Klaudija-Pukalskait%C4%97-VU-JEK.jpg",
   },
   {
     name: "Rimantas Murza",
     title: "StartFM",
-    avatar: "/img/koordinatoriu-nuotraukos/pkp/Rimantas%20Murza%20StartFM.jpg",
+    avatar: "/img/koordinatoriu-nuotraukos/pkp/Rimantas-Murza-StartFM.jpg",
   },
   {
     name: "Robertas Rameika",
     title: "VU Debatų klubas",
     avatar:
-      "/img/koordinatoriu-nuotraukos/pkp/Robertas%20Rameika%20VU%20Debat%C5%B3%20klubas.jpg",
+      "/img/koordinatoriu-nuotraukos/pkp/Robertas-Rameika-VU-Debat%C5%B3-klubas.jpg",
   },
   {
     name: "Simonas Bendinskas",
     title: "ESN Vilnius University",
     avatar:
-      "/img/koordinatoriu-nuotraukos/pkp/Simonas%20Bendinskas%20ESN%20Vilnius%20university.jpg",
+      "/img/koordinatoriu-nuotraukos/pkp/Simonas-Bendinskas-ESN-Vilnius-university.jpg",
   },
   {
     name: "Rugilė Hokušaitė",
     title: "SMMS (iki 2021 m. gruodžio mėn.)",
     avatar:
-      "/img/koordinatoriu-nuotraukos/pkp/SMMS%20Rugil%C4%97%20Hoku%C5%A1ait%C4%97%20(iki%202021%20m.%20gruod%C5%BEio%20m%C4%97n.)_.jpg",
+      "/img/koordinatoriu-nuotraukos/pkp/SMMS-Rugil%C4%97-Hoku%C5%A1ait%C4%97-(iki-2021-m.-gruod%C5%BEio-m%C4%97n.)_.jpg",
   },
   {
     name: "Urtė Marija Kasnikauskaitė",
     title: "SMMS (nuo 2021 m. gruodžio mėn.)",
     avatar:
-      "/img/koordinatoriu-nuotraukos/pkp/Urt%C4%97%20Marija%20Kasnikauskait%C4%97%20(nuo%202021%20m.%20gruod%C5%BEio%20m%C4%97n.).jpg",
+      "/img/koordinatoriu-nuotraukos/pkp/Urt%C4%97-Marija-Kasnikauskait%C4%97-(nuo-2021-m.-gruod%C5%BEio-m%C4%97n.).jpg",
   },
   {
     name: "Viktorija Medžiaušaitė",
     title: "Teisės klinika",
     avatar:
-      "/img/koordinatoriu-nuotraukos/pkp/Viktorija%20Medžiaušaitė%20Teisės%20klinika.jpg",
+      "/img/koordinatoriu-nuotraukos/pkp/Viktorija-Medžiaušaitė-Teisės-klinika.jpg",
   },
   {
     name: "Vytenis Almonaitis",
     title: "Kendo klubas",
     avatar:
-      "/img/koordinatoriu-nuotraukos/pkp/Vytenis%20Almonaitis%20Kendo2.jpg",
+      "/img/koordinatoriu-nuotraukos/pkp/Vytenis-Almonaitis-Kendo2.jpg",
   },
   {
     name: "Nikolajus Elkana Eimutis",
     title: "VU Rašytojų klubas",
     avatar:
-      "/img/koordinatoriu-nuotraukos/pkp/VU%20Rašytojų%20klubas%20Nikolajus%20Elkana%20Eimutis.png",
+      "/img/koordinatoriu-nuotraukos/pkp/VU-Rašytojų-klubas-Nikolajus-Elkana-Eimutis.png",
   },
   {
     name: "Ieva Turskytė",
     title: "VU Studentų investicinis fondas",
     avatar:
-      "/img/koordinatoriu-nuotraukos/pkp/VU%20SIF%20Ieva%20Turskytė%20(iki%202022%20m.%20sausio%20mėn.).jpg",
+      "/img/koordinatoriu-nuotraukos/pkp/VU-SIF-Ieva-Turskytė-(iki-2022-m.-sausio-mėn.).jpg",
   },
   {
     name: "Gabrielė Stanionytė",
     title: "VU Studentų investicinis fondas (nuo 2022 sausio mėn.)",
     avatar:
-      "/img/koordinatoriu-nuotraukos/pkp/VU%20SIF%20Gabrielė%20Stanionytė%20(nuo%202022%20m.%20sausio%20mėn.).jpg",
+      "/img/koordinatoriu-nuotraukos/pkp/VU-SIF-Gabrielė-Stanionytė-(nuo-2022-m.-sausio-mėn.).jpg",
   },
   {
     name: "Ilijas Kulinič",
@@ -1144,19 +1144,19 @@ export const intl = [
     name: "Iveta Kavolynaitė",
     title: "VU SA EVAF",
     avatar:
-      "/img/koordinatoriu-nuotraukos/uzsienieciu/Iveta%20Kavolynaitė_Užsieniečių%20studentų%20reikalų%20koordinatorė_EVAF.jpg",
+      "/img/koordinatoriu-nuotraukos/uzsienieciu/Iveta-Kavolynaitė_Užsieniečių-studentų-reikalų-koordinatorė_EVAF.jpg",
   },
   {
     name: "Marija Trofimišinaitė",
     title: "VU SA KnF",
     avatar:
-      "/img/koordinatoriu-nuotraukos/uzsienieciu/Marija%20Trofimišinaitė_Užsienio_KnF.jpg",
+      "/img/koordinatoriu-nuotraukos/uzsienieciu/Marija-Trofimišinaitė_Užsienio_KnF.jpg",
   },
   {
     name: "Michaela Andie Kleynhans",
     title: "VU SA VM",
     avatar:
-      "/img/koordinatoriu-nuotraukos/uzsienieciu/Michaela%20Andie%20Kleynhans_Uzsienio_VM.jpg",
+      "/img/koordinatoriu-nuotraukos/uzsienieciu/Michaela-Andie-Kleynhans_Uzsienio_VM.jpg",
   },
 ];
 export const lsp = [
@@ -1164,51 +1164,51 @@ export const lsp = [
     name: "Milda Striupaitytė",
     title: "VU SA EVAF",
     avatar:
-      "/img/koordinatoriu-nuotraukos/lsp/Milda%20Striupaitytė_LSP_EVAF.jpg",
+      "/img/koordinatoriu-nuotraukos/lsp/Milda-Striupaitytė_LSP_EVAF.jpg",
   },
   {
     name: "Viktorija Nilova",
     title: "VU SA FF",
-    avatar: "/img/koordinatoriu-nuotraukos/lsp/Viktorija%20Nilova_LSP_FF-2.jpg",
+    avatar: "/img/koordinatoriu-nuotraukos/lsp/Viktorija-Nilova_LSP_FF-2.jpg",
   },
   {
     name: "Justė Vardauskaitė",
     title: "VU SA FilF",
     avatar:
-      "/img/koordinatoriu-nuotraukos/lsp/Justė%20Vardauskaitė_LSP_FilF-2.jpg",
+      "/img/koordinatoriu-nuotraukos/lsp/Justė-Vardauskaitė_LSP_FilF-2.jpg",
   },
   {
     name: "Vilius Alvinskas",
     title: "VU SA FsF",
     avatar:
-      "/img/koordinatoriu-nuotraukos/lsp/Vilius%20Alvinskas_LSP_FSf-2.jpg",
+      "/img/koordinatoriu-nuotraukos/lsp/Vilius-Alvinskas_LSP_FSf-2.jpg",
   },
   {
     name: "Ernestas Rainys",
     title: "VU SA KnF",
-    avatar: "/img/koordinatoriu-nuotraukos/lsp/Ernestas%20Rainys_LSP_KnF.jpg",
+    avatar: "/img/koordinatoriu-nuotraukos/lsp/Ernestas-Rainys_LSP_KnF.jpg",
   },
   {
     name: "Nikita Česnavičiūtė",
     title: "VU SA MF",
     avatar:
-      "/img/koordinatoriu-nuotraukos/lsp/Nikita%20Česnavičiūtė_LSP_MF-2.jpg",
+      "/img/koordinatoriu-nuotraukos/lsp/Nikita-Česnavičiūtė_LSP_MF-2.jpg",
   },
   {
     name: "Gabrielė Kasperaitė",
     title: "VU SA MIF",
     avatar:
-      "/img/koordinatoriu-nuotraukos/lsp/Gabrielė%20Kasperaitė_LSP_MIF-2.jpg",
+      "/img/koordinatoriu-nuotraukos/lsp/Gabrielė-Kasperaitė_LSP_MIF-2.jpg",
   },
   {
     name: "Rūta Dikčiūtė",
     title: "VU SA TF",
-    avatar: "/img/koordinatoriu-nuotraukos/lsp/Rūta%20Dikčiūtė_LSP_TF-2.jpg",
+    avatar: "/img/koordinatoriu-nuotraukos/lsp/Rūta-Dikčiūtė_LSP_TF-2.jpg",
   },
   {
     name: "Ugnius Sejonas",
     title: "VU SA TSPMI",
-    avatar: "/img/koordinatoriu-nuotraukos/lsp/Ugnius%20Sejonas_LSP_TSPMI.jpg",
+    avatar: "/img/koordinatoriu-nuotraukos/lsp/Ugnius-Sejonas_LSP_TSPMI.jpg",
   },
   {
     name: "Modestas Trubila",
@@ -1225,7 +1225,7 @@ export const other = [
     name: "Marija Kliocaitė",
     title: "VU SA FilF studentų su individualiais poreikiais koordinatorė",
     avatar:
-      "/img/koordinatoriu-nuotraukos/Marija%20Kliocait%C4%97_Student%C5%B3%20su%20individualiais%20poreikiais%20koordinator%C4%97_FilF-2.jpg",
+      "/img/koordinatoriu-nuotraukos/Marija-Kliocait%C4%97_Student%C5%B3-su-individualiais-poreikiais-koordinator%C4%97_FilF-2.jpg",
   },
   {
     name: "Modestas Trubila",
