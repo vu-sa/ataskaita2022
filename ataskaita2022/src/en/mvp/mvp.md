@@ -3,19 +3,8 @@ outline: deep
 ---
 
 <script setup lang="ts">
-import { NConfigProvider, darkTheme } from 'naive-ui'
-import { useMutationObserver } from '@vueuse/core'
-import { ref } from 'vue'
 import TimelineItemSection from '../../../components/TimelineItemSection.vue'
 import vusaGoals from '../../../data/vusaGoals.EN.ts'
-
-// check if there's html class dark
-const dark = ref(document.documentElement.classList.contains('dark'))
-
-// watch for changes in html class
-useMutationObserver(document.documentElement, () => {
-  dark.value = document.documentElement.classList.contains('dark')
-}, { attributes: true, attributeFilter: ['class']})
 </script>
 
 # Implementation of VU SR strategic guidelines for 2021-2022
@@ -34,9 +23,7 @@ This year VU SA strategic goals were:
 integrated study program committee chairpersons at each VU ACU supports
 the idea of freeing up 60 credits.
 
-<NConfigProvider :theme="dark ? darkTheme : undefined">
-  <TimelineItemSection :items="vusaGoals['1']" english></TimelineItemSection>
-</NConfigProvider>
+<TimelineItemSection :items="vusaGoals['1']" english></TimelineItemSection>
 
 ::: tip What has been done
 
@@ -69,9 +56,7 @@ the idea of freeing up 60 credits.
 initiatives implemented by VU SR and gained new knowledge about the
 experiences and needs of individuals with individual needs.
 
-<NConfigProvider :theme="dark ? darkTheme : undefined">
-  <TimelineItemSection :items="vusaGoals['2']" english></TimelineItemSection>
-</NConfigProvider>
+<TimelineItemSection :items="vusaGoals['2']" english></TimelineItemSection>
 
 ::: tip What has been done?
 

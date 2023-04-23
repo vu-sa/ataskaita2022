@@ -3,20 +3,16 @@ outline: deep
 ---
 
 <script setup lang="ts">
-import { NImageGroup, NImage, NSpace } from "naive-ui";
 import logos from "../../data/friendLogos.ts";
-
 </script>
 
 # We give our thanks
 
 ## Friends
 
- <NImageGroup>
-    <NSpace class="my-8" align="center">
-      <NImage class="p-4" v-for="image in logos" :key="image" :src="image" width="150" />
-    </NSpace>
-</NImageGroup>
+<div class="flex flex-wrap gap-6">
+  <img class="object-contain" v-for="image in logos" :key="image" :src="image" width="150" />
+</div>
 
 ## VU SR 2021–2022 report project team
 

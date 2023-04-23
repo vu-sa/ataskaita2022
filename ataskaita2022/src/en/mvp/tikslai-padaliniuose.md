@@ -3,19 +3,8 @@ outline: deep
 ---
 
 <script setup lang="ts">
-import { NConfigProvider, darkTheme } from 'naive-ui'
-import { useMutationObserver } from '@vueuse/core'
-import { ref } from 'vue'
 import TimelineItemSection from '../../../components/TimelineItemSection.vue'
 import padaliniaiGoals from '../../../data/padaliniaiGoals.EN.ts'
-
-// check if there's html class dark
-const dark = ref(document.documentElement.classList.contains('dark'))
-
-// watch for changes in html class
-useMutationObserver(document.documentElement, () => {
-  dark.value = document.documentElement.classList.contains('dark')
-}, { attributes: true, attributeFilter: ['class']})
 </script>
 
 # Goals set in VU SR divisions
@@ -24,9 +13,7 @@ useMutationObserver(document.documentElement, () => {
 
 ### 3. On 1st of April 2022, an analysis of the compulsory subjects of two (geography and chemistry) study programs of the first cycle of studies were carried out.
 
-<NConfigProvider :theme="dark ? darkTheme : undefined">
-  <TimelineItemSection english :items="padaliniaiGoals['3']"></TimelineItemSection>
-</NConfigProvider>
+<TimelineItemSection english :items="padaliniaiGoals['3']"></TimelineItemSection>
 
 ::: tip What was done?
 
@@ -42,9 +29,7 @@ useMutationObserver(document.documentElement, () => {
 
 ### 4. By 30th of June 2022, VU EVAF lecturers know and use convenient and student-inclusive methods, therefore, at least 70% of the students will be able to use them. Students who have completed surveys are satisfied with the interactive teaching methods used by the lecturers.
 
-<NConfigProvider :theme="dark ? darkTheme : undefined">
-  <TimelineItemSection english :items="padaliniaiGoals['4']"></TimelineItemSection>
-</NConfigProvider>
+<TimelineItemSection english :items="padaliniaiGoals['4']"></TimelineItemSection>
 
 ::: tip What was done?
 
@@ -62,9 +47,7 @@ useMutationObserver(document.documentElement, () => {
 
 ### 5. On 30th of June 2022, the academic community of VU EVAF knows and adheres to the description of the procedure for preparing, defending, evaluating and storing written works of VU EVAF Students.
 
-<NConfigProvider :theme="dark ? darkTheme : undefined">
-  <TimelineItemSection english :items="padaliniaiGoals['5']"></TimelineItemSection>
-</NConfigProvider>
+<TimelineItemSection english :items="padaliniaiGoals['5']"></TimelineItemSection>
 
 ::: tip What was done?
 
@@ -88,9 +71,7 @@ useMutationObserver(document.documentElement, () => {
 
 ### 6. By 1st of May 2022, a plan for the renewal of laboratory work at the Faculty of Physics of Vilnius University has been prepared.
 
-<NConfigProvider :theme="dark ? darkTheme : undefined">
-  <TimelineItemSection english :items="padaliniaiGoals['6']"></TimelineItemSection>
-</NConfigProvider>
+<TimelineItemSection english :items="padaliniaiGoals['6']"></TimelineItemSection>
 
 ::: tip What was done?
 
@@ -104,9 +85,7 @@ useMutationObserver(document.documentElement, () => {
 
 ### 7. On 1st of September 2022, the implementation of the academic integration plan for VU FF Master's first-year students who have completed bachelor\'s studies in other VU departments/universities is prepared.
 
-<NConfigProvider :theme="dark ? darkTheme : undefined">
-  <TimelineItemSection english :items="padaliniaiGoals['7']"></TimelineItemSection>
-</NConfigProvider>
+<TimelineItemSection english :items="padaliniaiGoals['7']"></TimelineItemSection>
 
 ::: tip What was done?
 
@@ -123,9 +102,7 @@ useMutationObserver(document.documentElement, () => {
 
 ### 8. During the 2021-2022 academic year, VU FLF is informed about the importance of an open and safe emotional environment, where student-teacher relations are based on mutual respect and community members know where they can turn for psycho-emotional health problems
 
-<NConfigProvider :theme="dark ? darkTheme : undefined">
-  <TimelineItemSection english :items="padaliniaiGoals['8']"></TimelineItemSection>
-</NConfigProvider>
+<TimelineItemSection english :items="padaliniaiGoals['8']"></TimelineItemSection>
 
 ::: tip What was done?
 
@@ -139,9 +116,7 @@ useMutationObserver(document.documentElement, () => {
 
 ### 9. On 15th of June 2022, on the basis of the document defining the principles of scheduling adopted by VU FLF, schedules of at least 20% of tier Bachelors and Marsters program groups have been drawn up.
 
-<NConfigProvider :theme="dark ? darkTheme : undefined">
-  <TimelineItemSection english :items="padaliniaiGoals['9']"></TimelineItemSection>
-</NConfigProvider>
+<TimelineItemSection english :items="padaliniaiGoals['9']"></TimelineItemSection>
 
 ::: tip What was done?
 
@@ -154,9 +129,7 @@ useMutationObserver(document.documentElement, () => {
 
 ### 10. By 1st of July 2022, the reasons for poor communication with students by VU FSF lecturers have been clarified and described
 
-<NConfigProvider :theme="dark ? darkTheme : undefined">
-  <TimelineItemSection english :items="padaliniaiGoals['10']"></TimelineItemSection>
-</NConfigProvider>
+<TimelineItemSection english :items="padaliniaiGoals['10']"></TimelineItemSection>
 
 ::: tip What was done?
 
@@ -178,9 +151,7 @@ useMutationObserver(document.documentElement, () => {
 
 ### 11. By 1st of September 2022, the lists of elective subjects of at least two students of the 1st (bachelor\'s) cycle programs at VU GMC (not in line with previous semesters) increase by at least 1 new or already taught subject
 
-<NConfigProvider :theme="dark ? darkTheme : undefined">
-  <TimelineItemSection english :items="padaliniaiGoals['11']"></TimelineItemSection>
-</NConfigProvider>
+<TimelineItemSection english :items="padaliniaiGoals['11']"></TimelineItemSection>
 
 ::: tip What was done?
 
@@ -203,9 +174,7 @@ useMutationObserver(document.documentElement, () => {
 
 ### 12. The topics specified in the description of the module (subject) of the Study Introduction (Cultural history and anthropology and History Study Programs) updated by 1 July 2022 are detailed, correspond to the objectives of studies and the even learning load
 
-<NConfigProvider :theme="dark ? darkTheme : undefined">
-  <TimelineItemSection english :items="padaliniaiGoals['12']"></TimelineItemSection>
-</NConfigProvider>
+<TimelineItemSection english :items="padaliniaiGoals['12']"></TimelineItemSection>
 
 ::: tip What was done?
 
@@ -219,9 +188,7 @@ useMutationObserver(document.documentElement, () => {
 
 ### 13. By 1st of July 2022, the process of teaching foreign subjects of a specialty provides the student with the abilities to communicate in writing and orally in academic, social and professional activities
 
-<NConfigProvider :theme="dark ? darkTheme : undefined">
-  <TimelineItemSection english :items="padaliniaiGoals['13']"></TimelineItemSection>
-</NConfigProvider>
+<TimelineItemSection english :items="padaliniaiGoals['13']"></TimelineItemSection>
 
 ::: tip What was done?
 
@@ -241,9 +208,7 @@ useMutationObserver(document.documentElement, () => {
 
 ### 14. By 1st of July 2022, according to the system developed by VU SA KF and VU KF student representatives, at least 6 1st and 2nd cycle study programs have been prepared and at least 75% implemented the annual action plan
 
-<NConfigProvider :theme="dark ? darkTheme : undefined">
-  <TimelineItemSection english :items="padaliniaiGoals['14']"></TimelineItemSection>
-</NConfigProvider>
+<TimelineItemSection english :items="padaliniaiGoals['14']"></TimelineItemSection>
 
 ::: tip What was done?
 
@@ -265,9 +230,7 @@ useMutationObserver(document.documentElement, () => {
 
 ### 15. On 30th of April 2022, more than 85% of VU KnF students would recommend studying at VU
 
-<NConfigProvider :theme="dark ? darkTheme : undefined">
-  <TimelineItemSection english :items="padaliniaiGoals['15']"></TimelineItemSection>
-</NConfigProvider>
+<TimelineItemSection english :items="padaliniaiGoals['15']"></TimelineItemSection>
 
 ::: tip What was done?
 
@@ -291,9 +254,7 @@ useMutationObserver(document.documentElement, () => {
 
 ### 16. On 1st of July 2022, VU SA KnF implemented initiatives that respond to the vision of the green university
 
-<NConfigProvider :theme="dark ? darkTheme : undefined">
-  <TimelineItemSection english :items="padaliniaiGoals['16']"></TimelineItemSection>
-</NConfigProvider>
+<TimelineItemSection english :items="padaliniaiGoals['16']"></TimelineItemSection>
 
 ::: tip What was done?
 
@@ -311,9 +272,7 @@ useMutationObserver(document.documentElement, () => {
 
 ### 17. On 1st of July 2022, foreign students of VU MF feel full members of the community and know and receive relevant information in a timely manner
 
-<NConfigProvider :theme="dark ? darkTheme : undefined">
-  <TimelineItemSection english :items="padaliniaiGoals['17']"></TimelineItemSection>
-</NConfigProvider>
+<TimelineItemSection english :items="padaliniaiGoals['17']"></TimelineItemSection>
 
 ::: tip What was done?
 
@@ -327,17 +286,13 @@ useMutationObserver(document.documentElement, () => {
 
 ### 18. On 30th of June 2022, an electronicized system for assessing the practical skills acquired during the internship registration and internment was developed
 
-<NConfigProvider :theme="dark ? darkTheme : undefined">
-  <TimelineItemSection english :items="padaliniaiGoals['18']"></TimelineItemSection>
-</NConfigProvider>
+<TimelineItemSection english :items="padaliniaiGoals['18']"></TimelineItemSection>
 
 ## Faculty of Mathematics and Informatics
 
 ### 19. On 30th of April 2022, at least 3 new initiatives connecting the VU MIF community were implemented
 
-<NConfigProvider :theme="dark ? darkTheme : undefined">
-  <TimelineItemSection english :items="padaliniaiGoals['19']"></TimelineItemSection>
-</NConfigProvider>
+<TimelineItemSection english :items="padaliniaiGoals['19']"></TimelineItemSection>
 
 ::: tip What was done?
 
@@ -359,17 +314,13 @@ useMutationObserver(document.documentElement, () => {
 
 ### 20. On 1st of July 2022, representatives of students of each VU MIF SPC have raised problems relevant to the improvement of their SP, of which at least 1 has been solved by the SPC
 
-<NConfigProvider :theme="dark ? darkTheme : undefined">
-  <TimelineItemSection english :items="padaliniaiGoals['20']"></TimelineItemSection>
-</NConfigProvider>
+<TimelineItemSection english :items="padaliniaiGoals['20']"></TimelineItemSection>
 
 ## Šiauliai Academy
 
 ### 21. On 1st of July 2022, the scope of reports of professional practitioners of at least 1 VU ŠA 1st cycle study programs has been adjusted, reducing the scope of each task
 
-<NConfigProvider :theme="dark ? darkTheme : undefined">
-  <TimelineItemSection english :items="padaliniaiGoals['21']"></TimelineItemSection>
-</NConfigProvider>
+<TimelineItemSection english :items="padaliniaiGoals['21']"></TimelineItemSection>
 
 ::: tip What was done?
 
@@ -380,9 +331,7 @@ useMutationObserver(document.documentElement, () => {
 
 ### 22. On 29th of March 2022, the list of members of VU SA ŠA includes at least 27 members
 
-<NConfigProvider :theme="dark ? darkTheme : undefined">
-  <TimelineItemSection english :items="padaliniaiGoals['22']"></TimelineItemSection>
-</NConfigProvider>
+<TimelineItemSection english :items="padaliniaiGoals['22']"></TimelineItemSection>
 
 ::: tip What was done?
 
@@ -394,9 +343,7 @@ useMutationObserver(document.documentElement, () => {
 
 ### 23. On 2nd of May 2022, at least 5 initiatives to develop a culture of academic literacy have been organized at VU TF
 
-<NConfigProvider :theme="dark ? darkTheme : undefined">
-  <TimelineItemSection english :items="padaliniaiGoals['23']"></TimelineItemSection>
-</NConfigProvider>
+<TimelineItemSection english :items="padaliniaiGoals['23']"></TimelineItemSection>
 
 ::: tip What was done?
 
@@ -415,9 +362,7 @@ useMutationObserver(document.documentElement, () => {
 
 ### 24. On 11th of April 2022, the evaluation sections of at least 10 full-time subjects of the I-VII semesters of law studies at VU TF are detailed and approved by the SPC
 
-<NConfigProvider :theme="dark ? darkTheme : undefined">
-  <TimelineItemSection english :items="padaliniaiGoals['24']"></TimelineItemSection>
-</NConfigProvider>
+<TimelineItemSection english :items="padaliniaiGoals['24']"></TimelineItemSection>
 
 ::: tip What was done?
 
@@ -433,9 +378,7 @@ useMutationObserver(document.documentElement, () => {
 
 ### 25. On 1st of July 2022, VU TSPMI Master\'s students are given the opportunity to choose an additional foreign language in the form of non-study program subjects and 70% of the total number of students. They are informed about other existing opportunities to learn additional foreign languages at Vilnius University
 
-<NConfigProvider :theme="dark ? darkTheme : undefined">
-  <TimelineItemSection english :items="padaliniaiGoals['25']"></TimelineItemSection>
-</NConfigProvider>
+<TimelineItemSection english :items="padaliniaiGoals['25']"></TimelineItemSection>
 
 ::: tip What was done?
 
@@ -450,9 +393,7 @@ useMutationObserver(document.documentElement, () => {
 
 ### 26. On 1st of July 2022, at least 2 proactive measures to improve the psychosocial environment of VU TSPMI are in operation and at least 15% of VU TSPMI community members have used them
 
-<NConfigProvider :theme="dark ? darkTheme : undefined">
-  <TimelineItemSection english :items="padaliniaiGoals['26']"></TimelineItemSection>
-</NConfigProvider>
+<TimelineItemSection english :items="padaliniaiGoals['26']"></TimelineItemSection>
 
 ::: tip What was done?
 
@@ -473,9 +414,7 @@ useMutationObserver(document.documentElement, () => {
 
 ### 27. On 30th of September 2022, at least 3 scientific articles of VU VM students will be published in the media
 
-<NConfigProvider :theme="dark ? darkTheme : undefined">
-  <TimelineItemSection english :items="padaliniaiGoals['27']"></TimelineItemSection>
-</NConfigProvider>
+<TimelineItemSection english :items="padaliniaiGoals['27']"></TimelineItemSection>
 
 ::: tip What was done?
 

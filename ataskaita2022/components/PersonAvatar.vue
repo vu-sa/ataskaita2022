@@ -1,21 +1,12 @@
 <template>
-  <div class="flex items-center gap-4">
-    <div>
-      <NAvatar
-        class="align-middle"
-        :size="size"
-        object-fit="cover"
-        round
-        :src="src"
-      ></NAvatar>
-    </div>
+  <div class="grid grid-cols-[auto,1fr] gap-4 items-center">
+    <img class="rounded-full w-16 h-16 object-cover" :src="src" />
+
     <div><slot /></div>
   </div>
 </template>
 
 <script setup lang="ts">
-import { NAvatar } from "naive-ui";
-
 defineProps<{
   name?: string;
   src: string;

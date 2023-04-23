@@ -7,7 +7,7 @@ hero:
   text: "ataskaita už 2021-2022 metų kadenciją"
   tagline: Sužinok, ką VU SA padarė 2021-2022 metų kadencijos metu
   image:
-    src: /img/kitos-nuotraukos/KNYGUTES VIRSELIS-01.jpg
+    src: /img/kitos-nuotraukos/KNYGUTES-VIRSELIS-01.jpg
     alt: VU SA ataskaita 2022
   actions:
     - theme: brand
@@ -48,7 +48,7 @@ features:
 import TestimonialElement from "../components/TestimonialElement.vue";
 </script>
 
-<TestimonialElement img-src="/img/sveikinimai/neda.jpg" person-name="Neda Žutautaitė" person-position="VU SA prezidentė" href="/prezidentes-kalba" button-text="Prezidentės kalba">
+<TestimonialElement img-src="/ataskaita2022/img/sveikinimai/neda.jpg" person-name="Neda Žutautaitė" person-position="VU SA prezidentė" href="/prezidentes-kalba" button-text="Prezidentės kalba">
 Visų šitų ir krūvos dar neišvardytų dalykų nebūtume nuveikę be stiprių partnerysčių ir vieningo darbo kartu!
 Tad tariu didžiulį AČIŪ kiekvienai (-am) prisidėjusiai (-iam) prie to, kad studentams (-ėms) ir Organizacijai būtų geriau.
 </TestimonialElement>

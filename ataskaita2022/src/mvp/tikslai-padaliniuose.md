@@ -3,19 +3,8 @@ outline: deep
 ---
 
 <script setup lang="ts">
-import { NConfigProvider, darkTheme } from 'naive-ui'
-import { useMutationObserver } from '@vueuse/core'
-import { ref } from 'vue'
 import TimelineItemSection from '../../components/TimelineItemSection.vue'
 import padaliniaiGoals from '../../data/padaliniaiGoals.ts'
-
-// check if there's html class dark
-const dark = ref(document.documentElement.classList.contains('dark'))
-
-// watch for changes in html class
-useMutationObserver(document.documentElement, () => {
-  dark.value = document.documentElement.classList.contains('dark')
-}, { attributes: true, attributeFilter: ['class']})
 </script>
 
 # VU SA padaliniuose iškelti tikslai
@@ -24,9 +13,7 @@ useMutationObserver(document.documentElement, () => {
 
 ### 3. 2022 m. balandžio 1 d. yra atlikta I studijų pakopos dviejų (geografijos ir chemijos) studijų programų privalomųjų dalykų analizė.
 
-<NConfigProvider :theme="dark ? darkTheme : undefined">
-  <TimelineItemSection :items="padaliniaiGoals['3']"></TimelineItemSection>
-</NConfigProvider>
+<TimelineItemSection :items="padaliniaiGoals['3']"></TimelineItemSection>
 
 ::: tip Kas įgyvendinta?
 
@@ -42,9 +29,7 @@ useMutationObserver(document.documentElement, () => {
 
 ### 4. Iki 2022 m. birželio 30 d. VU EVAF dėstytojai žino ir naudoja patogius ir studentus įtraukiančius metodus, todėl bent 70 proc. apklausas užpildžiusių studentų yra patenkinti dėstytojų naudojamais interaktyviais dėstymo metodais
 
-<NConfigProvider :theme="dark ? darkTheme : undefined">
-  <TimelineItemSection :items="padaliniaiGoals['4']"></TimelineItemSection>
-</NConfigProvider>
+<TimelineItemSection :items="padaliniaiGoals['4']"></TimelineItemSection>
 
 ::: tip Kas įgyvendinta?
 
@@ -63,9 +48,7 @@ useMutationObserver(document.documentElement, () => {
 
 ### 5. 2022 m. birželio 30 d. VU EVAF akademinė bendruomenė žino ir laikosi _VU EVAF Studentų rašto darbų rengimo, gynimo, vertinimo ir saugojimo tvarkos aprašo_.
 
-<NConfigProvider :theme="dark ? darkTheme : undefined">
-  <TimelineItemSection :items="padaliniaiGoals['5']"></TimelineItemSection>
-</NConfigProvider>
+<TimelineItemSection :items="padaliniaiGoals['5']"></TimelineItemSection>
 
 ::: tip Kas įgyvendinta?
 
@@ -87,9 +70,7 @@ useMutationObserver(document.documentElement, () => {
 
 ### 6. Iki 2022 m. gegužės 1 d. yra paruoštas laboratorinių darbų atnaujinimo planas VU Fizikos fakultete
 
-<NConfigProvider :theme="dark ? darkTheme : undefined">
-  <TimelineItemSection :items="padaliniaiGoals['6']"></TimelineItemSection>
-</NConfigProvider>
+<TimelineItemSection :items="padaliniaiGoals['6']"></TimelineItemSection>
 
 ::: tip Kas įgyvendinta?
 
@@ -103,9 +84,7 @@ useMutationObserver(document.documentElement, () => {
 
 ### 7. 2022 m. rugsėjo 1 d. yra pasiruošta VU FF antros pakopos pirmo kurso studentų, baigusių bakalauro studijas kituose VU padaliniuose / universitetuose, akademinės integracijos plano vykdymui
 
-<NConfigProvider :theme="dark ? darkTheme : undefined">
-  <TimelineItemSection :items="padaliniaiGoals['7']"></TimelineItemSection>
-</NConfigProvider>
+<TimelineItemSection :items="padaliniaiGoals['7']"></TimelineItemSection>
 
 ::: tip Kas įgyvendinta?
 
@@ -121,9 +100,7 @@ useMutationObserver(document.documentElement, () => {
 
 ### 8. Per 2021–2022 mokslo metus VU FLF yra informuota apie atviros ir saugios emocinės aplinkos svarbą, kurioje studentų ir dėstytojų santykiai yra paremti abipuse pagarba bei bendruomenės nariai žino, kur gali kreiptis dėl psichoemocinės sveikatos problemų
 
-<NConfigProvider :theme="dark ? darkTheme : undefined">
-  <TimelineItemSection :items="padaliniaiGoals['8']"></TimelineItemSection>
-</NConfigProvider>
+<TimelineItemSection :items="padaliniaiGoals['8']"></TimelineItemSection>
 
 ::: tip Kas įgyvendinta?
 
@@ -137,9 +114,7 @@ useMutationObserver(document.documentElement, () => {
 
 ### 9. 2022 m. birželio 15 d. remiantis VU FLF priimtų tvarkaraščių sudarymo principus apibrėžiančiu dokumentu, yra parengti bent 20 proc. I ir II pakopos programų grupių tvarkaraščiai
 
-<NConfigProvider :theme="dark ? darkTheme : undefined">
-  <TimelineItemSection :items="padaliniaiGoals['9']"></TimelineItemSection>
-</NConfigProvider>
+<TimelineItemSection :items="padaliniaiGoals['9']"></TimelineItemSection>
 
 ::: tip Kas įgyvendinta?
 
@@ -152,9 +127,7 @@ useMutationObserver(document.documentElement, () => {
 
 ### 10. Iki 2022 m. liepos 1 d. yra išsiaiškintos ir aprašytos VU FsF dėstytojų prastos komunikacijos su studentais priežastys
 
-<NConfigProvider :theme="dark ? darkTheme : undefined">
-  <TimelineItemSection :items="padaliniaiGoals['10']"></TimelineItemSection>
-</NConfigProvider>
+<TimelineItemSection :items="padaliniaiGoals['10']"></TimelineItemSection>
 
 ::: tip Kas įgyvendinta?
 
@@ -174,9 +147,7 @@ useMutationObserver(document.documentElement, () => {
 
 ### 11. Iki 2022 m. rugsėjo 1 d. VU GMC bent dviejų I (bakalauro) pakopos programų studentų pasirenkamųjų dalykų (nesutampančių su ankstesniais semestrais) sąrašai padidėja bent 1 nauju arba jau dėstomu dalyku
 
-<NConfigProvider :theme="dark ? darkTheme : undefined">
-  <TimelineItemSection :items="padaliniaiGoals['11']"></TimelineItemSection>
-</NConfigProvider>
+<TimelineItemSection :items="padaliniaiGoals['11']"></TimelineItemSection>
 
 ::: tip Kas įgyvendinta?
 
@@ -198,9 +169,7 @@ useMutationObserver(document.documentElement, () => {
 
 ### 12. Iki 2022 m. liepos 1 d. atnaujintame Studijų įvado (Kultūros istorijos ir antropologijos bei Istorijos studijų programų) modulio (dalyko) apraše nurodytos temos yra detalizuotos, atitinka studijų siekinius ir tolygų mokymosi krūvį
 
-<NConfigProvider :theme="dark ? darkTheme : undefined">
-  <TimelineItemSection :items="padaliniaiGoals['12']"></TimelineItemSection>
-</NConfigProvider>
+<TimelineItemSection :items="padaliniaiGoals['12']"></TimelineItemSection>
 
 ::: tip Kas įgyvendinta?
 
@@ -213,9 +182,7 @@ useMutationObserver(document.documentElement, () => {
 
 ### 13. Iki 2022 m. liepos 1 d. specialybės užsienio dalykų mokymo(si) procesas studentui suteikia gebėjimus bendrauti raštu ir žodžiu akademinėje, socialinėje ir profesinėje veikloje
 
-<NConfigProvider :theme="dark ? darkTheme : undefined">
-  <TimelineItemSection :items="padaliniaiGoals['13']"></TimelineItemSection>
-</NConfigProvider>
+<TimelineItemSection :items="padaliniaiGoals['13']"></TimelineItemSection>
 
 ::: tip Kas įgyvendinta?
 
@@ -234,9 +201,7 @@ useMutationObserver(document.documentElement, () => {
 
 ### 14. Iki 2022 m. liepos 1 d. pagal VU SA KF ir VU KF studentų atstovų sukurtą sistemą ne mažiau 6-iose I ir II pakopų studijų programose yra parengtas ir bent 75 proc. įgyvendintas metų veiklos planas
 
-<NConfigProvider :theme="dark ? darkTheme : undefined">
-  <TimelineItemSection :items="padaliniaiGoals['14']"></TimelineItemSection>
-</NConfigProvider>
+<TimelineItemSection :items="padaliniaiGoals['14']"></TimelineItemSection>
 
 ::: tip Kas įgyvendinta?
 
@@ -259,9 +224,7 @@ useMutationObserver(document.documentElement, () => {
 
 ### 15. 2022 m. balandžio 30 d. daugiau nei 85 proc. VU KnF studentų rekomenduotų studijas VU
 
-<NConfigProvider :theme="dark ? darkTheme : undefined">
-  <TimelineItemSection :items="padaliniaiGoals['15']"></TimelineItemSection>
-</NConfigProvider>
+<TimelineItemSection :items="padaliniaiGoals['15']"></TimelineItemSection>
 
 ::: tip Kas įgyvendinta?
 
@@ -285,9 +248,7 @@ useMutationObserver(document.documentElement, () => {
 
 ### 16. 2022 m. liepos 1 d. VU SA KnF yra įgyvendinusi iniciatyvas, atliepiančias _žaliojo_ Universiteto viziją
 
-<NConfigProvider :theme="dark ? darkTheme : undefined">
-  <TimelineItemSection :items="padaliniaiGoals['16']"></TimelineItemSection>
-</NConfigProvider>
+<TimelineItemSection :items="padaliniaiGoals['16']"></TimelineItemSection>
 
 ::: tip Kas įgyvendinta?
 
@@ -309,9 +270,7 @@ useMutationObserver(document.documentElement, () => {
 
 ### 17. 2022 m. liepos 1 d. VU MF užsienio studentai jaučiasi visaverčiais bendruomenės nariais bei žino ir laiku gauna aktualią informaciją
 
-<NConfigProvider :theme="dark ? darkTheme : undefined">
-  <TimelineItemSection :items="padaliniaiGoals['17']"></TimelineItemSection>
-</NConfigProvider>
+<TimelineItemSection :items="padaliniaiGoals['17']"></TimelineItemSection>
 
 ::: tip Kas įgyvendinta?
 
@@ -326,17 +285,13 @@ useMutationObserver(document.documentElement, () => {
 
 ### 18. 2022 m. birželio 30 d. yra sukurta elektronizuota internatūros registracijos ir internatūros metu įgytų praktinių įgūdžių vertinimo sistema
 
-<NConfigProvider :theme="dark ? darkTheme : undefined">
-  <TimelineItemSection :items="padaliniaiGoals['18']"></TimelineItemSection>
-</NConfigProvider>
+<TimelineItemSection :items="padaliniaiGoals['18']"></TimelineItemSection>
 
 ## Matematikos ir informatikos fakultete
 
 ### 19. 2022 m. balandžio 30 d. įgyvendintos bent 3 naujos VU MIF bendruomenę jungiančios iniciatyvos.
 
-<NConfigProvider :theme="dark ? darkTheme : undefined">
-  <TimelineItemSection :items="padaliniaiGoals['19']"></TimelineItemSection>
-</NConfigProvider>
+<TimelineItemSection :items="padaliniaiGoals['19']"></TimelineItemSection>
 
 ::: tip Kas įgyvendinta?
 
@@ -359,9 +314,7 @@ useMutationObserver(document.documentElement, () => {
 
 ### 20. 2022 m. liepos 1 d. kiekviename VU MIF SPK studentų atstovai yra iškėlę problemas, aktualias jų SP tobulinimui, iš kurių SPK yra išsprendę bent 1
 
-<NConfigProvider :theme="dark ? darkTheme : undefined">
-  <TimelineItemSection :items="padaliniaiGoals['20']"></TimelineItemSection>
-</NConfigProvider>
+<TimelineItemSection :items="padaliniaiGoals['20']"></TimelineItemSection>
 
 ::: tip Kas įgyvendinta?
 
@@ -376,9 +329,7 @@ useMutationObserver(document.documentElement, () => {
 
 ### 21. 2022 m. liepos 1 d. bent 1 VU ŠA I pakopos studijų programų profesinių praktikų ataskaitų apimtis yra pakoreguota, sumažinant kiekvienos užduoties apimtį
 
-<NConfigProvider :theme="dark ? darkTheme : undefined">
-  <TimelineItemSection :items="padaliniaiGoals['21']"></TimelineItemSection>
-</NConfigProvider>
+<TimelineItemSection :items="padaliniaiGoals['21']"></TimelineItemSection>
 
 ::: tip Kas įgyvendinta?
 
@@ -389,9 +340,7 @@ useMutationObserver(document.documentElement, () => {
 
 ### 22. 2022 m. kovo 29 d. VU SA ŠA narių sąraše yra ne mažiau nei 27 nariai.
 
-<NConfigProvider :theme="dark ? darkTheme : undefined">
-  <TimelineItemSection :items="padaliniaiGoals['22']"></TimelineItemSection>
-</NConfigProvider>
+<TimelineItemSection :items="padaliniaiGoals['22']"></TimelineItemSection>
 
 ::: tip Kas įgyvendinta?
 
@@ -403,9 +352,7 @@ useMutationObserver(document.documentElement, () => {
 
 ### 23. 2022 m. gegužės 2 d. VU TF yra suorganizuotos bent 5 akademinio raštingumo kultūrą ugdančios iniciatyvos
 
-<NConfigProvider :theme="dark ? darkTheme : undefined">
-  <TimelineItemSection :items="padaliniaiGoals['23']"></TimelineItemSection>
-</NConfigProvider>
+<TimelineItemSection :items="padaliniaiGoals['23']"></TimelineItemSection>
 
 ::: tip Kas įgyvendinta?
 
@@ -424,9 +371,7 @@ useMutationObserver(document.documentElement, () => {
 
 ### 24. 2022 m. balandžio 11 d. VU TF bent 10 dieninių teisės studijų I–VII semestrų dalykų aprašų vertinimo skiltys yra detalizuotos ir patvirtintos SPK
 
-<NConfigProvider :theme="dark ? darkTheme : undefined">
-  <TimelineItemSection :items="padaliniaiGoals['24']"></TimelineItemSection>
-</NConfigProvider>
+<TimelineItemSection :items="padaliniaiGoals['24']"></TimelineItemSection>
 
 ::: tip Kas įgyvendinta?
 
@@ -441,9 +386,7 @@ useMutationObserver(document.documentElement, () => {
 
 ### 25. 2022 m. liepos 1 d. VU TSPMI magistro studentams yra suteikta galimybė pasirinkti papildomą užsienio kalbą NSPD (ne studijų programos dalyko) forma bei 70 proc. jų yra informuoti apie kitas esamas galimybes mokytis papildomų užsienio kalbų Vilniaus universitete
 
-<NConfigProvider :theme="dark ? darkTheme : undefined">
-  <TimelineItemSection :items="padaliniaiGoals['25']"></TimelineItemSection>
-</NConfigProvider>
+<TimelineItemSection :items="padaliniaiGoals['25']"></TimelineItemSection>
 
 ::: tip Kas įgyvendinta?
 
@@ -457,9 +400,7 @@ useMutationObserver(document.documentElement, () => {
 
 ### 26. 2022 m. liepos 1 d. veikia bent 2 proaktyvios priemonės, skirtos gerinti psichosocialinę aplinką VU TSPMI, ir jomis pasinaudojo bent 15 proc. VU TSPMI bendruomenės narių
 
-<NConfigProvider :theme="dark ? darkTheme : undefined">
-  <TimelineItemSection :items="padaliniaiGoals['26']"></TimelineItemSection>
-</NConfigProvider>
+<TimelineItemSection :items="padaliniaiGoals['26']"></TimelineItemSection>
 
 ::: tip Kas įgyvendinta?
 
@@ -481,9 +422,7 @@ useMutationObserver(document.documentElement, () => {
 
 ### 27. 2022 m. rugsėjo 30 d. žiniasklaidoje bus paviešinti bent 3 VU VM studentų moksliniai straipsniai
 
-<NConfigProvider :theme="dark ? darkTheme : undefined">
-  <TimelineItemSection :items="padaliniaiGoals['27']"></TimelineItemSection>
-</NConfigProvider>
+<TimelineItemSection :items="padaliniaiGoals['27']"></TimelineItemSection>
 
 ::: tip Kas įgyvendinta?
 

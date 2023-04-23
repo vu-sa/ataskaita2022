@@ -3,19 +3,8 @@ outline: deep
 ---
 
 <script setup lang="ts">
-import { NConfigProvider, darkTheme } from 'naive-ui'
-import { useMutationObserver } from '@vueuse/core'
-import { ref } from 'vue'
 import TimelineItemSection from '../../components/TimelineItemSection.vue'
 import vusaGoals from '../../data/vusaGoals.ts'
-
-// check if there's html class dark
-const dark = ref(document.documentElement.classList.contains('dark'))
-
-// watch for changes in html class
-useMutationObserver(document.documentElement, () => {
-  dark.value = document.documentElement.classList.contains('dark')
-}, { attributes: true, attributeFilter: ['class']})
 </script>
 
 # VU SA 2021–2022 metų veiklos strateginių gairių įgyvendinimas
@@ -34,9 +23,7 @@ Per 2021-2022 metus VU SA įgyvendino daugiau negu 20 tikslų.
 komitetų pirmininkų kiekviename VU KAP (kamieniniame akademiniame
 padalinyje) palaiko 60 kreditų atlaisvinimo idėją.
 
-<NConfigProvider :theme="dark ? darkTheme : undefined">
-  <TimelineItemSection :items="vusaGoals['1']"></TimelineItemSection>
-</NConfigProvider>
+<TimelineItemSection :items="vusaGoals['1']"></TimelineItemSection>
 
 ::: tip Kas įgyvendinta?
 
@@ -66,9 +53,7 @@ padalinyje) palaiko 60 kreditų atlaisvinimo idėją.
 įgyvendintose iniciatyvose ir įgijusių naujų žinių apie individualių
 poreikių turinčių asmenų patirtis bei poreikius.
 
-<NConfigProvider :theme="dark ? darkTheme : undefined">
-  <TimelineItemSection :items="vusaGoals['2']"></TimelineItemSection>
-</NConfigProvider>
+<TimelineItemSection :items="vusaGoals['2']"></TimelineItemSection>
 
 ::: tip Kas įgyvendinta?
 
