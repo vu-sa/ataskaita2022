@@ -1,95 +1,8 @@
 <script setup>
 import { VPTeamMembers } from 'vitepress/theme'
 import PersonAvatar from '/components/PersonAvatar.vue'
+import { taryba } from '/data/bendruomene'
 
-const members = [
-    {
-        name: 'Neda Žutautaitė',
-        title: 'VU SA prezidentė',
-        avatar: '/img/koordinatoriu-nuotraukos/CB/Neda Žutautaitė_Prezidentė.jpg',
-    },
-    {
-        name: 'Ignas Mugenis',
-        title: 'VU SA CHGF pirmininkas',
-        avatar: '/img/koordinatoriu-nuotraukos/taryba/Ignas Mugenis_Pirmininkas_CHGF-2.jpg',
-    },
-    {
-        avatar: '/img/koordinatoriu-nuotraukos/taryba/Justinas Sacevičius_Pirmininkas_EVAF.jpg',
-        name: 'Justinas Sacevičius',
-        title: 'VU SA EVAF pirmininkas',
-    },
-    {
-        avatar: '/img/koordinatoriu-nuotraukos/taryba/Raimondas Šiškevičius_Pirminkas_FF.jpg',
-        name: 'Raimondas Šiškevičius',
-        title: 'VU SA FF pirmininkas',
-    },
-    {
-        avatar: '/img/koordinatoriu-nuotraukos/taryba/Elena Pranevičiūtė_Pirmininkė_FilF-2.jpg',
-        name: 'Elena Pranevičiūtė',
-        title: 'VU SA FilF pirmininkė',
-    },
-    {
-        name: 'Martyna Vilutytė',
-        title: 'VU SA FsF pirmininkė',
-        avatar: '/img/koordinatoriu-nuotraukos/taryba/Martyna Vilutytė_Pirmininke_FsF-2.jpg',
-    },
-    {
-        name: 'Kornelija Buivydaitė',
-        title: 'VU SA GMC pirmininkė',
-        avatar: '/img/koordinatoriu-nuotraukos/taryba/Kornelija Buivydaitė_Pirmininkė_GMC-2.jpg',
-    },
-    {
-        name: 'Ieva Šiaudvytytė',
-        title: 'VU SA IF pirmininkė',
-        avatar: '/img/koordinatoriu-nuotraukos/taryba/Ieva Šiaudvytytė_Pirmininke_IF-2.jpg',
-    },
-    {
-        name: 'Dominyka Goldbergaitė',
-        title: 'VU SA KF pirmininkė',
-        avatar: '/img/koordinatoriu-nuotraukos/taryba/Dominyka Goldbergaitė_pirmininkė_KF-2.jpg',
-    },
-    {
-        name: 'Lijana Savickienė',
-        title: 'VU SA KnF pirmininkė',
-        avatar: '/img/koordinatoriu-nuotraukos/taryba/Lijana Savickienė_Pirmininke_KnF.jpg',
-    },
-    {
-        name: 'Emilija Narušytė',
-        title: 'VU SA MF pirmininkė',
-        avatar: '/img/koordinatoriu-nuotraukos/taryba/Emilija Narušytė_Pirminnke_MF-2.jpg',
-    },
-    {
-        name: 'Paulina Bilinskaitė',
-        title: 'VU SA MIF pirmininkė',
-        avatar: '/img/koordinatoriu-nuotraukos/taryba/Paulina Bilinskaitė_Pirminink_MIF-2.jpg',
-    },
-    {
-        name: 'Paulius Ladukas',
-        title: 'VU SA ŠA pirmininkas',
-        avatar: '/img/koordinatoriu-nuotraukos/taryba/Paulius-Ladukas_Pirmininkas_ŠA-2.jpg',
-    },
-    {
-        name: 'Airina Mikulėnaitė',
-        title: 'VU SA TF pirmininkė',
-        avatar: '/img/koordinatoriu-nuotraukos/taryba/Airina Mikulėnaitė_Pirmininke_TF.jpg',
-    },
-    {
-        name: 'Ugnė Bičkauskaitė',
-        title: 'VU SA TSPMI pirmininkė',
-        avatar: '/img/koordinatoriu-nuotraukos/taryba/Ugnė Bičkauskaitė_Pirmininkė_TSPMI.jpg',
-    },
-    {
-        name: 'Justinas Brazaitis',
-        title: 'VU SA VM pirmininkas (iki 2021 gruodžio mėn.)',
-        avatar: '/img/koordinatoriu-nuotraukos/taryba/Justinas Brazaitis – VU SA VM Pirmininkas (iki 2021 gruodžio mėn.).jpg',
-    },
-    {
-        name: 'Edgaras Kodis',
-        title: 'VU SA VM pirmininkas (nuo 2021 gruodžio mėn.)',
-        avatar: '/img/koordinatoriu-nuotraukos/taryba/Edgaras Kodis_Pirmininkas_VM(nuo 2021-12).jpg',
-    },
-
-]
 </script>
 
 # VU SA Taryba
@@ -105,8 +18,8 @@ prezidentas, kuris organizuoja šio valdymo organo veiklą.
 
 ::: details 2021–2022 m. VU SA Tarybą sudarė...
 
-<section class="grid grid-cols-2 gap-6 p-4" >
-    <PersonAvatar :size="56" :src="member.avatar" v-for="member in members" >
+<section class="grid grid-cols-1 sm:grid-cols-2 gap-6 p-4" >
+    <PersonAvatar :size="56" :src="member.avatar" v-for="member in taryba" >
     <div class="flex flex-col leading-5">
         <strong class="text-md/4">{{member.name}}</strong>
         <span class="text-xs">{{ member.title}}</span></div>

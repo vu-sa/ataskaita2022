@@ -7,7 +7,7 @@
         object-fit="cover"
         round
         :src="src"
-      />
+      ></NAvatar>
     </div>
     <div><slot /></div>
   </div>
@@ -17,6 +17,7 @@
 import { NAvatar } from "naive-ui";
 
 defineProps<{
+  name?: string;
   src: string;
   size?: number;
 }>();

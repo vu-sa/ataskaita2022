@@ -52,8 +52,8 @@ export default {
                         collapsed: true,
                         items: [
                             { text: 'VU SR projects', link: '/en/stipri-organizacija/vu-sa-projektai' },
-                            { text: 'Representation at VU', link: '/en/stipri-organizacija/projektu-atnaujinimas' },
-                            { text: 'Cooperation', link: '/en/stipri-organizacija/isf' },
+                            { text: 'VU SR process renewal', link: '/en/stipri-organizacija/projektu-atnaujinimas' },
+                            { text: 'Institutional Strengthening Fund', link: '/en/stipri-organizacija/isf' },
                         ]
                     },
                     {

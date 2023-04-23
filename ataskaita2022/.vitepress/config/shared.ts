@@ -1,7 +1,7 @@
 export const sharedConfig = {
     socialLinks: [
         { icon: 'facebook', link: 'https://www.facebook.com/VUstudentuatstovybe' },
-        { icon: 'instagram', link: 'https://www.instagram.com/vustudentuatstovybe/' },
+        { icon: 'instagram', link: 'https://www.instagram.com/vustudentuatstovybe/' }
     ],
 
       search: {

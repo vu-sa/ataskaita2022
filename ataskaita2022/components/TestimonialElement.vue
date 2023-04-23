@@ -7,7 +7,7 @@
         </div>
         <div class="relative p-8">
           <svg
-            class="absolute w-48 h-48 text-zinc-500/10 right-8 -bottom-8"
+            class="absolute w-36 h-36 text-zinc-500/10 dark:text-zinc-100/20 right-8 -bottom-8"
             xmlns="http://www.w3.org/2000/svg"
             xmlns:xlink="http://www.w3.org/1999/xlink"
             viewBox="0 0 24 24"

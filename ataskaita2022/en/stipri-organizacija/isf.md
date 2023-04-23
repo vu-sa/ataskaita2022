@@ -7,11 +7,26 @@ competences of the organization members and managing human resources.
 The Fund aims to ensure the conditions for institutional strengthening
 and the consistent development of competences in the organization.
 
-Institutional strengthening is processes focused on the need-based
+::: tip Institutional strengthening - what is it?
+
+Processes focused on the need-based
 improvement of an organization and its individual units or activities,
 the development of general and specific competences of its members,
 strengthening of institutional memory, initiation of the development of
 tools, tools and methods necessary for activities.
+
+:::
+
+::: details In Year 2021–2022 Institutional Strengthening Fund was led by:
+
+- Augustė Grakavinaitė (pirmininkė)
+- Laima Jasionytė
+- Inga Vederytė
+- Gintarė Zinkevičiūtė
+- Julija Jarutytė
+- Goda Žvirblytė (iki 2022 vasario mėn.)
+
+:::
 
 ## Projects
 

@@ -13,9 +13,6 @@ hero:
     - theme: brand
       text: Find out about 2021-2022
       link: /en/vu-sa/vu-sa
-    - theme: alt
-      text: See the latest report
-      link: https://vusa.lt
 
 features:
   - title: Greetings

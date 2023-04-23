@@ -15,6 +15,17 @@ stiprinimą, veikloms reikalingų įrankių, priemonių bei metodų kūrimo
 inicijavimą.
 :::
 
+::: details 2021–2022 m. Institucinio stiprinimo fondą sudarė...
+
+- Augustė Grakavinaitė (pirmininkė)
+- Laima Jasionytė
+- Inga Vederytė
+- Gintarė Zinkevičiūtė
+- Julija Jarutytė
+- Goda Žvirblytė (iki 2022 vasario mėn.)
+
+:::
+
 ## Vykdyti projektai
 
 Šiais metais Institucinio stiprinimo fondas ne tik rūpinosi
