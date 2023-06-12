@@ -2,10 +2,6 @@
 
 ## **2021-05-31, Dėl mokslo ir studijų įstatymo nr. XI-242 76, 82, 82(1) straipsnių pakeitimo ir papildymo 82(2) straipsniu projekto**
 
-::: tip 📝 Nuoroda
-Skaityk raštą [čia](<https://vusa.lt/uploads/files/Raštai,%20pozicijos,%20dokumentai/2021-05-31,%20SR-I-21-11,%20Dėl%20mokslo%20ir%20studijų%20įstatymo%20nr.%20XI-242%2076,%2082,%2082(1)%20straipsnių%20pakeitimo%20ir%20papildymo%2082(2)%20straipsniu%20projekto.pdf>).
-:::
-
 VU SA ataskaitiniu laikotarpiu teikė siūlymus _Mokslo ir studijų
 įstatymo nr. XI-242 76, 82, 82(1) straipsnių pakeitimo ir papildymo
 82(2) straipsniu projektui_, kuriuo buvo siekiama gerinti finansinės

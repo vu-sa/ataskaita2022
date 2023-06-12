@@ -4,7 +4,7 @@ outline: deep
 
 <script setup lang="ts">
 import { teamPhotos, biuras } from '../../data/bendruomene.EN'
-import { socakad, atstovai, kom, mark, hr, integration, admin, pkp, intl, lsp, other } from '../../data/bendruomene'
+import { socakad, atstovai, kom, mark, hr, org, integration, admin, pkp, intl, lsp, other } from '../../data/bendruomene'
 import TeamAvatarLayout from '../../components/TeamAvatarLayout.vue'
 </script>
 

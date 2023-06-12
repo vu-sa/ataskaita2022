@@ -3,7 +3,7 @@ outline: deep
 ---
 
 <script setup lang="ts">
-import { teamPhotos, biuras, socakad, atstovai, kom, mark, hr, integration, admin, pkp, intl, lsp, other } from '../data/bendruomene'
+import { teamPhotos, biuras, socakad, atstovai, kom, org, mark, hr, integration, admin, pkp, intl, lsp, other } from '../data/bendruomene'
 import TeamAvatarLayout from '../components/TeamAvatarLayout.vue'
 </script>
 

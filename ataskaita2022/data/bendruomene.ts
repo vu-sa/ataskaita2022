@@ -7,17 +7,17 @@ export const teamPhotos = [
   {
     link: "/ataskaita-2022/img/koordinatoriu-nuotraukos/bendros/Taryba-2.jpg",
     title: "VU SA Taryba",
-    href: "/vu-sa/taryba",
+    href: "/ataskaita-2022/vu-sa/taryba",
   },
   {
     link: "/ataskaita-2022/img/kitos-nuotraukos/Parlamentas.jpg",
     title: "VU SA Parlamentas",
-    href: "/vu-sa/parlamentas",
+    href: "/ataskaita-2022/vu-sa/parlamentas",
   },
   {
     link: "/ataskaita-2022/img/kitos-nuotraukos/ISF.jpg",
     title: "Institucinio stiprinimo fondas",
-    href: "/stipri-organizacija/isf",
+    href: "/ataskaita-2022/stipri-organizacija/isf",
   },
   {
     link: "/ataskaita-2022/img/koordinatoriu-nuotraukos/bendros/Socialinio-akademinio-proceso-koordinatoriai-2.jpg",
