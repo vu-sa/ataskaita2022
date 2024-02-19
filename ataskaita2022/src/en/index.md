@@ -45,7 +45,7 @@ features:
 import TestimonialElement from "../../components/TestimonialElement.vue";
 </script>
 
-<TestimonialElement img-src="/ataskaita-2022/img/sveikinimai/neda.jpg" person-name="Neda Žutautaitė" person-position="VU SR president" href="/en/prezidentes-kalba" button-text="Speech of the president">
+<TestimonialElement img-src="/img/sveikinimai/neda.jpg" person-name="Neda Žutautaitė" person-position="VU SR president" href="/en/prezidentes-kalba" button-text="Speech of the president">
 We would not have done all this and many things not yet listed without
 solid partnerships and united work together! So I would like to say a
 big THANK YOU to everyone who contributed to making it better for the
